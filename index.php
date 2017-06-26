@@ -23,98 +23,7 @@
 <body class="page-homepage-carousel">
 <!-- Wrapper -->
 <div class="wrapper">
-<!-- Header -->
-<div class="navigation-wrapper">
-    <div class="secondary-navigation-wrapper">
-        <div class="container">
-            <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">000-123-456-789</span></div>
-            <ul class="secondary-navigation list-unstyled pull-right">
-                <li><a href="#">Prospective Students</a></li>
-                <li><a href="#">Current Students</a></li>
-                <li><a href="#">Faculty & Staff</a></li>
-                <li><a href="#">Alumni</a></li>
-            </ul>
-        </div>
-    </div><!-- /.secondary-navigation -->
-    <div class="primary-navigation-wrapper">
-        <header class="navbar" id="top" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="navbar-brand nav" id="brand">
-                        <a href="index-2.html"><img src="assets/img/logo.png" alt="brand"></a>
-                    </div>
-                </div>
-                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                    <ul class="nav navbar-nav">
-                        <li class="active">
-                            <a href="#" class="has-child no-link">Home</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="index-2.html">Homepage Education</a></li>
-                                <li><a href="homepage-courses.html">Homepage Courses</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class=" has-child no-link">Courses</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="course-landing-page.html">Course Landing Page</a></li>
-                                <li><a href="course-listing.html">Course Listing</a></li>
-                                <li><a href="course-detail-v1.html">Course Detail v1</a></li>
-                                <li><a href="course-detail-v2.html">Course Detail v2</a></li>
-                                <li><a href="course-detail-v3.html">Course Detail v3</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Events</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="event-listing-images.html">Events Listing with images</a></li>
-                                <li><a href="event-listing.html">Events Listing</a></li>
-                                <li><a href="event-grid.html">Events Grid</a></li>
-                                <li><a href="event-detail.html">Event Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about-us.html">About Us</a>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Blog</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="blog-listing.html">Blog listing</a></li>
-                                <li><a href="blog-detail.html">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Pages</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="full-width.html">Fullwidth</a></li>
-                                <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                                <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                                <li><a href="microsite.html">Microsite</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="members.html">Members</a></li>
-                                <li><a href="member-detail.html">Member Detail</a></li>
-                                <li><a href="register-sign-in.html">Register & Sign In</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact-us.html">Contact Us</a>
-                        </li>
-                    </ul>
-                </nav><!-- /.navbar collapse-->
-            </div><!-- /.container -->
-        </header><!-- /.navbar -->
-    </div><!-- /.primary-navigation -->
-    <div class="background">
-        <img src="assets/img/background-city.png"  alt="background">
-    </div>
-</div>
-<!-- end Header -->
+<?php include 'header.php';?>
 
 <!-- Page Content -->
 <div id="page-content">
@@ -230,7 +139,7 @@
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.html">Conservatory Exhibit: The garden of india a country and culture revealed</a>
+                                    <a href="event-detail.php">Conservatory Exhibit: The garden of india a country and culture revealed</a>
                                 </header>
                                 <div class="additional-info">Matthaei Botanical Gardens</div>
                             </aside>
@@ -242,7 +151,7 @@
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.html">February Half-Term Activities: Big Stars and Little Secrets </a>
+                                    <a href="event-detail.php">February Half-Term Activities: Big Stars and Little Secrets </a>
                                 </header>
                                 <div class="additional-info clearfix" >Pitt Rivers and Natural History Museums</div>
                             </aside>
@@ -254,7 +163,7 @@
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.html">The Orchestra of the Age of Enlightenment perform with Music</a>
+                                    <a href="event-detail.php">The Orchestra of the Age of Enlightenment perform with Music</a>
                                 </header>
                                 <div class="additional-info">Faculty of Music</div>
                             </aside>
@@ -269,9 +178,7 @@
                     </header>
                     <div class="section-content">
                         <img src="assets/img/students.jpg" alt="" class="add-margin">
-                        <p><strong>Welcome o Victoria.</strong> Premium HTML Template for schools, universieties and other educational institutes.
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet semper tincidunt.
-                            Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
+                        <p><strong>Welcome o Victoria.</strong>Find out more about Victoria University of Wellington, New Zealand’s globally ranked capital city university, and all that it has to offer. </p>
                         <a href="#" class="read-more stick-to-bottom">Read More</a>
                     </div><!-- /.section-content -->
                 </section><!-- /.about -->
@@ -291,8 +198,7 @@
                         <figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure>
                         <article class="paragraph-wrapper">
                             <div class="inner">
-                                <header>Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.</header>
+                                <header>The class representative provides a useful way to communicate feedback to the teaching staff during the course. They also work with the VUWSA Education Office on any academic issues that arise in their course. Reps are elected by students by the third week of classes every trimester. Being a rep requires a weekly commitment.</header>
                                 <footer>Claire Doe</footer>
                             </div>
                         </article>
@@ -369,8 +275,9 @@
                                     </span>
                                 </div><!-- /input-group -->
                             </div><!-- /.newsletter -->
-                            <p class="opacity-50">Ut tincidunt, quam in tincidunt vestibulum, turpis ipsum porttitor nisi, et fermentum augue
-                                lit eu neque. In at tempor dolor, sit amet dictum lacus. Praesent porta orci eget laoreet ultrices.
+                            <p class="opacity-50">Learn to design and creatively apply emerging and established technology to solve problems with the School of Engineering and Computer Science.
+
+Our innovative and flexible programmes will prepare you for successful careers as digital engineers and computer scientists. Work with students from all over the world in an inspiring and supportive learning environment.
                             </p>
                         </div><!-- /.section-content -->
                     </header>
@@ -424,7 +331,7 @@
                                                 <header>15 minutes ago</header>
                                                 <figure><a href="#">@Victoria</a></figure>
                                                 <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam odio augue, accumsan ut massa ut, faucibus gravida turpis.
+                                                   Enrolment and course advice
                                                     <a href="http://bit.ly/1bMyz64">http://bit.ly/1bMyz64</a>
                                                 </p>
                                             </article><!-- /.twitter-post -->
@@ -434,7 +341,7 @@
                                                 <header>2 hours ago</header>
                                                 <figure><a href="#">@Victoria</a></figure>
                                                 <p>
-                                                    Nullam odio augue, accumsan ut massa ut, faucibus gravida turpis. Nulla eleifend libero mi, at consequat tellus.
+                                                    Student conduct and feedback
                                                     <a href="http://bit.ly/1bMyz64">http://bit.ly/1bMyz64</a>
                                                 </p>
                                             </article><!-- /.twitter-post -->
@@ -444,7 +351,7 @@
                                                 <header>February 02, 2014</header>
                                                 <figure><a href="#">@Victoria</a></figure>
                                                 <p>
-                                                    Ut at arcu sed justo laoreet iaculis ut nec leo. Aliquam laoreet orci eu egestas fermentum.
+                                                   Examinations and assessments
                                                     <a href="http://bit.ly/1bMyz64">http://bit.ly/1bMyz64</a>
                                                 </p>
                                             </article><!-- /.twitter-post -->
@@ -505,25 +412,25 @@
                     <div class="section-content">
                         <div class="professors">
                             <article class="professor-thumbnail">
-                                <figure class="professor-image"><a href="member-detail.html"><img src="assets/img/professor.jpg" alt=""></a></figure>
+                                <figure class="professor-image"><a href="member-detail.php"><img src="assets/img/professor.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="member-detail.html">Prof. Mathew Davis</a>
+                                        <a href="member-detail.php">Prof. Mathew Davis</a>
                                         <div class="divider"></div>
                                         <figure class="professor-description">Applied Science and Engineering</figure>
                                     </header>
-                                    <a href="member-detail.html" class="show-profile">Show Profile</a>
+                                    <a href="member-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
                             </article><!-- /.professor-thumbnail -->
                             <article class="professor-thumbnail">
-                                <figure class="professor-image"><a href="member-detail.html"><img src="assets/img/professor-02.jpg" alt=""></a></figure>
+                                <figure class="professor-image"><a href="member-detail.php"><img src="assets/img/professor-02.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="member-detail.html">Prof. Jane Stairway</a>
+                                        <a href="member-detail.php">Prof. Jane Stairway</a>
                                         <div class="divider"></div>
                                         <figure class="professor-description">Applied Science and Engineering</figure>
                                     </header>
-                                    <a href="member-detail.html" class="show-profile">Show Profile</a>
+                                    <a href="member-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
                             </article><!-- /.professor-thumbnail -->
                             <a href="#" class="read-more stick-to-bottom">All Professors</a>
@@ -605,94 +512,7 @@
 <!-- end Page Content -->
 
 <!-- Footer -->
-<footer id="page-footer">
-    <section id="footer-top">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="footer-social">
-                    <figure>Follow us:</figure>
-                    <div class="icons">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                    </div><!-- /.icons -->
-                </div><!-- /.social -->
-                <div class="search pull-right">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    <span class="input-group-btn">
-                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                    </span>
-                    </div><!-- /input-group -->
-                </div><!-- /.pull-right -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-top -->
-
-    <section id="footer-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-12">
-                    <aside class="logo">
-                        <img src="assets/img/logo-white.png" class="vertical-center">
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Contact Us</h4></header>
-                        <address>
-                            <strong>University of Victoria</strong>
-                            <br>
-                            <span>4877 Spruce Drive</span>
-                            <br><br>
-                            <span>West Newton, PA 15089</span>
-                            <br>
-                            <abbr title="Telephone">Telephone:</abbr> +1 (734) 123-4567
-                            <br>
-                            <abbr title="Email">Email:</abbr> <a href="#">questions@youruniversity.com</a>
-                        </address>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Important Links</h4></header>
-                        <ul class="list-links">
-                            <li><a href="#">Future Students</a></li>
-                            <li><a href="#">Alumni</a></li>
-                            <li><a href="#">Give a Donation</a></li>
-                            <li><a href="#">Professors</a></li>
-                            <li><a href="#">Libary & Health</a></li>
-                            <li><a href="#">Research</a></li>
-                        </ul>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>About Victoria</h4></header>
-                        <p>Aliquam feugiat turpis quis felis adipiscing, non pulvinar odio lacinia.
-                            Aliquam elementum pharetra fringilla. Duis blandit, sapien in semper vehicula,
-                            tellus elit gravida odio, ac tincidunt nisl mi at ante. Vivamus tincidunt nunc nibh.
-                        </p>
-                        <div>
-                            <a href="#" class="read-more">All News</a>
-                        </div>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <div class="background"><img src="assets/img/background-city.png" class="" alt=""></div>
-    </section><!-- /#footer-content -->
-
-    <section id="footer-bottom">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="copyright">© Victoria University of Wellington, All rights reserved</div><!-- /.copyright -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-bottom -->
-
-</footer>
+<?php include 'footer.php';?>
 <!-- end Footer -->
 
 </div>

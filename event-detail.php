@@ -23,96 +23,7 @@
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
-<div class="navigation-wrapper">
-    <div class="secondary-navigation-wrapper">
-        <div class="container">
-            <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">000-123-456-789</span></div>
-            <ul class="secondary-navigation list-unstyled pull-right">
-                <li><a href="#">Prospective Students</a></li>
-                <li><a href="#">Current Students</a></li>
-                <li><a href="#">Faculty & Staff</a></li>
-                <li><a href="#">Alumni</a></li>
-            </ul>
-        </div>
-    </div><!-- /.secondary-navigation -->
-    <div class="primary-navigation-wrapper">
-        <header class="navbar" id="top" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="navbar-brand nav" id="brand">
-                        <a href="index-2.html"><img src="assets/img/logo.png" alt="brand"></a>
-                    </div>
-                </div>
-                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                    <ul class="nav navbar-nav">
-                        <li class="active">
-                            <a href="#" class="has-child no-link">Home</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="index-2.html">Homepage Education</a></li>
-                                <li><a href="homepage-courses.html">Homepage Courses</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class=" has-child no-link">Courses</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="course-landing-page.html">Course Landing Page</a></li>
-                                <li><a href="course-listing.html">Course Listing</a></li>
-                                <li><a href="course-detail-v1.html">Course Detail v1</a></li>
-                                <li><a href="course-detail-v2.html">Course Detail v2</a></li>
-                                <li><a href="course-detail-v3.html">Course Detail v3</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Events</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="event-listing-images.html">Events Listing with images</a></li>
-                                <li><a href="event-listing.html">Events Listing</a></li>
-                                <li><a href="event-grid.html">Events Grid</a></li>
-                                <li><a href="event-detail.html">Event Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about-us.html">About Us</a>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Blog</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="blog-listing.html">Blog listing</a></li>
-                                <li><a href="blog-detail.html">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Pages</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="full-width.html">Fullwidth</a></li>
-                                <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                                <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                                <li><a href="microsite.html">Microsite</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="members.html">Members</a></li>
-                                <li><a href="member-detail.html">Member Detail</a></li>
-                                <li><a href="register-sign-in.html">Register & Sign In</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact-us.html">Contact Us</a>
-                        </li>
-                    </ul>
-                </nav><!-- /.navbar collapse-->
-            </div><!-- /.container -->
-        </header><!-- /.navbar -->
-    </div><!-- /.primary-navigation -->
-    <div class="background">
-        <img src="assets/img/background-city.png"  alt="background">
-    </div>
-</div>
+<?php include 'header.php';?>
 <!-- end Header -->
 
 <!-- Breadcrumb -->
@@ -128,7 +39,7 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>Conservatory Exhibit: The garden of india a country and culture revealed</h1></header>
+        <header><h1>Welcoming Fanglue Zhang to Computer Graphics</h1></header>
         <div class="row">
             <!-- Course Image -->
             <div class="col-md-2 col-sm-3">
@@ -166,25 +77,9 @@
                             <section id="course-info">
                                 <header><h2>Event Info</h2></header>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla, volutpat elit non,
-                                    tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet. Vestibulum vitae
-                                    aliquet felis, ornare feugiat elit. Nulla varius condimentum elit, sed pulvinar leo sollicitudin vel.
-                                </p>
-                                <p>
-                                    Maecenas sodales, nisl eget dignissim molestie, ligula est consectetur metus, et mollis justo urna
-                                    sit amet nulla. Etiam lectus arcu, pellentesque eu tellus tempor, tristique ultrices leo. Nullam at
-                                    felis mauris. Aenean in neque eu ligula tempor ornare. Mauris tristique in elit a blandit. Nam laoreet
-                                    vulputate nisi eu accumsan. Sed faucibus arcu nec est facilisis dignissim. Fusce risus leo, euismod ut
-                                    cursus vitae, imperdiet id quam. Pellentesque habitant morbi tristique senectus et netus et malesuada
-                                    fames ac turpis egestas. Fusce mollis mi vulputate leo vestibulum, quis scelerisque libero condimentum.
-                                    Praesent rutrum consequat lacus quis suscipit. Proin dapibus mi non semper lobortis.
-                                </p>
-                                <p>
-                                    Ut dignissim placerat est, sit amet tincidunt enim. Sed nisi nisi, ornare vitae lacinia a, mattis quis tortor.
-                                    Suspendisse ornare adipiscing nunc, sit amet aliquam diam condimentum quis. Sed in leo sit amet sapien
-                                    porttitor vestibulum a ut est. In hac habitasse platea dictumst. Mauris quam dui, cursus nec lorem non,
-                                    pellentesque elementum dui. Vestibulum volutpat, risus vitae scelerisque fringilla, ligula nisi egestas
-                                    sem, id vulputate ligula nulla ac ligula.
+                                  Learn to design and creatively apply emerging and established technology to solve problems with the School of Engineering and Computer Science.
+
+Our innovative and flexible programmes will prepare you for successful careers as digital engineers and computer scientists. Work with students from all over the world in an inspiring and supportive learning environment.
                                 </p>
                             </section><!-- /#course-info -->
 
@@ -202,8 +97,7 @@
                                             <a href="member-detail.html"><header>Claire Doe</header></a>
                                             <figure>Marketing Specialist</figure>
                                             <p>
-                                                Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
+                                               The School of Engineering and Computer Science (ECS) is delighted to welcome Dr Fanglue Zhang who has arrived from China to take up the position of computer graphics lecturer. Fanglue holds a doctoral degree from Tsinghua University where he subsequently spent two years as a post doctoral researcher. His research interests include computer graphics, computational photography, and image and video analysis ...
                                             </p>
                                         </div>
                                     </article>
@@ -215,8 +109,7 @@
                                             <a href="member-detail.html"><header>Rachel Britain</header></a>
                                             <figure>Data Architect</figure>
                                             <p>
-                                                Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
+                                          A local start up is praising Victoria University of Wellington’s Software Engineering programme for delivering hard to find job candidates. L R: Victoria University alumni Stephen Nelson, Tim Jones and Luke Inkster at Montoux. Montoux offers software that provides insights into life insurance companies’ products, pricing and profitability. The fast growing Wellington based business has clients in New ...
                                             </p>
                                         </div>
                                     </article>
@@ -228,8 +121,7 @@
                                             <a href="member-detail.html"><header>John Doe</header></a>
                                             <figure>Senior Designer</figure>
                                             <p>
-                                                Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
+                                             Engineering and Computer Science graduates Glen Peek and John Gelbolingo were two of the innovative entrepreneurs who took part in the Victoria Entrepreneur Bootcamp Final Showcase recently, taking their smart business ideas from the whiteboard to the tech world with the help of Viclink, Victoria’ commercialisation office… It was the show that had it all—from romance and entertainment, to altruism ...
                                             </p>
                                         </div>
                                     </article>
@@ -326,94 +218,7 @@
 <!-- end Page Content -->
 
 <!-- Footer -->
-<footer id="page-footer">
-    <section id="footer-top">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="footer-social">
-                    <figure>Follow us:</figure>
-                    <div class="icons">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                    </div><!-- /.icons -->
-                </div><!-- /.social -->
-                <div class="search pull-right">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    <span class="input-group-btn">
-                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                    </span>
-                    </div><!-- /input-group -->
-                </div><!-- /.pull-right -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-top -->
-
-    <section id="footer-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-12">
-                    <aside class="logo">
-                        <img src="assets/img/logo-white.png" class="vertical-center">
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Contact Us</h4></header>
-                        <address>
-                            <strong>University of Victoria</strong>
-                            <br>
-                            <span>4877 Spruce Drive</span>
-                            <br><br>
-                            <span>West Newton, PA 15089</span>
-                            <br>
-                            <abbr title="Telephone">Telephone:</abbr> +1 (734) 123-4567
-                            <br>
-                            <abbr title="Email">Email:</abbr> <a href="#">questions@youruniversity.com</a>
-                        </address>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Important Links</h4></header>
-                        <ul class="list-links">
-                            <li><a href="#">Future Students</a></li>
-                            <li><a href="#">Alumni</a></li>
-                            <li><a href="#">Give a Donation</a></li>
-                            <li><a href="#">Professors</a></li>
-                            <li><a href="#">Libary & Health</a></li>
-                            <li><a href="#">Research</a></li>
-                        </ul>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>About Victoria</h4></header>
-                        <p>Aliquam feugiat turpis quis felis adipiscing, non pulvinar odio lacinia.
-                            Aliquam elementum pharetra fringilla. Duis blandit, sapien in semper vehicula,
-                            tellus elit gravida odio, ac tincidunt nisl mi at ante. Vivamus tincidunt nunc nibh.
-                        </p>
-                        <div>
-                            <a href="#" class="read-more">All News</a>
-                        </div>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <div class="background"><img src="assets/img/background-city.png" class="" alt=""></div>
-    </section><!-- /#footer-content -->
-
-    <section id="footer-bottom">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="copyright">© Victoria University of Wellington, All rights reserved</div><!-- /.copyright -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-bottom -->
-
-</footer>
+<?php include 'footer.php';?>
 <!-- end Footer -->
 
 </div>

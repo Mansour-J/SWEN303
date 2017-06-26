@@ -25,96 +25,7 @@
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
-<div class="navigation-wrapper">
-    <div class="secondary-navigation-wrapper">
-        <div class="container">
-            <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">000-123-456-789</span></div>
-            <ul class="secondary-navigation list-unstyled pull-right">
-                <li><a href="my-account.html#tab-profile"><i class="fa fa-user"></i>My Profile</a></li>
-                <li><a href="my-account.html#tab-my-courses">My Courses</a></li>
-                <li><a href="my-account.html#tab-change-password">Change Password</a></li>
-                <li><a href="index-2.html">Log Out</a></li>
-            </ul>
-        </div>
-    </div><!-- /.secondary-navigation -->
-    <div class="primary-navigation-wrapper">
-        <header class="navbar" id="top" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="navbar-brand nav" id="brand">
-                        <a href="index-2.html"><img src="assets/img/logo.png" alt="brand"></a>
-                    </div>
-                </div>
-                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                    <ul class="nav navbar-nav">
-                        <li class="active">
-                            <a href="#" class="has-child no-link">Home</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="index-2.html">Homepage Education</a></li>
-                                <li><a href="homepage-courses.html">Homepage Courses</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class=" has-child no-link">Courses</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="course-landing-page.html">Course Landing Page</a></li>
-                                <li><a href="course-listing.html">Course Listing</a></li>
-                                <li><a href="course-detail-v1.html">Course Detail v1</a></li>
-                                <li><a href="course-detail-v2.html">Course Detail v2</a></li>
-                                <li><a href="course-detail-v3.html">Course Detail v3</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Events</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="event-listing-images.html">Events Listing with images</a></li>
-                                <li><a href="event-listing.html">Events Listing</a></li>
-                                <li><a href="event-grid.html">Events Grid</a></li>
-                                <li><a href="event-detail.html">Event Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about-us.html">About Us</a>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Blog</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="blog-listing.html">Blog listing</a></li>
-                                <li><a href="blog-detail.html">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Pages</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="full-width.html">Fullwidth</a></li>
-                                <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                                <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                                <li><a href="microsite.html">Microsite</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="members.html">Members</a></li>
-                                <li><a href="member-detail.html">Member Detail</a></li>
-                                <li><a href="register-sign-in.html">Register & Sign In</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact-us.html">Contact Us</a>
-                        </li>
-                    </ul>
-                </nav><!-- /.navbar collapse-->
-            </div><!-- /.container -->
-        </header><!-- /.navbar -->
-    </div><!-- /.primary-navigation -->
-    <div class="background">
-        <img src="assets/img/background-city.png"  alt="background">
-    </div>
-</div>
+<?php include 'header.php';?>
 <!-- end Header -->
 
 <!-- Homepage Slider -->
@@ -167,7 +78,7 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-01.jpg"></a></div>
                             </figure>
                             <div class="description">
-                                <a href="course-detail-v1.html"><h3>Character Drawing: Basic and Advanced Principles</h3></a>
+                                <a href="course-detail-v1.html"><h3>Object-Oriented Paradigms	</h3></a>
                                 <a href="#" class="course-category">Art and Design</a>
                                 <hr>
                                 <div class="course-meta">
@@ -184,7 +95,7 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-02.jpg"></a></div>
                             </figure>
                             <div class="description">
-                                <a href="course-detail-v1.html"><h3>Architecture Photography: Power of Light and Shadows</h3></a>
+                                <a href="course-detail-v1.html"><h3>Introduction to Data Structures and Algorithms</h3></a>
                                 <a href="#" class="course-category">Photography</a>
                                 <hr>
                                 <div class="course-meta">
@@ -201,7 +112,7 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-03.jpg"></a></div>
                             </figure>
                             <div class="description">
-                                <a href="course-detail-v1.html"><h3>How to find long term customers</h3></a>
+                                <a href="course-detail-v1.html"><h3>Introduction to Computer Science</h3></a>
                                 <a href="#" class="course-category">Marketing</a>
                                 <hr>
                                 <div class="course-meta">
@@ -218,7 +129,7 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-04.jpg"></a></div>
                             </figure>
                             <div class="description">
-                                <a href="course-detail-v1.html"><h3>Neuroscience for the Beginners: Complete Course</h3></a>
+                                <a href="course-detail-v1.html"><h3>Algorithms and Data Structures</h3></a>
                                 <a href="#" class="course-category">Science</a>
                                 <hr>
                                 <div class="course-meta">
@@ -247,9 +158,9 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-01.jpg"></a></div>
                             </figure>
                             <aside class="description">
-                                <a href="course-detail-v1.html"><h4>Neuroscience for the Beginners: Complete Course</h4></a>
+                                <a href="course-detail-v1.html"><h4>Programming Languages</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>This course considers ideas and techniques from Artificial Intelligence. It first introduces a range of search algorithms that are used throughout AI. It then examines applications and techniques of AI, including rule-based systems for embodying human expertise, algorithms for planning and problem solving, natural language processing, methods for machine learning, and neural nets and other computation intelligence techniques.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
@@ -264,9 +175,9 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-02.jpg"></a></div>
                             </figure>
                             <aside class="description">
-                                <a href="course-detail-v1.html"><h4>Architecture Photography: Power of Light and Shadows</h4></a>
+                                <a href="course-detail-v1.html"><h4>Introduction to Artificial Intelligence</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>This course examines techniques for developing correct and efficient algorithms for some important classes of problems in Computer Science. It explores methods for designing algorithms, including greedy algorithms, divide and conquer, dynamic programming and graph algorithms. It covers techniques for demonstrating the correctness of algorithms and for analysing their efficiency.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
@@ -283,7 +194,7 @@
                             <aside class="description">
                                 <a href="course-detail-v1.html"><h4>Character Drawing: Basic and Advanced Principles</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>Big Data refers to the large and often complex datasets generated in the modern world: data sources such as commercial customer records, internet transactions, environmental monitoring. This course provides an introduction to the theory and practice of working with Big Data. Students enrolling in this course should be familiar with the basics of statistical modelling and with programming.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
@@ -300,9 +211,9 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-04.jpg"></a></div>
                             </figure>
                             <aside class="description">
-                                <a href="course-detail-v1.html"><h4>Introduction to modo 701</h4></a>
+                                <a href="course-detail-v1.html"><h4>Engineering Mathematics with Logic and Statistics</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>Mathematical techniques employed by network and software engineers, including methods of combinatorics, logic, probability and decision theory. The course emphasises engineering applications of these techniques.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
@@ -317,9 +228,9 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-01.jpg"></a></div>
                             </figure>
                             <aside class="description">
-                                <a href="course-detail-v1.html"><h4>Become self marketer</h4></a>
+                                <a href="course-detail-v1.html"><h4>Professional Work Experience</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>Completion of the work experience requirement for the BE.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
@@ -334,9 +245,9 @@
                                 <div class="image-wrapper"><a href="course-detail-v1.html"><img src="assets/img/course-02.jpg"></a></div>
                             </figure>
                             <aside class="description">
-                                <a href="course-detail-v1.html"><h4>History in complex view</h4></a>
+                                <a href="course-detail-v1.html"><h4>Software Development</h4></a>
                                 <!--<a href="#" class="course-category">Science</a>-->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla</p>
+                                <p>This course develops a deeper understanding of object- oriented programming and associated practices. The focus is on programming techniques at the micro scale. Topics include: inheritance, polymorphism, genericity, error handling, testing and debugging. A sequence of short assignments will develop the key ideas and practices; rigour in testing will be developed through (automated) assessment of programme correctness.</p>
                                 <div class="course-meta">
                                     <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
@@ -361,8 +272,7 @@
                             <figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure>
                             <article class="paragraph-wrapper">
                                 <div class="inner">
-                                    <header>Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                        Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.</header>
+                                    <header>Learn to design and creatively apply emerging and established technology to solve problems with the School of Engineering and Computer Science.</header>
                                     <footer>Claire Doe</footer>
                                 </div>
                             </article>
@@ -373,8 +283,7 @@
                             <figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure>
                             <article class="paragraph-wrapper">
                                 <div class="inner">
-                                    <header>Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                        Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.</header>
+                                    <header>Our innovative and flexible programmes will prepare you for successful careers as digital engineers and computer scientists. Work with students from all over the world in an inspiring and supportive learning environment.</header>
                                     <footer>Claire Doe</footer>
                                 </div>
                             </article>
@@ -402,56 +311,56 @@
                         </thead>
                         <tbody>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">Introduction to modo 701</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Engineering in Context</a></th>
                             <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
                             <th>01-03-2014</th>
                             <th>3 months</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">Become self marketer</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Work Experience Preparation</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
                             <th>03-03-2014</th>
                             <th>2 lessons</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">How to find long term customers</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Project Management</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
                             <th>06-03-2014</th>
                             <th>1 month</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">Neuroscience and the future</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Group Project</a></th>
                             <th class="course-category"><a href="#">Science</a></th>
                             <th>21-03-2014</th>
                             <th>3 weeks</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">History in complex view</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Practical Work Experience</a></th>
                             <th class="course-category"><a href="#">History and Psychology</a></th>
                             <th>06-04-2014</th>
                             <th>1 lesson</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">Become self marketer</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Professional Practice</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
                             <th>03-03-2014</th>
                             <th>2 lessons</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">How to find long term customers</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Network Applications</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
                             <th>06-03-2014</th>
                             <th>1 month</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">Neuroscience and the future</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Distributed Computing in Grids and Clouds	</a></th>
                             <th class="course-category"><a href="#">Science</a></th>
                             <th>21-03-2014</th>
                             <th>3 weeks</th>
                         </tr>
                         <tr>
-                            <th class="course-title"><a href="course-detail-v1.html">History in complex view</a></th>
-                            <th class="course-category"><a href="#">History and Psychology</a></th>
+                            <th class="course-title"><a href="course-detail-v1.html">Structured Methods	</a></th>
+                            <th class="course-category"><a href="#">History and Methods</a></th>
                             <th>06-04-2014</th>
                             <th>1 lesson</th>
                         </tr>
@@ -505,94 +414,7 @@
 <!-- end Page Content -->
 
 <!-- Footer -->
-<footer id="page-footer">
-    <section id="footer-top">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="footer-social">
-                    <figure>Follow us:</figure>
-                    <div class="icons">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                    </div><!-- /.icons -->
-                </div><!-- /.social -->
-                <div class="search pull-right">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    <span class="input-group-btn">
-                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                    </span>
-                    </div><!-- /input-group -->
-                </div><!-- /.pull-right -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-top -->
-
-    <section id="footer-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-12">
-                    <aside class="logo">
-                        <img src="assets/img/logo-white.png" class="vertical-center">
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Contact Us</h4></header>
-                        <address>
-                            <strong>University of Victoria</strong>
-                            <br>
-                            <span>4877 Spruce Drive</span>
-                            <br><br>
-                            <span>West Newton, PA 15089</span>
-                            <br>
-                            <abbr title="Telephone">Telephone:</abbr> +1 (734) 123-4567
-                            <br>
-                            <abbr title="Email">Email:</abbr> <a href="#">questions@youruniversity.com</a>
-                        </address>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Important Links</h4></header>
-                        <ul class="list-links">
-                            <li><a href="#">Future Students</a></li>
-                            <li><a href="#">Alumni</a></li>
-                            <li><a href="#">Give a Donation</a></li>
-                            <li><a href="#">Professors</a></li>
-                            <li><a href="#">Libary & Health</a></li>
-                            <li><a href="#">Research</a></li>
-                        </ul>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>About Victoria</h4></header>
-                        <p>Aliquam feugiat turpis quis felis adipiscing, non pulvinar odio lacinia.
-                            Aliquam elementum pharetra fringilla. Duis blandit, sapien in semper vehicula,
-                            tellus elit gravida odio, ac tincidunt nisl mi at ante. Vivamus tincidunt nunc nibh.
-                        </p>
-                        <div>
-                            <a href="#" class="read-more">All News</a>
-                        </div>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <div class="background"><img src="assets/img/background-city.png" class="" alt=""></div>
-    </section><!-- /#footer-content -->
-
-    <section id="footer-bottom">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="copyright">© Victoria University of Wellington, All rights reserved</div><!-- /.copyright -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-bottom -->
-
-</footer>
+<?php include 'footer.php';?>
 <!-- end Footer -->
 
 </div>

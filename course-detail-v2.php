@@ -23,97 +23,7 @@
 <!-- Wrapper -->
 <div class="wrapper">
     <!-- Header -->
-    <div class="navigation-wrapper">
-        <div class="secondary-navigation-wrapper">
-            <div class="container">
-                <div class="navigation-contact pull-left">Call Us: <span class="opacity-70">000-123-456-789</span></div>
-                <ul class="secondary-navigation list-unstyled pull-right">
-                    <li><a href="my-account.html#tab-profile"><i class="fa fa-user"></i>My Profile</a></li>
-                    <li><a href="my-account.html#tab-my-courses">My Courses</a></li>
-                    <li><a href="my-account.html#tab-change-password">Change Password</a></li>
-                    <li><a href="index-2.html">Log Out</a></li>
-                </ul>
-            </div>
-        </div><!-- /.secondary-navigation -->
-        <div class="primary-navigation-wrapper">
-            <header class="navbar" id="top" role="banner">
-                <div class="container">
-                    <div class="navbar-header">
-                        <button class="navbar-toggle" type="button" data-toggle="collapse"
-                                data-target=".bs-navbar-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <div class="navbar-brand nav" id="brand">
-                            <a href="index-2.html"><img src="assets/img/logo.png" alt="brand"></a>
-                        </div>
-                    </div>
-                    <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                        <ul class="nav navbar-nav">
-                            <li class="active">
-                                <a href="#" class="has-child no-link">Home</a>
-                                <ul class="list-unstyled child-navigation">
-                                    <li><a href="index-2.html">Homepage Education</a></li>
-                                    <li><a href="homepage-courses.html">Homepage Courses</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#" class=" has-child no-link">Courses</a>
-                                <ul class="list-unstyled child-navigation">
-                                    <li><a href="course-landing-page.html">Course Landing Page</a></li>
-                                    <li><a href="course-listing.html">Course Listing</a></li>
-                                    <li><a href="course-detail-v1.html">Course Detail v1</a></li>
-                                    <li><a href="course-detail-v2.html">Course Detail v2</a></li>
-                                    <li><a href="course-detail-v3.html">Course Detail v3</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#" class="has-child no-link">Events</a>
-                                <ul class="list-unstyled child-navigation">
-                                    <li><a href="event-listing-images.html">Events Listing with images</a></li>
-                                    <li><a href="event-listing.html">Events Listing</a></li>
-                                    <li><a href="event-grid.html">Events Grid</a></li>
-                                    <li><a href="event-detail.html">Event Detail</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="about-us.html">About Us</a>
-                            </li>
-                            <li>
-                                <a href="#" class="has-child no-link">Blog</a>
-                                <ul class="list-unstyled child-navigation">
-                                    <li><a href="blog-listing.html">Blog listing</a></li>
-                                    <li><a href="blog-detail.html">Blog Detail</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#" class="has-child no-link">Pages</a>
-                                <ul class="list-unstyled child-navigation">
-                                    <li><a href="full-width.html">Fullwidth</a></li>
-                                    <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                                    <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                                    <li><a href="microsite.html">Microsite</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="members.html">Members</a></li>
-                                    <li><a href="member-detail.html">Member Detail</a></li>
-                                    <li><a href="register-sign-in.html">Register & Sign In</a></li>
-                                    <li><a href="shortcodes.html">Shortcodes</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="contact-us.html">Contact Us</a>
-                            </li>
-                        </ul>
-                    </nav><!-- /.navbar collapse-->
-                </div><!-- /.container -->
-            </header><!-- /.navbar -->
-        </div><!-- /.primary-navigation -->
-        <div class="background">
-            <img src="assets/img/background-city.png" alt="background">
-        </div>
-    </div>
+    <?php include 'header.php';?>
     <!-- end Header -->
 
     <!-- Breadcrumb -->
@@ -129,7 +39,7 @@
     <!-- Page Content -->
     <div id="page-content">
         <div class="container">
-            <header><h1>How to Find Long-Term Customers</h1></header>
+            <header><h1>Advanced Database Design and Implementation</h1></header>
             <div class="row">
                 <!-- Course Image -->
                 <div class="col-md-2">
@@ -181,12 +91,7 @@
                                 <section id="course-brief">
                                     <header><h2>Course Brief</h2></header>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna
-                                        fringilla, volutpat elit non,
-                                        tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                        Vestibulum vitae
-                                        aliquet felis, ornare feugiat elit. Nulla varius condimentum elit, sed pulvinar
-                                        leo sollicitudin vel.
+                                       This course explores a selection of the following topics: XML Databases, Cloud Databases, Data Warehouse and Object-Relational Databases. It examines features of these advanced database systems and analyses the new applications they facilitate.
                                     </p>
                                 </section><!-- /#course-brief -->
 
@@ -200,19 +105,13 @@
                                             <li>
                                                 <h5>Day 1:</h5>
                                                 <p class="description">
-                                                    In order for a business to grow, the entrepreneur must grow.
-                                                    First, the entrepreneur’s role will evolve from primarily being
-                                                    a “doer” to a manager then to a leader and ultimately to being a
-                                                    coach/mentor.
+                                                  Demonstrate a comprehensive understanding of cloud database structures and mechanisms they use to achieve high availability, scalability, network partition tolerance, and eventual consistency.
                                                 </p>
                                             </li>
                                             <li>
                                                 <h5>Day 2:</h5>
                                                 <p class="description">
-                                                    In order for a business to grow, the entrepreneur must grow.
-                                                    First, the entrepreneur’s role will evolve from primarily being
-                                                    a “doer” to a manager then to a leader and ultimately to being a
-                                                    coach/mentor.
+                                                  Set up cloud database clusters on the local host, design, implement, and query cloud NoSQL databases using Cassandra cloud database management systems.
                                                 </p>
                                             </li>
                                         </ul>
@@ -223,11 +122,7 @@
                                             <li>
                                                 <h5>Day 1:</h5>
                                                 <p class="description">
-                                                    Using the Leaders Bank and Trilogy Health Services stories we
-                                                    will look at how two businesses put in place people policies,
-                                                    practices, and a leadership model that led to high employee
-                                                    engagement, loyalty, and productivity that drove high customer
-                                                    satisfaction.
+                                                  Design, implement, and query a relational Data Warehouse.
                                                 </p>
                                             </li>
                                         </ul>
@@ -238,19 +133,13 @@
                                             <li>
                                                 <h5>08:00 am:</h5>
                                                 <p class="description">
-                                                    In order for a business to grow, the entrepreneur must grow.
-                                                    First, the entrepreneur’s role will evolve from primarily being
-                                                    a “doer” to a manager then to a leader and ultimately to being a
-                                                    coach/mentor.
+                                                    * Relational Data Model,
                                                 </p>
                                             </li>
                                             <li>
                                                 <h5>11:00 am:</h5>
                                                 <p class="description">
-                                                    In order for a business to grow, the entrepreneur must grow.
-                                                    First, the entrepreneur’s role will evolve from primarily being
-                                                    a “doer” to a manager then to a leader and ultimately to being a
-                                                    coach/mentor.
+                                                     * Transactional ACID (Atomicity, Consistency, Isolation, Durability) database properties,
                                                 </p>
                                             </li>
                                         </ul>
@@ -278,10 +167,7 @@
                                                 </a>
                                                 <figure>Marketing Specialist</figure>
                                                 <p>
-                                                    Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et,
-                                                    interdum semper quam. Fusce in interdum tortor.
-                                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit
-                                                    amet.
+                                                   There will be five assignments. A tentative assignment schedule is given on the lecture schedule page . In principle, each assignment will be issued on Monday and due on Friday next week.
                                                 </p>
                                             </div>
                                         </article>
@@ -298,10 +184,8 @@
                                                 </a>
                                                 <figure>Data Architect</figure>
                                                 <p>
-                                                    Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et,
-                                                    interdum semper quam. Fusce in interdum tortor.
-                                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit
-                                                    amet.
+                                                    Your essay should not exceed 5000 words. Submit the essay electronically as a .pdf file, and also print it and hand in a hard copy into the hand-in box. There will be no essay presentations this year.
+
                                                 </p>
                                             </div>
                                         </article>
@@ -318,10 +202,7 @@
                                                 </a>
                                                 <figure>Senior Designer</figure>
                                                 <p>
-                                                    Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et,
-                                                    interdum semper quam. Fusce in interdum tortor.
-                                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit
-                                                    amet.
+                                                    The assignment "one" asks you to design, and build a small cloud database and to exercise querying and updating it using _Cassandra_. The assignment "two" asks you to perform the set-up of a Cassandra cluster, and experiment with a number of performance and consistency issues. 
                                                 </p>
                                             </div>
                                         </article>
@@ -371,17 +252,13 @@
                                                     <h4 class="panel-title">
                                                         <a data-toggle="collapse" data-parent="#accordion"
                                                            href="#question-1">
-                                                            <span class="question">Lorem ipsum dolor sit amet, consectetur adipiscing elit?</span>
+                                                            <span class="question">FOUR</span>
                                                         </a>
                                                     </h4>
                                                 </div>
                                                 <div id="question-1" class="panel-collapse collapse in">
                                                     <div class="panel-body">
-                                                        Aliquam sed fermentum nulla. Praesent dictum, velit in
-                                                        condimentum volutpat,
-                                                        nulla orci vestibulum risus, et facilisis purus urna non metus.
-                                                        Donec aliquam
-                                                        urna et tempus luctus.
+                                                      The mark you get for your essay will be based on how interesting the content of your essay is, how readable the essay is, and how good your analysis of the problem is. You may find more about the assessment of the essay in essay 2017 guidelines that are accessible from the course home page.
                                                     </div>
                                                 </div>
                                             </div>
@@ -390,16 +267,13 @@
                                                     <h4 class="panel-title">
                                                         <a data-toggle="collapse" data-parent="#accordion"
                                                            href="#question-2">
-                                                            <span class="question">Fusce gravida varius justo sed porta?</span>
+                                                            <span class="question">THREE</span>
                                                         </a>
                                                     </h4>
                                                 </div>
                                                 <div id="question-2" class="panel-collapse collapse">
                                                     <div class="panel-body">
-                                                        Ut tincidunt dui non velit aliquet, quis porta quam
-                                                        vehicula. Vivamus suscipit hendrerit arcu. Nullam lacinia purus
-                                                        at porttitor
-                                                        varius. Aliquam rutrum feugiat tempor.
+                                                      Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignmnets will be assessed and returned within 2 weeks after the submission dues date.
                                                     </div>
                                                 </div>
                                             </div>
@@ -408,17 +282,13 @@
                                                     <h4 class="panel-title">
                                                         <a data-toggle="collapse" data-parent="#accordion"
                                                            href="#question-3">
-                                                            <span class="question">Vivamus ac risus cursus, eleifend lorem quis, viverra urna?</span>
+                                                            <span class="question">ONE</span>
                                                         </a>
                                                     </h4>
                                                 </div>
                                                 <div id="question-3" class="panel-collapse collapse">
                                                     <div class="panel-body">
-                                                        Aenean porttitor feugiat nibh. Phasellus et dolor id nulla
-                                                        dictum lacinia
-                                                        nec bibendum arcu. Vestibulum ante ipsum primis in faucibus orci
-                                                        luctus
-                                                        et ultrices posuere cubilia Curae
+                                                      Approval to submit assignments or essay late without penalty will only be granted in exceptional circumstances and if the arrangement is made prior to the due date. Any medical excuse must be accompanied by a doctor's certificate.
                                                     </div>
                                                 </div>
                                             </div>
@@ -427,19 +297,13 @@
                                                     <h4 class="panel-title">
                                                         <a data-toggle="collapse" data-parent="#accordion"
                                                            href="#question-4">
-                                                            <span class="question">Hasellus non nisl et quam tristique placerat.</span>
+                                                            <span class="question">TWO</span>
                                                         </a>
                                                     </h4>
                                                 </div>
                                                 <div id="question-4" class="panel-collapse collapse">
                                                     <div class="panel-body">
-                                                        Pellentesque a luctus libero. Integer mattis diam sem, nec
-                                                        ornare neque
-                                                        consequat id. Nullam malesuada lacus in rhoncus pellentesque.
-                                                        Mauris risus
-                                                        mauris, commodo ac volutpat eget, lacinia a risus. Aliquam nec
-                                                        semper libero,
-                                                        ac pharetra libero.
+                                                      Any assignment submitted after the due date will be penalized at the rate of 5% per day (a weekend counts as one day). Approval to submit assignments late without penalty will only be granted in exceptional circumstances and if the arrangement is made prior to the due date. Any medical excuse must be accompanied by a doctor's certificate.
                                                     </div>
                                                 </div>
                                             </div>
@@ -450,39 +314,10 @@
                                 <section id="course-info">
                                     <header><h2>Course Info</h2></header>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna
-                                        fringilla, volutpat elit non,
-                                        tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                        Vestibulum vitae
-                                        aliquet felis, ornare feugiat elit. Nulla varius condimentum elit, sed pulvinar
-                                        leo sollicitudin vel.
-                                    </p>
-                                    <p>
-                                        Maecenas sodales, nisl eget dignissim molestie, ligula est consectetur metus, et
-                                        mollis justo urna
-                                        sit amet nulla. Etiam lectus arcu, pellentesque eu tellus tempor, tristique
-                                        ultrices leo. Nullam at
-                                        felis mauris. Aenean in neque eu ligula tempor ornare. Mauris tristique in elit
-                                        a blandit. Nam laoreet
-                                        vulputate nisi eu accumsan. Sed faucibus arcu nec est facilisis dignissim. Fusce
-                                        risus leo, euismod ut
-                                        cursus vitae, imperdiet id quam. Pellentesque habitant morbi tristique senectus
-                                        et netus et malesuada
-                                        fames ac turpis egestas. Fusce mollis mi vulputate leo vestibulum, quis
-                                        scelerisque libero condimentum.
-                                        Praesent rutrum consequat lacus quis suscipit. Proin dapibus mi non semper
-                                        lobortis.
-                                    </p>
-                                    <p>
-                                        Ut dignissim placerat est, sit amet tincidunt enim. Sed nisi nisi, ornare vitae
-                                        lacinia a, mattis quis tortor.
-                                        Suspendisse ornare adipiscing nunc, sit amet aliquam diam condimentum quis. Sed
-                                        in leo sit amet sapien
-                                        porttitor vestibulum a ut est. In hac habitasse platea dictumst. Mauris quam
-                                        dui, cursus nec lorem non,
-                                        pellentesque elementum dui. Vestibulum volutpat, risus vitae scelerisque
-                                        fringilla, ligula nisi egestas
-                                        sem, id vulputate ligula nulla ac ligula.
+                                     Final Examination﻿
+There will be five assignments. A tentative assignment schedule is given on the lecture schedule page . In principle, each assignment will be issued on Monday and due on Friday next week.
+The assignment "one" asks you to design, and build a small cloud database and to exercise querying and updating it using _Cassandra_. The assignment "two" asks you to perform the set-up of a Cassandra cluster, and experiment with a number of performance and consistency issues. The assignment "three" asks you to design and build build a small cloud database collection and to exercise querying and updating it using _MongoDB_. The assignment "four" asks you to perform the set-up of a MongoDB cluster, and experiment with a number of performance and consistency issues. Finally, the assignment "five" asks you to design, and build a small Data Warehouse and to exercise OLAP specific queries using PostgreSQL.
+Writing an essay is an important part of your assessment. The essay helps you to achieve the course objective number one. You will find the essay title and description in essay 2017 guidelines that is accessible from the course home page. The essay is _due on Friday 20 May.  You may find it useful to consult also general essay guidelines. Your essay should not exceed 5000 words. Submit the essay electronically as a .pdf file, and also print it and hand in a hard copy into the hand-in box. There will be no essay presentations this year.
                                     </p>
                                 </section><!-- /#course-info -->
 
@@ -500,10 +335,7 @@
                                                 </a>
                                                 <figure>Marketing Specialist</figure>
                                                 <p>
-                                                    Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et,
-                                                    interdum semper quam. Fusce in interdum tortor.
-                                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit
-                                                    amet.
+                                                   If you believe that exceptional circumstances may prevent you from meeting the mandatory course requirements, contact the Course Coordinator for advice as soon as possible.
                                                 </p>
                                             </div>
                                         </article>
@@ -520,10 +352,7 @@
                                                 </a>
                                                 <figure>Data Architect</figure>
                                                 <p>
-                                                    Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et,
-                                                    interdum semper quam. Fusce in interdum tortor.
-                                                    Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit
-                                                    amet.
+                                                 Each assignment contains a number of questions worth 100 marks in total. Your answers to questions will be assessed according to their accuracy. In your answers to assignment questions, you are expected to communicate your solutions  in a clear way and, if needed, to present a proper design documentation.
                                                 </p>
                                             </div>
                                         </article>
@@ -616,95 +445,7 @@
     <!-- end Page Content -->
 
     <!-- Footer -->
-    <footer id="page-footer">
-        <section id="footer-top">
-            <div class="container">
-                <div class="footer-inner">
-                    <div class="footer-social">
-                        <figure>Follow us:</figure>
-                        <div class="icons">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-pinterest"></i></a>
-                            <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        </div><!-- /.icons -->
-                    </div><!-- /.social -->
-                    <div class="search pull-right">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Search">
-                            <span class="input-group-btn">
-                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                    </span>
-                        </div><!-- /input-group -->
-                    </div><!-- /.pull-right -->
-                </div><!-- /.footer-inner -->
-            </div><!-- /.container -->
-        </section><!-- /#footer-top -->
-
-        <section id="footer-content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-12">
-                        <aside class="logo">
-                            <img src="assets/img/logo-white.png" class="vertical-center">
-                        </aside>
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-4">
-                        <aside>
-                            <header><h4>Contact Us</h4></header>
-                            <address>
-                                <strong>University of Victoria</strong>
-                                <br>
-                                <span>4877 Spruce Drive</span>
-                                <br><br>
-                                <span>West Newton, PA 15089</span>
-                                <br>
-                                <abbr title="Telephone">Telephone:</abbr> +1 (734) 123-4567
-                                <br>
-                                <abbr title="Email">Email:</abbr> <a href="#">questions@youruniversity.com</a>
-                            </address>
-                        </aside>
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-4">
-                        <aside>
-                            <header><h4>Important Links</h4></header>
-                            <ul class="list-links">
-                                <li><a href="#">Future Students</a></li>
-                                <li><a href="#">Alumni</a></li>
-                                <li><a href="#">Give a Donation</a></li>
-                                <li><a href="#">Professors</a></li>
-                                <li><a href="#">Libary & Health</a></li>
-                                <li><a href="#">Research</a></li>
-                            </ul>
-                        </aside>
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-4">
-                        <aside>
-                            <header><h4>About Victoria</h4></header>
-                            <p>Aliquam feugiat turpis quis felis adipiscing, non pulvinar odio lacinia.
-                                Aliquam elementum pharetra fringilla. Duis blandit, sapien in semper vehicula,
-                                tellus elit gravida odio, ac tincidunt nisl mi at ante. Vivamus tincidunt nunc nibh.
-                            </p>
-                            <div>
-                                <a href="#" class="read-more">All News</a>
-                            </div>
-                        </aside>
-                    </div><!-- /.col-md-3 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-            <div class="background"><img src="assets/img/background-city.png" class="" alt=""></div>
-        </section><!-- /#footer-content -->
-
-        <section id="footer-bottom">
-            <div class="container">
-                <div class="footer-inner">
-                    <div class="copyright">© Victoria University of Wellington, All rights reserved</div>
-                    <!-- /.copyright -->
-                </div><!-- /.footer-inner -->
-            </div><!-- /.container -->
-        </section><!-- /#footer-bottom -->
-
-    </footer>
+<?php include 'footer.php';?>
     <!-- end Footer -->
 
 </div>

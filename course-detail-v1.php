@@ -23,96 +23,7 @@
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
-<div class="navigation-wrapper">
-    <div class="secondary-navigation-wrapper">
-        <div class="container">
-            <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">000-123-456-789</span></div>
-            <ul class="secondary-navigation list-unstyled pull-right">
-                <li><a href="my-account.html#tab-profile"><i class="fa fa-user"></i>My Profile</a></li>
-                <li><a href="my-account.html#tab-my-courses">My Courses</a></li>
-                <li><a href="my-account.html#tab-change-password">Change Password</a></li>
-                <li><a href="index-2.html">Log Out</a></li>
-            </ul>
-        </div>
-    </div><!-- /.secondary-navigation -->
-    <div class="primary-navigation-wrapper">
-        <header class="navbar" id="top" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="navbar-brand nav" id="brand">
-                        <a href="index-2.html"><img src="assets/img/logo.png" alt="brand"></a>
-                    </div>
-                </div>
-                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                    <ul class="nav navbar-nav">
-                        <li class="active">
-                            <a href="#" class="has-child no-link">Home</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="index-2.html">Homepage Education</a></li>
-                                <li><a href="homepage-courses.html">Homepage Courses</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class=" has-child no-link">Courses</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="course-landing-page.html">Course Landing Page</a></li>
-                                <li><a href="course-listing.html">Course Listing</a></li>
-                                <li><a href="course-detail-v1.html">Course Detail v1</a></li>
-                                <li><a href="course-detail-v2.html">Course Detail v2</a></li>
-                                <li><a href="course-detail-v3.html">Course Detail v3</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Events</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="event-listing-images.html">Events Listing with images</a></li>
-                                <li><a href="event-listing.html">Events Listing</a></li>
-                                <li><a href="event-grid.html">Events Grid</a></li>
-                                <li><a href="event-detail.html">Event Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about-us.html">About Us</a>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Blog</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="blog-listing.html">Blog listing</a></li>
-                                <li><a href="blog-detail.html">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#" class="has-child no-link">Pages</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="full-width.html">Fullwidth</a></li>
-                                <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                                <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                                <li><a href="microsite.html">Microsite</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="members.html">Members</a></li>
-                                <li><a href="member-detail.html">Member Detail</a></li>
-                                <li><a href="register-sign-in.html">Register & Sign In</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact-us.html">Contact Us</a>
-                        </li>
-                    </ul>
-                </nav><!-- /.navbar collapse-->
-            </div><!-- /.container -->
-        </header><!-- /.navbar -->
-    </div><!-- /.primary-navigation -->
-    <div class="background">
-        <img src="assets/img/background-city.png"  alt="background">
-    </div>
-</div>
+<?php include 'header.php';?>
 <!-- end Header -->
 
 <!-- Breadcrumb -->
@@ -128,7 +39,7 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>How to Find Long-Term Customers</h1></header>
+        <header><h1>Formal Software Engineering</h1></header>
         <div class="row">
             <!-- Course Image -->
             <div class="col-md-2">
@@ -166,9 +77,7 @@
                             <section id="course-brief">
                                 <header><h2>Course Brief</h2></header>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla, volutpat elit non,
-                                    tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet. Vestibulum vitae
-                                    aliquet felis, ornare feugiat elit. Nulla varius condimentum elit, sed pulvinar leo sollicitudin vel.
+                                   This course addresses the use of mathematical logic in the specification and construction for software systems. It presents an introduction to the area of formal methods; the formal specification of software systems; the refinement of specifications to code; and their semantic foundations.
                                 </p>
                             </section><!-- /#course-brief -->
 
@@ -192,19 +101,13 @@
                                                     <li>
                                                         <h5>Day 1:</h5>
                                                         <p class="description">
-                                                            In order for a business to grow, the entrepreneur must grow.
-                                                            First, the entrepreneur’s role will evolve from primarily being
-                                                            a “doer” to a manager then to a leader and ultimately to being a
-                                                            coach/mentor.
+                                                         Apply design by Contract to build high integrity code (BE graduate attributes 3(a), 3(c)).
                                                         </p>
                                                     </li>
                                                     <li>
                                                         <h5>Day 2:</h5>
                                                         <p class="description">
-                                                            In order for a business to grow, the entrepreneur must grow.
-                                                            First, the entrepreneur’s role will evolve from primarily being
-                                                            a “doer” to a manager then to a leader and ultimately to being a
-                                                            coach/mentor.
+                                                          Review and enhance requirements and be able to trace requirements throughout the design process (BE graduate attributes 3(f), 3(d)).
                                                         </p>
                                                     </li>
                                                 </ul>
@@ -215,11 +118,7 @@
                                                     <li>
                                                         <h5>Day 1:</h5>
                                                         <p class="description">
-                                                            Using the Leaders Bank and Trilogy Health Services stories we
-                                                            will look at how two businesses put in place people policies,
-                                                            practices, and a leadership model that led to high employee
-                                                            engagement, loyalty, and productivity that drove high customer
-                                                            satisfaction.
+                                                          Understand relation between testing and verification and manage their relative costs and benefits (BE graduate attributes 3(a), 3(d), 3(f)).
                                                         </p>
                                                     </li>
                                                 </ul>
@@ -230,19 +129,13 @@
                                                     <li>
                                                         <h5>08:00 am:</h5>
                                                         <p class="description">
-                                                            In order for a business to grow, the entrepreneur must grow.
-                                                            First, the entrepreneur’s role will evolve from primarily being
-                                                            a “doer” to a manager then to a leader and ultimately to being a
-                                                            coach/mentor.
+                                                            Write SPARK Ada programs and either prove properties or test the code to A high degree of code coverage.
                                                         </p>
                                                     </li>
                                                     <li>
                                                         <h5>11:00 am:</h5>
                                                         <p class="description">
-                                                            In order for a business to grow, the entrepreneur must grow.
-                                                            First, the entrepreneur’s role will evolve from primarily being
-                                                            a “doer” to a manager then to a leader and ultimately to being a
-                                                            coach/mentor.
+                                                          Understand the Object Oriented Model used by Ada.
                                                         </p>
                                                     </li>
                                                 </ul>
@@ -329,7 +222,7 @@
                                                 <p class="description">
                                                     Ut tincidunt dui non velit aliquet, quis porta quam
                                                     vehicula. Vivamus suscipit hendrerit arcu. Nullam lacinia purus at porttitor
-                                                    varius. Aliquam rutrum feugiat tempor.
+                                                    varius. Aliquam rutrum feugiat tempor.
                                                 </p>
                                             </li>
                                             <!-- end Question -->
@@ -362,25 +255,18 @@
                             <section id="course-info">
                                 <header><h2>Course Info</h2></header>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla, volutpat elit non,
-                                    tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet. Vestibulum vitae
-                                    aliquet felis, ornare feugiat elit. Nulla varius condimentum elit, sed pulvinar leo sollicitudin vel.
-                                </p>
-                                <p>
-                                    Maecenas sodales, nisl eget dignissim molestie, ligula est consectetur metus, et mollis justo urna
-                                    sit amet nulla. Etiam lectus arcu, pellentesque eu tellus tempor, tristique ultrices leo. Nullam at
-                                    felis mauris. Aenean in neque eu ligula tempor ornare. Mauris tristique in elit a blandit. Nam laoreet
-                                    vulputate nisi eu accumsan. Sed faucibus arcu nec est facilisis dignissim. Fusce risus leo, euismod ut
-                                    cursus vitae, imperdiet id quam. Pellentesque habitant morbi tristique senectus et netus et malesuada
-                                    fames ac turpis egestas. Fusce mollis mi vulputate leo vestibulum, quis scelerisque libero condimentum.
-                                    Praesent rutrum consequat lacus quis suscipit. Proin dapibus mi non semper lobortis.
-                                </p>
-                                <p>
-                                    Ut dignissim placerat est, sit amet tincidunt enim. Sed nisi nisi, ornare vitae lacinia a, mattis quis tortor.
-                                    Suspendisse ornare adipiscing nunc, sit amet aliquam diam condimentum quis. Sed in leo sit amet sapien
-                                    porttitor vestibulum a ut est. In hac habitasse platea dictumst. Mauris quam dui, cursus nec lorem non,
-                                    pellentesque elementum dui. Vestibulum volutpat, risus vitae scelerisque fringilla, ligula nisi egestas
-                                    sem, id vulputate ligula nulla ac ligula.
+                                You will be expected to write programs and specifications all with in the Ada language. The course will be mainly practical but you will need to understand some of the theoretical background in order to guide your design of both the software and specification.  Ada is currently used in industry when the cost of errors is high as is the case with embedded systems. The need to "get it rite" has been acknowledged as a growing problem as the internet of things develops.
+ 
+ 
+
+ 
+
+
+
+In order to maintain satisfactory progress in SWEN 421, you should plan to spend an average of at least 10 hours per week on this paper. A plausible and approximate breakdown for these hours would be:
+Lectures and tutorials: 3 hours
+Readings: 2 hours
+Assignments: 5 hours
                                 </p>
                             </section><!-- /#course-info -->
 
@@ -393,8 +279,7 @@
                                             <a href="member-detail.html"><header>Claire Doe</header></a>
                                             <figure>Marketing Specialist</figure>
                                             <p>
-                                                Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
+                                               You must be a competent programmer and confident in your ability to pick up a new language. Detailed mathematics is not required but you need the ability to think rigorously about abstract ideas including specifications . You must be able to express your understanding of the programs requirements in First Order Logic and you need a good grasp of the the relation between specification and code.
                                             </p>
                                         </div>
                                     </article>
@@ -406,8 +291,8 @@
                                             <a href="member-detail.html"><header>Rachel Britain</header></a>
                                             <figure>Data Architect</figure>
                                             <p>
-                                                Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
+                                              In this course you will learn how to write SPARK Ada programs. This will require you adopt a quite different mindset from that used writing Java or C programs. The construction of the specification may take more code and more effort that coding the solution.
+In order to achieve this you should complete all the exercises - even those that are not marked.﻿
                                             </p>
                                         </div>
                                     </article>
@@ -490,94 +375,7 @@
 <!-- end Page Content -->
 
 <!-- Footer -->
-<footer id="page-footer">
-    <section id="footer-top">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="footer-social">
-                    <figure>Follow us:</figure>
-                    <div class="icons">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                    </div><!-- /.icons -->
-                </div><!-- /.social -->
-                <div class="search pull-right">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    <span class="input-group-btn">
-                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                    </span>
-                    </div><!-- /input-group -->
-                </div><!-- /.pull-right -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-top -->
-
-    <section id="footer-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-12">
-                    <aside class="logo">
-                        <img src="assets/img/logo-white.png" class="vertical-center">
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Contact Us</h4></header>
-                        <address>
-                            <strong>University of Victoria</strong>
-                            <br>
-                            <span>4877 Spruce Drive</span>
-                            <br><br>
-                            <span>West Newton, PA 15089</span>
-                            <br>
-                            <abbr title="Telephone">Telephone:</abbr> +1 (734) 123-4567
-                            <br>
-                            <abbr title="Email">Email:</abbr> <a href="#">questions@youruniversity.com</a>
-                        </address>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>Important Links</h4></header>
-                        <ul class="list-links">
-                            <li><a href="#">Future Students</a></li>
-                            <li><a href="#">Alumni</a></li>
-                            <li><a href="#">Give a Donation</a></li>
-                            <li><a href="#">Professors</a></li>
-                            <li><a href="#">Libary & Health</a></li>
-                            <li><a href="#">Research</a></li>
-                        </ul>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
-                    <aside>
-                        <header><h4>About Victoria</h4></header>
-                        <p>Aliquam feugiat turpis quis felis adipiscing, non pulvinar odio lacinia.
-                            Aliquam elementum pharetra fringilla. Duis blandit, sapien in semper vehicula,
-                            tellus elit gravida odio, ac tincidunt nisl mi at ante. Vivamus tincidunt nunc nibh.
-                        </p>
-                        <div>
-                            <a href="#" class="read-more">All News</a>
-                        </div>
-                    </aside>
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <div class="background"><img src="assets/img/background-city.png" class="" alt=""></div>
-    </section><!-- /#footer-content -->
-
-    <section id="footer-bottom">
-        <div class="container">
-            <div class="footer-inner">
-                <div class="copyright">© Victoria University of Wellington, All rights reserved</div><!-- /.copyright -->
-            </div><!-- /.footer-inner -->
-        </div><!-- /.container -->
-    </section><!-- /#footer-bottom -->
-
-</footer>
+<?php include 'footer.php';?>
 <!-- end Footer -->
 
 </div>
