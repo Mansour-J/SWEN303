@@ -31,7 +31,7 @@
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
         <li><a href="#">Courses</a></li>
-        <li class="active">Detail v1</li>
+        <li class="active">SWEN 303</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -39,7 +39,7 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>Formal Software Engineering</h1></header>
+        <header><h1>SWEN 303-User Interface Design  </h1></header>
         <div class="row">
             <!-- Course Image -->
             <div class="col-md-2">
@@ -48,7 +48,7 @@
                 </figure>
             </div><!-- end Course Image -->
             <!--MAIN Content-->
-            <div class="col-md-6">
+            <div class="col-md-10">
                 <div id="page-main">
                     <section id="course-detail">
                         <article class="course-detail">
@@ -59,12 +59,10 @@
                                 </header>
                                 <hr>
                                 <div class="course-count-down" id="course-count-down">
-                                    <figure class="course-start">Course starts  in:</figure>
-                                    <!-- /.course-start -->
-                                    <div class="count-down-wrapper">
-                                        <script type="text/javascript">var _date = 'Mar 27, 2015 23:28';</script>
-                                    </div><!-- /.count-down-wrapper -->
-                                    <a href="register-sign-in.html" class="btn" id="btn-course-join">Join Course</a>
+                                           <li><a href='view-lecture-notes.php'>view-lecture-notes</a></li>   
+                            
+                            
+                     
                                 </div><!-- /.course-count-down -->
                                 <hr>
                                 <figure id="course-summary">
@@ -73,6 +71,16 @@
                                     <span class="course-summary" id="course-course-time"><i class="fa fa-clock-o"></i>6:00pm – 8:00pm</span>
                                 </figure><!-- /#course-summary -->
                             </section><!-- /#course-header -->
+                            <section id="course-brief">
+                                <header><h2>Submission</h2></header>
+                                
+                             <p>   
+                             Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignmnets will be assessed and returned within 2 weeks after the submission dues date.
+                               </p>
+                             Please go to this link to submit your work:   <a href="submission.php" >Submission</a>
+                            
+                            </section><!-- /#course-brief -->
+
 
                             <section id="course-brief">
                                 <header><h2>Course Brief</h2></header>
@@ -143,49 +151,7 @@
                                         </section><!-- /#tab-schedule -->
                                     </div>
                                     <div class="tab-pane fade" id="tab-video"><iframe src="http://player.vimeo.com/video/64373696" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-                                    <div class="tab-pane fade" id="tab-speakers">
-                                        <section id="course-speakers">
-                                            <div class="author-block course-speaker">
-                                                <a href="member-detail.html"><figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure></a>
-                                                <article class="paragraph-wrapper">
-                                                    <div class="inner">
-                                                        <a href="member-detail.html"><header>Claire Doe</header></a>
-                                                        <figure>Marketing Specialist</figure>
-                                                        <p>
-                                                            Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                            Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
-                                                        </p>
-                                                    </div>
-                                                </article>
-                                            </div><!-- /.author -->
-                                            <div class="author-block course-speaker">
-                                                <a href="member-detail.html"><figure class="author-picture"><img src="assets/img/discussion-author-02.jpg" alt=""></figure></a>
-                                                <article class="paragraph-wrapper">
-                                                    <div class="inner">
-                                                        <a href="member-detail.html"><header>Rachel Britain</header></a>
-                                                        <figure>Data Architect</figure>
-                                                        <p>
-                                                            Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                            Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
-                                                        </p>
-                                                    </div>
-                                                </article>
-                                            </div><!-- /.author -->
-                                            <div class="author-block course-speaker">
-                                                <a href="member-detail.html"><figure class="author-picture"><img src="assets/img/discussion-author-03.jpg" alt=""></figure></a>
-                                                <article class="paragraph-wrapper">
-                                                    <div class="inner">
-                                                        <a href="member-detail.html"><header>John Doe</header></a>
-                                                        <figure>Senior Designer</figure>
-                                                        <p>
-                                                            Morbi nec nisi ante. Quisque lacus ligula, iaculis in elit et, interdum semper quam. Fusce in interdum tortor.
-                                                            Ut sollicitudin lectus dolor eget imperdiet libero pulvinar sit amet.
-                                                        </p>
-                                                    </div>
-                                                </article>
-                                            </div><!-- /.author -->
-                                        </section><!-- /#course-speakers -->
-                                    </div>
+                          
                                     <div class="tab-pane fade" id="tab-gallery">
                                         <ul class="gallery-list">
                                             <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
@@ -204,69 +170,14 @@
                                             <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
                                         </ul>
                                     </div>
-                                    <div class="tab-pane fade" id="tab-faq">
-                                        <ul class="faq-list">
-                                            <!-- Question -->
-                                            <li>
-                                                <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et nibh at diam?</h5>
-                                                <p class="description">
-                                                    Aliquam sed fermentum nulla. Praesent dictum, velit in condimentum volutpat,
-                                                    nulla orci vestibulum risus, et facilisis purus urna non metus. Donec aliquam
-                                                    urna et tempus luctus.
-                                                </p>
-                                            </li>
-                                            <!-- end Question -->
-                                            <!-- Question -->
-                                            <li>
-                                                <h5>Fusce gravida varius justo sed porta?</h5>
-                                                <p class="description">
-                                                    Ut tincidunt dui non velit aliquet, quis porta quam
-                                                    vehicula. Vivamus suscipit hendrerit arcu. Nullam lacinia purus at porttitor
-                                                    varius. Aliquam rutrum feugiat tempor.
-                                                </p>
-                                            </li>
-                                            <!-- end Question -->
-                                            <!-- Question -->
-                                            <li>
-                                                <h5>Vivamus ac risus cursus, eleifend lorem quis, viverra urna.?</h5>
-                                                <p class="description">
-                                                    Aenean porttitor feugiat nibh. Phasellus et dolor id nulla dictum lacinia
-                                                    nec bibendum arcu. Vestibulum ante ipsum primis in faucibus orci luctus
-                                                    et ultrices posuere cubilia Curae
-                                                </p>
-                                            </li>
-                                            <!-- end Question -->
-                                            <!-- Question -->
-                                            <li>
-                                                <h5>Hasellus non nisl et quam tristique placerat. Aliquam elementum tempus ?</h5>
-                                                <p class="description">
-                                                    Pellentesque a luctus libero. Integer mattis diam sem, nec ornare neque
-                                                    consequat id. Nullam malesuada lacus in rhoncus pellentesque. Mauris risus
-                                                    mauris, commodo ac volutpat eget, lacinia a risus. Aliquam nec semper libero,
-                                                    ac pharetra libero.
-                                                </p>
-                                            </li>
-                                            <!-- end Question -->
-                                        </ul><!-- /.faq-list -->
-                                    </div><!-- /#tab-faq -->
+                                
                                 </div><!-- /Tab panes -->
                             </section><!-- /#course-tabs -->
 
                             <section id="course-info">
                                 <header><h2>Course Info</h2></header>
                                 <p>
-                                You will be expected to write programs and specifications all with in the Ada language. The course will be mainly practical but you will need to understand some of the theoretical background in order to guide your design of both the software and specification.  Ada is currently used in industry when the cost of errors is high as is the case with embedded systems. The need to "get it rite" has been acknowledged as a growing problem as the internet of things develops.
- 
- 
-
- 
-
-
-
-In order to maintain satisfactory progress in SWEN 421, you should plan to spend an average of at least 10 hours per week on this paper. A plausible and approximate breakdown for these hours would be:
-Lectures and tutorials: 3 hours
-Readings: 2 hours
-Assignments: 5 hours
+              This course addresses the design and engineering of user interfaces. It presents principles and guidelines for design and covers a range of design processes. It presents techniques for testing user interfaces, and considers a variety of user interface styles and interface devices.
                                 </p>
                             </section><!-- /#course-info -->
 
@@ -299,17 +210,7 @@ In order to achieve this you should complete all the exercises - even those that
                                 </div><!-- /.author -->
                             </section><!-- /#invited-persons -->
 
-                            <section id="sponsors">
-                                <header><h2>Sponsors</h2></header>
-                                <div class="section-content">
-                                    <div class="logos">
-                                        <div class="logo"><a href="#"><img src="assets/img/logo-partner-01.png" alt=""></a></div>
-                                        <div class="logo"><a href="#"><img src="assets/img/logo-partner-02.png" alt=""></a></div>
-                                        <div class="logo"><a href="#"><img src="assets/img/logo-partner-03.png" alt=""></a></div>
-                                        <div class="logo"><a href="#"><img src="assets/img/logo-partner-04.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                            </section><!-- /#sponsors -->
+                          
 
                             <section id="map">
                                 <header><h2>Place on Map</h2></header>
@@ -328,46 +229,7 @@ In order to achieve this you should complete all the exercises - even those that
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-            <div class="col-md-4">
-                <div id="page-sidebar" class="sidebar">
-                    <aside class="news-small" id="news-small">
-                        <header>
-                            <h2>Related News</h2>
-                        </header>
-                        <div class="section-content">
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
-                            </article><!-- /article -->
-                        </div><!-- /.section-content -->
-                        <a href="#" class="read-more">All News</a>
-                    </aside><!-- /.news-small -->
-                    <aside id="archive">
-                        <header>
-                            <h2>Course Archive</h2>
-                            <ul class="list-links">
-                                <li><a href="#">February 2014</a></li>
-                                <li><a href="#">January 2014</a></li>
-                                <li><a href="#">November 2013</a></li>
-                                <li><a href="#">October 2013</a></li>
-                                <li><a href="#">August 2013</a></li>
-                                <li><a href="#">July 2013</a></li>
-                                <li><a href="#">June 2013</a></li>
-                                <li><a href="#">May 2013</a></li>
-                            </ul>
-                        </header>
-                    </aside><!-- /archive -->
-                </div><!-- /#sidebar -->
-            </div><!-- /.col-md-4 -->
+     
             <!-- end SIDEBAR Content-->
         </div><!-- /.row -->
     </div><!-- /.container -->

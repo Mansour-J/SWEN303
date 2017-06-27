@@ -1642,7 +1642,7 @@ ul.list-links a:hover {
 #homepage-carousel .homepage-carousel-wrapper:after {
   background-color: #1d2624 ;
   content: "";
-  height: 100%;
+  height: 321px;
   left: 0;
   position: absolute;
   z-index: -1;
@@ -2168,7 +2168,7 @@ th.header:before {
   height: 190px;
   width: 3000px;
   position: absolute;
-  top: -30px;
+  top: -31px;
   right: -80px;
   z-index: 0;
 }
@@ -2177,10 +2177,10 @@ th.header:before {
   background-image: url("../img/background-city.png");
   background-position: 0;
   content: "";
-  height: 215px;
+  height: 320px;
   width: 3000px;
   position: absolute;
-  top: 158px;
+  top: 81px;
   overflow: hidden;
   right: -80px;
   z-index: 0;
@@ -3981,4 +3981,40 @@ input {
     right: -15px;
     top: inherit;
   }
+}
+
+.careers-detail .careers-detail-header h2 {
+  color: #7aa098;
+  margin: 20px 0;
+}
+.careers-detail .careers-detail-header h2:after {
+  display: none;
+}
+.careers-detail .careers-detail-header{
+  color: #7aa098;
+}
+.careers-detail .careers-detail-header > span {
+  margin-right: 20px;
+}
+.careers-detail .careers-detail-header {
+  margin-right: 5px;
+}
+.careers-detail {
+  color: #7aa098;
+}
+.careers-detail a {
+  color: #767676;
+  font-size: 18px;
+  padding: 2px 5px;
+  vertical-align: middle;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 10s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }

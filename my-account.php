@@ -117,6 +117,9 @@
                                         <th>Course Type</th>
                                         <th class="starts">Starts</th>
                                         <th class="status">Status</th>
+                                        <th>Time</th>
+                                        <th>Days</th>
+                                        <th>Where</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -125,54 +128,81 @@
                                         <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
                                         <th>01-03-2014</th>
                                         <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-not-started">
                                         <th class="course-title"><a href="course-detail-v1.html">Become self marketer</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
                                         <th>03-03-2014</th>
                                         <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-in-progress">
                                         <th class="course-title"><a href="course-detail-v2.html">How to find long term customers</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
                                         <th>06-03-2014</th>
                                         <th class="status"><i class="fa fa-clock-o"></i>In progress</th>
+                                        <th>10:00 am - 10:50 am</th>
+                                        <th>TuF</th>
+                                        <th>E220</th>
                                     </tr>
                                     <tr class="status-in-progress">
                                         <th class="course-title"><a href="course-detail-v2.html">Neuroscience and the future</a></th>
                                         <th class="course-category"><a href="#">Science</a></th>
                                         <th>21-03-2014</th>
                                         <th class="status"><i class="fa fa-clock-o"></i>In progress</th>
+                                        <th>12:10 am - 13:00 am</th>
+                                        <th>MWF</th>
+                                        <th>A120</th>
                                     </tr>
                                     <tr class="status-completed">
                                         <th class="course-title"><a href="course-detail-v1.html">History in complex view</a></th>
                                         <th class="course-category"><a href="#">History and Psychology</a></th>
                                         <th>06-04-2014</th>
                                         <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-completed">
                                         <th class="course-title"><a href="course-detail-v1.html">Become self marketer</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
                                         <th>03-03-2014</th>
                                         <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-completed">
                                         <th class="course-title"><a href="course-detail-v1.html">How to find long term customers</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
                                         <th>06-03-2014</th>
                                         <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-completed">
                                         <th class="course-title"><a href="course-detail-v1.html">Neuroscience and the future</a></th>
                                         <th class="course-category"><a href="#">Science</a></th>
                                         <th>21-03-2014</th>
                                         <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     <tr class="status-completed">
                                         <th class="course-title"><a href="course-detail-v1.html">History in complex view</a></th>
                                         <th class="course-category"><a href="#">History and Psychology</a></th>
                                         <th>06-04-2014</th>
                                         <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
                                     </tr>
                                     </tbody>
                                 </table>

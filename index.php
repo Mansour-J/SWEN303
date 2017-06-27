@@ -30,9 +30,9 @@
 <!-- Slider -->
 <div id="homepage-carousel">
     <div class="container">
-        <div class="homepage-carousel-wrapper">
+        <div class="homepage-carousel-wrapper" >
             <div class="row">
-                <div class="col-md-6 col-sm-7">
+                <div class="col-md-6 col-sm-7" style="margin-top:-29px;">
                     <div class="image-carousel">
                         <div class="image-carousel-slide"><img src="assets/img/slide-1.jpg" alt=""></div>
                         <div class="image-carousel-slide"><img src="assets/img/slide-2.jpg" alt=""></div>
@@ -43,50 +43,15 @@
                     <div class="slider-content">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1>Join the comunity of modern thinking students</h1>
-                                <form id="slider-form" role="form">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="input-group">
-                                                <input class="form-control has-dark-background" name="slider-name" id="slider-name" placeholder="Full Name" type="text">
-                                            </div>
-                                        </div><!-- /.col-md-6 -->
-                                        <div class="col-md-6">
-                                            <div class="input-group">
-                                                <input class="form-control has-dark-background" name="slider-email" id="slider-email" placeholder="Email" type="email">
-                                            </div>
-                                        </div><!-- /.col-md-6 -->
-                                    </div><!-- /.row -->
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="input-group">
-                                                <form method="get" action="#" class="form-inline">
-                                                    <select name="study-level" class="has-dark-background">
-                                                        <option value="">Study Level</option>
-                                                        <option value="2">Beginner</option>
-                                                        <option value="3">Advanced</option>
-                                                        <option value="4">Intermediate</option>
-                                                        <option value="5">Professional</option>
-                                                    </select>
-                                                </form>
-                                            </div><!-- /.form-group -->
-                                        </div><!-- /.col-md-6 -->
-                                        <div class="col-md-6">
-                                            <div class="input-group">
-                                                <form method="get" action="#" class="form-inline">
-                                                    <select name="courses" class="has-dark-background">
-                                                        <option value="">Courses</option>
-                                                        <option value="2">Art and Design</option>
-                                                        <option value="3">Marketing</option>
-                                                        <option value="4">Science</option>
-                                                        <option value="5">History and Psychology</option>
-                                                    </select>
-                                                </form>
-                                            </div><!-- /.form-group -->
-                                        </div><!-- /.col-md-6 -->
-                                    </div><!-- /.row -->
-                                    <button type="submit" class="btn btn-framed pull-right">Submit</button>
-                                </form>
+                  
+              <div> <h1>  School of    </h1></div>
+            
+                <div style="margin-top:-40px" >   <h3 style="font-weight:bold"> Engineering and Computer Science</h3>  </div>
+                   <img src="assets/img/logo.svg" class="App-logo" alt="logo" />
+                                      
+                 <div>    <small lang="mi">Te Kura Mātai Pūkaha, Pūrorohiko</small></div>
+            
+                           
                             </div><!-- /.col-md-12 -->
                         </div><!-- /.row -->
                     </div><!-- /.slider-content -->

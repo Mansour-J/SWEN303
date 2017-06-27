@@ -44,7 +44,7 @@
             <div class="col-md-8">
                 <div id="page-main">
                     <section class="events images" id="events">
-                        <header><h1>Events</h1></header>
+                        <header><h1>Research groups</h1></header>
                         <div class="section-content">
                             <article class="event">
                                 <div class="event-thumbnail">
@@ -58,9 +58,9 @@
                                 </div>
                                 <aside>
                                     <header>
-                                        <a href="#">Conservatory Exhibit: The garden of india a country and culture revealed</a>
+                                        <a href="#">Artificial Intelligence Group</a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span> Matthaei Botanical Gardens</div>
+                                    <div class="additional-info"><span class="fa fa-map-marker"></span>The Artificial Intelligence Group carries out research in Machine Learning, Neural Networks, Cognitive Science and Data Mining. Active projects include a system for automatic clustering of temporal data, analysing the evolution of cooperative behaviour, and the development of reinforcement learning techniques for complex tasks.</div>
                                     <div class="description">
                                         <p>
                                         </p>
@@ -80,14 +80,11 @@
                                 </div>
                                 <aside>
                                     <header>
-                                        <a href="#">February Half-Term Activities: Big Stars and Little Secrets </a>
+                                        <a href="#">Cloud Research Group </a>
                                     </header>
                                     <div class="additional-info"><span class="fa fa-map-marker"></span> Pitt Rivers and Natural History Museums</div>
                                     <div class="description">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla
-                                            volutpat elit non, tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                            Vestibulum vitae aliquet felis, ornare feugiat elit. Nulla varius condimentum elit,
-                                            sed pulvinar leo sollicitudin vel.
+                                        <p>The Cloud Research Group is conducting research into cloud related areas of distributed computing, including, services and service oriented architectures, workflows, cloud computing markets, resource allocation, high performance computing, scientific computation, eResearch and the associated topics of social computing and reputation.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -105,14 +102,11 @@
                                 </div>
                                 <aside>
                                     <header>
-                                        <a href="#">The Orchestra of the Age of Enlightenment perform with Music</a>
+                                        <a href="#">Communications and Signal Processing (CaSP) Group</a>
                                     </header>
                                     <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                     <div class="description">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla
-                                            volutpat elit non, tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                            Vestibulum vitae aliquet felis, ornare feugiat elit. Nulla varius condimentum elit,
-                                            sed pulvinar leo sollicitudin vel.
+                                        <p>The CaSP group focuses on the development and application of signal processing techniques. The areas of application include physical layer wireless communications, audio and acoustics, control systems and biomedical devices. Specific research topics we work on include cognitive radio, multichannel systems, wireless channel modelling, audio coding, blind source separation, target tracking, nonlinear system identification and image processing.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -130,14 +124,11 @@
                                 </div>
                                 <aside>
                                     <header>
-                                        <a href="#">Museums and the Construction of Identities</a>
+                                        <a href="#">eLearning Research Group</a>
                                     </header>
                                     <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                     <div class="description">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla
-                                            volutpat elit non, tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                            Vestibulum vitae aliquet felis, ornare feugiat elit. Nulla varius condimentum elit,
-                                            sed pulvinar leo sollicitudin vel.
+                                        <p>The eLearning Research Group performs research in eLearning primarily from a technological perspective while studying the socio-technical implications of new innovations. The range of study is broad, including algorithmic, systems and pedagogical issues. Current work focuses on Massive Open Online Courses (MOOC), mobile teaching and learning, learning analytics, gamification, and AI in teaching and learning.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -155,14 +146,11 @@
                                 </div>
                                 <aside>
                                     <header>
-                                        <a href="#">Reporting: In Conversation with Miriam Elder and Julia Ioffe</a>
+                                        <a href="#">ELVIS - Software Engineering and Programming Languages</a>
                                     </header>
                                     <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                     <div class="description">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et urna fringilla
-                                            volutpat elit non, tristique lectus. Nam blandit odio nisl, ac malesuada lacus fermentum sit amet.
-                                            Vestibulum vitae aliquet felis, ornare feugiat elit. Nulla varius condimentum elit,
-                                            sed pulvinar leo sollicitudin vel.
+                                        <p>ELVIS's work ranges from more technical research concerning the structure of software and tool support for development, to human-computer interaction and software development processes. They have experience and interests in a wide range of topics and applications in the Object Oriented paradigm, including visualisation, design patterns, software reuse, and frameworks, as well as in interface design and evaluation.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>
