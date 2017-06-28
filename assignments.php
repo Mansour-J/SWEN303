@@ -15,11 +15,11 @@
 
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
-    <title>Victoria - Educational, work-experience and University Template</title>
+    <title>Victoria - Educational, assignment and University Template</title>
 
 </head>
 
-<body class="page-sub-page page-work-experience-detail">
+<body class="page-sub-page page-assignment-detail">
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
@@ -30,8 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Study and Careers</a></li>
-        <li class="active">Work experiences</li>
+        <li class="active">Assignments and Projects: SWEN 303 (2017)</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -39,82 +38,55 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>Work experience</h1></header>
+        <header><h1>Assignments and Projects: SWEN 303 (2017)</h1></header>
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
-                    <section id="work-experience-detail">
-                        <article class="work-experience-detail">
-                            <section id="work-experience-header">
-                                <header>
-                                    <h2 class="work-experience-date">Work experience is a compulsory component of the Bachelor of Engineering with Honours.</h2>
-                                </header>
-                                <hr>
-                            </section>
+                    <section id="assignment-detail">
+                        <article class="assignment-detail">
+                            <section id="assignment-header">
+                        <section id="course-list">
+                            <div class="table-responsive">
+                                <table class="table table-hover course-list-table tablesorter">
+                                    <thead>
+                                    <tr>
+                                        <th>Accessment</th>
+                                        <th>Description</th>
+                                        <th class="starts">Due Date</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <th><a href="assignment-detail.php">Assignment 1</a></th>
+                                        <th>Usability Evaluation</th>
+                                        <th>03/04/2017 10:00:00 (Past due date)</th>
+                                    </tr>
+                                    <tr>
+                                        <th><a href="assignment-detail.php">Assignment 2</a></th>
+                                        <th>User Modelling (Personas & Scenarios)</th>
+                                        <th>22/05/2017 10:00:00 (Past due date)</th>
+                                    </tr>
+                                    <tr>
+                                        <th><a href="assignment-detail.php">Project</a></th>
+                                        <th>User Interface Final Group Design Project</th>
+                                        <th>03/07/2017 10:00:00</th>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </section>
+                            </section><!-- /#assignment-content -->
 
-
-                            <section id="work-experience-content">
-                                <p>
-                                   Work Experience is a compulsory component of the Bachelor of Engineering with Honours BE(Hons) and it provides an opportunity for students to gain valuable work experience and employers to benefit from a short term placement.
-
-800 hours (100 days) of approved work experience are completed in an engineering environment. The work is normally completed in two periods of about 400 hours preferably with two different employers.
-
-Normally students complete this in the summer breaks after their second and third years of study, but other arrangements are possible.
-                                </p>
-                            </section><!-- /#work-experience-content -->
-
-                        </article><!-- /.work-experience-detail -->
-                    </section><!-- /.work-experience-detail -->
+                        </article><!-- /.assignment-detail -->
+                    </section><!-- /.assignment-detail -->
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
-            <!-- work-experience Image -->
-            <div class="col-md-4">
-                <figure class="work-experience-image">
-                    <div class="image-wrapper"><img src="assets/img/work-experience-img.jpg" width="100%"></div>
-                </figure>
-                <p>
-                Our students test core skills learned in class on work experience placements.
-                </p>
-            </div><!-- end work-experience Image -->
-
-     
-            <!-- end SIDEBAR Content-->
-        </div><!-- /.row -->
-        <div class="row">
-            <!--More Information Content-->
-            <div class="col-md-8">
-                <div id="page-main">
-                    <section id="more-information">
-                        <article class="more-information">
-                            <section id="more-information-header">
-                                <header>
-                                    <h2 class="work-experience">More Information</h2>
-                                </header>
-                                <p>
-                                    <a href="#"><h3>Information for employers</h3></a>
-                                </p>
-                                <p>
-                                    <a href="#"><h3>Information for prospective students</h3></a>
-                                </p>
-                                <p>
-                                    <a href="#"><h3>Information for current students</h3></a>
-                                </p>
-                            </section><!-- /#work-experience-content -->
-
-                        </article><!-- /.work-experience-detail -->
-                    </section><!-- /.work-experience-detail -->
-                </div><!-- /#page-main -->
-            
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
 </div>
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
-
 </div>
 <!-- end Wrapper -->
 

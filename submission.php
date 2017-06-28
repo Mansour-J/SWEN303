@@ -60,19 +60,19 @@
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th><a href="#">Assignment 1</a></th>
+                                        <th><a href="assignment-detail.php">Assignment 1</a></th>
                                         <th>Usability Evaluation</th>
                                         <th>03/04/2017 10:00:00 (Past due date)</th>
                                         <th>Completed on 02/04/2017 22:26:29</th>
                                     </tr>
                                     <tr>
-                                        <th><a href="#">Assignment 2</a></th>
+                                        <th><a href="assignment-detail.php">Assignment 2</a></th>
                                         <th>User Modelling (Personas & Scenarios)</th>
                                         <th>22/05/2017 10:00:00 (Past due date)</th>
                                         <th>Completed on 21/05/2017 23:36:35</th>
                                     </tr>
                                     <tr>
-                                        <th><a href="#">Project</a></th>
+                                        <th><a href="assignment-detail.php">Project</a></th>
                                         <th>User Interface Final Group Design Project</th>
                                         <th>03/07/2017 10:00:00</th>
                                         <th></th>
