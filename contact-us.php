@@ -119,18 +119,10 @@ Wellington</span>
                     </section>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
-
-            <!--SIDEBAR Content-->
-            <?php include 'sidebar.php';?>
-          <!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

@@ -30,8 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Events</a></li>
-        <li class="active">Listing Grid</li>
+        <li class="active">Degrees</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -48,39 +47,31 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">jan</div>
-                                        <div class="day">18</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Bachelor of Engineering with Honours</a>
+                                            <a href="degree-detail.php">Bachelor of Engineering with Honours</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Matthaei Botanical Gardens</div>
                                         <div class="description">
                                             <p>A local start up is praising Victoria University of Wellington’s Software Engineering programme for delivering hard to find job candidates. L R: Victoria University alumni Stephen Nelson, Tim Jones and Luke Inkster at Montoux. Montoux offers software that provides insights into life insurance companies’ products, pricing and profitability. The fast growing Wellington based business has clients in New ...
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">feb</div>
-                                        <div class="day">01</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Bachelor of Science </a>
+                                            <a href="degree-detail.php">Bachelor of Science </a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Pitt Rivers and Natural History Museums</div>
                                         <div class="description">
                                             <p>The School of Engineering and Computer Science (ECS) is delighted to welcome Dr Fanglue Zhang who has arrived from China to take up the position of computer graphics lecturer. Fanglue holds a doctoral degree from Tsinghua University where he subsequently spent two years as a post doctoral researcher. His research interests include computer graphics, computational photography, and image and video analysis ...
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -89,39 +80,31 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">mar</div>
-                                        <div class="day">23</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Master of Computer Science</a>
+                                            <a href="degree-detail.php">Master of Computer Science</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                         <div class="description">
                                             <p>Engineering and Computer Science graduates Glen Peek and John Gelbolingo were two of the innovative entrepreneurs who took part in the Victoria Entrepreneur Bootcamp Final Showcase recently, taking their smart business ideas from the whiteboard to the tech world with the help of Viclink, Victoria’ commercialisation office… It was the show that had it all—from romance and entertainment, to altruism ...
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">may</div>
-                                        <div class="day">12</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Master of Engineering </a>
+                                            <a href="degree-detail.php">Master of Engineering </a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                         <div class="description">
                                             <p>It’s very important for students to get involved with all aspects of academic life as early as possible. Arrange study groups, come to the evening tutorials, and make the most of all the resources available to you, and you’ll hit the ground running. It’s a lot harder to catch up than to stay on top of things, so don’t wait until a small problem becomes a big problem. We are always happy to see students who need help, want to learn more, or just want to chat.
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -130,54 +113,36 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">jun</div>
-                                        <div class="day">17</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Master of Software Development</a>
+                                            <a href="degree-detail.php">Master of Software Development</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                         <div class="description">
                                             <p>I also work closely with our ECS Pastoral Support Manager, Craig Watterson. If it all gets too much, he is your first port of call and also your most important contact in your first year, so you should get to know him as soon as possible. If you need academic help, he will refer you to me or another one of our tutors. If it’s something else bothering you or one of your friends, he will work with you to find a solution that you are happy with.
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
-                                    <figure class="date">
-                                        <div class="month">jul</div>
-                                        <div class="day">09</div>
-                                    </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Doctor of Philosophy </a>
+                                            <a href="degree-detail.php">Doctor of Philosophy </a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
                                         <div class="description">
                                             <p>In your college maths and science classes, you probably came across some pretty hard problems. But the exam problems were always the same as the assignment problems and the examples in class. At university, the test and exam problems may use the same concepts as the assignment problems, but they will be quite different. So new students also have to make the transition from remembering solutions to inventing solutions themselves. But once you’ve solved some problems yourself, you’ll really want to solve more – it’s addictive!
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
                         </div><!-- /.row -->
-
-                   
-
                     </section><!-- /.events grid -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul>
-                    </div>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
@@ -188,10 +153,6 @@
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

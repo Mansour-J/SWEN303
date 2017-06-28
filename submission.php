@@ -30,7 +30,9 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li class="active">Courses</li>
+        <li><a href="course-listing.php">Courses</a></li>
+        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li class="active">Submission</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -50,44 +52,36 @@
                                 <table class="table table-hover course-list-table tablesorter">
                                     <thead>
                                     <tr>
-                                        <th>Assignment Name</th>
-                                        <th>Marks</th>
-                                        <th class="starts">Status</th>
-                                        <th class="length"> Action</th>
+                                        <th>Accessment</th>
+                                        <th>Description</th>
+                                        <th class="starts">Due Date</th>
+                                        <th>Status</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 1 </a></th>
-                                        <th class="course-category"><a href="#">A+ </a></th>
-                                        <th>Graded</th>
-                                        <th> <button type="button" class="btn btn-danger">Submit</button></th>
+                                        <th><a href="#">Assignment 1</a></th>
+                                        <th>Usability Evaluation</th>
+                                        <th>03/04/2017 10:00:00 (Past due date)</th>
+                                        <th>Completed on 02/04/2017 22:26:29</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 2</a></th>
-                                        <th class="course-category"><a href="#">Pending</a></th>
-                                        <th>Submitted</th>
-                                        <th> <button type="button" class="btn btn-danger">Submit</button></th>
+                                        <th><a href="#">Assignment 2</a></th>
+                                        <th>User Modelling (Personas & Scenarios)</th>
+                                        <th>22/05/2017 10:00:00 (Past due date)</th>
+                                        <th>Completed on 21/05/2017 23:36:35</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 3</a></th>
-                                        <th class="course-category"><a href="#">Pending</a></th>
-                                        <th>Due 06-07-2017</th>
-                                        <th><button type="button" class="btn btn-danger" style ="    background-color: #d2322d; border-color: #ac2925;">Submit</button></th>
+                                        <th><a href="#">Project</a></th>
+                                        <th>User Interface Final Group Design Project</th>
+                                        <th>03/07/2017 10:00:00</th>
+                                        <th></th>
                                     </tr>
-               
                                     </tbody>
                                 </table>
                             </div>
                         </section>
                     </section><!-- /.course-listing -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul>
-                    </div>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
@@ -97,10 +91,6 @@
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

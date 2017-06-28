@@ -44,7 +44,7 @@
                 <div id="page-main">
                     <section id="about">
                         <header><h1>About Us</h1></header>
-                        <img src="assets/img/about-us-head-img.jpg">
+                        <img src="assets/img/about-us-head-img-new.jpg">
                         <h2>Mission & Purpose</h2>
                         <p>
                           Victoria’s School of Engineering and Computer Science (ECS) prepares students for successful careers at the forefront of new and exciting global technology.
@@ -98,17 +98,11 @@ Whether you require assistance, or just have a general enquiry, feel free to get
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-               <?php include 'sidebar.php';?>
-            <!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
 
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

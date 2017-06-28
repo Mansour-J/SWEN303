@@ -30,7 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li class="active">Blog</li>
+        <li><a href="#">About Us</a></li>
+        <li class="active">Blogs</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -40,26 +41,26 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section class="blog-listing" id="blog-listing">
-                        <header><h1>Blog / News</h1></header>
+                        <header><h1>Blogs</h1></header>
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-01.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-01.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>Wellington scientists getting hybrid planes off the ground</h3></a>
+                                            <a href="blog-detail.php"><h3>Wellington scientists getting hybrid planes off the ground</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>A team of Victoria University of Wellington researchers is hoping to use their technology to help build the world’s first hybrid-electric jet plane.
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -67,17 +68,17 @@
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-02.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-02.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>Local start-up’s valuable Victoria connections</h3></a>
+                                            <a href="blog-detail.php"><h3>Local start-up’s valuable Victoria connections</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>A local start-up is praising Victoria University of Wellington’s Software Engineering programme for delivering hard-to-find job candidates.
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -88,18 +89,18 @@
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-03.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-03.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>Welcoming Fanglue Zhang to Computer Graphics</h3></a>
+                                            <a href="blog-detail.php"><h3>Welcoming Fanglue Zhang to Computer Graphics</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>The School of Engineering and Computer Science (ECS) is delighted to welcome Dr Fanglue Zhang who has arrived from China to take up the position of computer graphics lecturer.
 Fanglue holds a doctoral degree from Tsinghua University where he subsequently spent two years as a post-doctoral researcher. His research interests include computer graphics, computational photography, and image and video analysis and processing.
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -107,18 +108,18 @@ Fanglue holds a doctoral degree from Tsinghua University where he subsequently s
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-04.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-04.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>It just goes to show</h3></a>
+                                            <a href="blog-detail.php"><h3>It just goes to show</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>Engineering and Computer Science graduates Glen Peek and John Gelbolingo were two of the innovative entrepreneurs who took part in the Victoria Entrepreneur Bootcamp Final Showcase recently, taking their smart business ideas from the whiteboard to the tech world with the help of Viclink, Victoria’ commercialisation office…
 
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -129,11 +130,11 @@ Fanglue holds a doctoral degree from Tsinghua University where he subsequently s
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-05.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-05.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>Engineering Dean's List celebrates student success</h3></a>
+                                            <a href="blog-detail.php"><h3>Engineering Dean's List celebrates student success</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>The Faculty of Engineering is pleased to announce that the Dean’s List 2016 has been published.
@@ -141,7 +142,7 @@ Introduced in 2011, the Dean's List celebrates academic excellence for students 
 
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -149,17 +150,17 @@ Introduced in 2011, the Dean's List celebrates academic excellence for students 
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
                                         <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
-                                        <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-06.jpg"></a></div>
+                                        <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-06.jpg"></a></div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="blog-detail.html"><h3>Postdoctoral Research Fellow vacancy in e-Learning</h3></a>
+                                            <a href="blog-detail.php"><h3>Postdoctoral Research Fellow vacancy in e-Learning</h3></a>
                                         </header>
                                         <div class="description">
                                             <p>The School of Engineering and Computer Science at Victoria University of Wellington, New Zealand's top ranked research University is seeking to expand its engineering programme. We are a School that prides itself on its collegiality and multidisciplinary collaborations with many of New Zealand's top ranked research clusters. This is an opportunity for you to develop your career at a quality institution in one of the most liveable cities in the world.
                                             </p>
                                         </div>
-                                        <a href="blog-detail.html" class="read-more stick-to-bottom">Read More</a>
+                                        <a href="blog-detail.php" class="read-more stick-to-bottom">Read More</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
@@ -176,17 +177,10 @@ Introduced in 2011, the Dean's List celebrates academic excellence for students 
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-            <?php include 'sidebar.php';?>
-            <!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'header.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

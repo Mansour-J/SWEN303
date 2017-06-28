@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
     <title>Victoria - Educational, Course and University Template</title>
-
 </head>
 
 <body class="page-sub-page page-course-detail">
@@ -30,7 +29,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Courses</a></li>
+        <li><a href="course-listing.php">Courses</a></li>
         <li class="active">SWEN 303</li>
     </ol>
 </div>
@@ -46,7 +45,12 @@
                 <figure class="course-image">
                     <div class="image-wrapper"><img src="assets/img/course-detail-img.jpg"></div>
                 </figure>
+                <header><h3><a href="assignments.php">Assignments</a></h3></header>
+                <header><h3><a href="submission.php">Submissions</a></h3></header>
+                <header><h3><a href="marking.php">Marks</a></h3></header>
+                
             </div><!-- end Course Image -->
+            
             <!--MAIN Content-->
             <div class="col-md-10">
                 <div id="page-main">
@@ -77,8 +81,7 @@
                             <section id="course-brief">
                                 <header><h2>Course Info</h2></header>
                              
-                            This course addresses the design and engineering of user interfaces. It presents principles and guidelines for design and covers a range of design processes. It presents techniques for testing user interfaces, and considers a variety of user interface styles and interface devices.            <li><a href='view-lecture-notes.php'>view-lecture-notes</a></li>   
-                         
+                            This course addresses the design and engineering of user interfaces. It presents principles and guidelines for design and covers a range of design processes. It presents techniques for testing user interfaces, and considers a variety of user interface styles and interface devices.
                          Students who pass this course should be able to:
 Understand principles of usability engineering;
 Design a user interface following accepted principles and guidelines;
@@ -93,7 +96,6 @@ Integrate user interface design techniques into the general software engineering
                              <p>   
                              Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignmnets will be assessed and returned within 2 weeks after the submission dues date.
                                </p>
-                             Please go to this link to submit your work:   <a href="submission.php" >Submission</a>
                             
                             </section><!-- /#course-brief -->
                             <section id="course-tabs">
@@ -139,7 +141,7 @@ Integrate user interface design techniques into the general software engineering
                                                 </ul>
                                             </article><!-- /.course-schedule-block -->
                                             <article class="course-schedule-block">
-                                                <header><h4>Day 3:</h4></header>
+                                                <header><h4>Week 3:</h4></header>
                                                 <ul class="schedule-list">
                                                     <li>
                                                         <h5>08:00 am:</h5>

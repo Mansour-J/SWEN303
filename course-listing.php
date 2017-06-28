@@ -40,7 +40,7 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
                         <header><h1>Courses</h1></header>
@@ -163,55 +163,10 @@
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-            <div class="col-md-4">
-                <div id="page-sidebar" class="sidebar">
-                    <aside class="news-small" id="news-small">
-                        <header>
-                            <h2>Related News</h2>
-                        </header>
-                        <div class="section-content">
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
-                            </article><!-- /article -->
-                        </div><!-- /.section-content -->
-                        <a href="#" class="read-more">All News</a>
-                    </aside><!-- /.news-small -->
-                    <aside id="archive">
-                        <header>
-                            <h2>Course Archive</h2>
-                            <ul class="list-links">
-                                <li><a href="#">February 2014</a></li>
-                                <li><a href="#">January 2014</a></li>
-                                <li><a href="#">November 2013</a></li>
-                                <li><a href="#">October 2013</a></li>
-                                <li><a href="#">August 2013</a></li>
-                                <li><a href="#">July 2013</a></li>
-                                <li><a href="#">June 2013</a></li>
-                                <li><a href="#">May 2013</a></li>
-                            </ul>
-                        </header>
-                    </aside><!-- /archive -->
-                </div><!-- /#sidebar -->
-            </div><!-- /.col-md-4 -->
-            <!-- end SIDEBAR Content-->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

@@ -29,8 +29,9 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
+        <li><a href="#">About Us</a></li>
         <li><a href="#">Blogs</a></li>
-        <li class="active">Blog Detail</li>
+        <li class="active">Blog</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -40,10 +41,10 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section id="blog-detail">
-                        <header><h1>Blog / News</h1></header>
+                        <header><h1>Blog</h1></header>
                         <article class="blog-detail">
                             <header class="blog-detail-header">
                                 <img src="assets/img/blog-detail-img.jpg">
@@ -231,17 +232,10 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-            <?php include 'sidebar.php';?>
-            <!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->

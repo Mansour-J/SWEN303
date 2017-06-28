@@ -30,7 +30,9 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li class="active">Courses</li>
+        <li><a href="course-listing.php">Courses</a></li>
+        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li class="active">Marks</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -81,13 +83,6 @@
                             </div>
                         </section>
                     </section><!-- /.course-listing -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul>
-                    </div>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 

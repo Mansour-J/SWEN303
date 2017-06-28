@@ -30,7 +30,6 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Blogs</a></li>
         <li class="active">New Blog</li>
     </ol>
 </div>

@@ -1270,12 +1270,12 @@ ul.list-links a:hover {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  /*filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);*/
   opacity: 0.8;
   padding: 10px;
 }
 .logos .logo a:hover {
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  /*filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);*/
   opacity: 1;
 }
 
@@ -3981,32 +3981,6 @@ input {
     right: -15px;
     top: inherit;
   }
-}
-
-.careers-detail .careers-detail-header h2 {
-  color: #7aa098;
-  margin: 20px 0;
-}
-.careers-detail .careers-detail-header h2:after {
-  display: none;
-}
-.careers-detail .careers-detail-header{
-  color: #7aa098;
-}
-.careers-detail .careers-detail-header > span {
-  margin-right: 20px;
-}
-.careers-detail .careers-detail-header {
-  margin-right: 5px;
-}
-.careers-detail {
-  color: #7aa098;
-}
-.careers-detail a {
-  color: #767676;
-  font-size: 18px;
-  padding: 2px 5px;
-  vertical-align: middle;
 }
 
 .App-logo {
