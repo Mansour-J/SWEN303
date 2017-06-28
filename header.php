@@ -29,42 +29,29 @@ echo "<!-- Header -->
                 <nav class='collapse navbar-collapse bs-navbar-collapse navbar-right' role='navigation'>
                     <ul class='nav navbar-nav'>
                         <li class='active'>
-                            <a href='#' class='has-child no-link'>Home</a>
-                            <ul class='list-unstyled child-navigation'>
-                                <li><a href='index.php'>Homepage Education</a></li>
-                                <li><a href='homepage-courses.php'>Homepage Courses</a></li>
-                            </ul>
+                            <a href='index.php' class='no-link'>Home</a>
+                        
                         </li>
                         <li>
                             <a href='#' class=' has-child no-link'>Courses</a>
                             <ul class='list-unstyled child-navigation'>
-                                <li><a href='course-landing-page.php'>Course Landing Page</a></li>
                                 <li><a href='course-listing.php'>Course Listing</a></li>
                                 <li><a href='swen303.php'>SWEN303</a></li>
-                                <li><a href='course-detail-v2.php'>Course Detail v2</a></li>
                                 <li><a href='marking.php'>Marking</a></li>
                                 <li><a href='submission.php'>Assignment Submission</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href='#' class='has-child no-link'>Events</a>
-                            <ul class='list-unstyled child-navigation'>
+                            <a href='event-grid.php' class=' no-link'>Events</a>
+                        
+                        </li>
                       
-                                <li><a href='event-grid.php'>Events Grid</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href='#'>About Us</a>
-                            <ul class='list-unstyled child-navigation'>
-                                <li><a href='about-us.php'>About Us</a></li>
-                                <li><a href='contact-us.php'>Contact Us</a></li>
-                            </ul>
-                        </li>
                         <li>
                             <a href='#' class='has-child no-link'>Blog</a>
                             <ul class='list-unstyled child-navigation'>
                                 <li><a href='blog-listing.php'>Blog listing</a></li>
                                 <li><a href='blog-detail.php'>Blog Detail</a></li>  
+                                <li><a href='blog-post.php'>New Blog</a></li>  
                             </ul>
                         </li>
                         <li>
@@ -85,8 +72,13 @@ echo "<!-- Header -->
                                 <li><a href='careers.php'>Careers</a></li>   
                             </ul>
                         </li>
+                
                         <li>
-                            <a href='my-account.php'>My Account</a>
+                            <a href='#'>About Us</a>
+                            <ul class='list-unstyled child-navigation'>
+                                <li><a href='about-us.php'>About Us</a></li>
+                                <li><a href='contact-us.php'>Contact Us</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </nav><!-- /.navbar collapse-->

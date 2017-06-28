@@ -29,7 +29,7 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="#">Blogs</a></li>
         <li class="active">Blog Detail</li>
     </ol>
 </div>

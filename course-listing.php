@@ -95,7 +95,7 @@
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">	Introduction to Computer Graphics</a></th>
+                                        <th class="course-title"><a href="swen303.php">User Interface Design</a></th>
                                         <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
                                         <th>01-03-2014</th>
                                         <th>3 months</th>

@@ -15,11 +15,11 @@
 
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
-    <title>Victoria - Educational, careers and University Template</title>
+    <title>Victoria - Educational, Blog Post and University Template</title>
 
 </head>
 
-<body class="page-sub-page page-careers-detail">
+<body class="page-sub-page page-Blog Post-detail">
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Study and Careers</a></li>
-        <li class="active">Careers</li>
+        <li><a href="#">Blogs</a></li>
+        <li class="active">New Blog</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -39,44 +39,74 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>Careers</h1></header>
+        <header><h1>New Blog</h1></header>
         <div class="row">
             <!--MAIN Content-->
+            <div class="col-md-2">
+            </div><!-- end Blog Post Image -->
             <div class="col-md-8">
                 <div id="page-main">
-                    <section id="careers-detail">
-                        <article class="careers-detail">
-                            <section id="careers-header">
-                                <header>
-                                    <h2 class="careers-header">At the School of Engineering and Computer Science we are dedicated to preparing our students for rewarding careers once they graduate.</h2>
-                                </header>
-                                <hr>
-                            </section>
+                    <section id="blog-post-detail">
+                        <article class="blog-post-detail">
 
+                            <section id="blog-post-detail-content">
+                                <div class="row">
+                                    <div >
+                                        <form role="form" class="clearfix" action="#">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="input-group">
+                                                        <div class="controls">
+                                                            <label for="subject">Subject</label>
+                                                            <input type="text" id="subject" name="subject" required="required">
+                                                        </div><!-- /.controls -->
+                                                    </div><!-- /.control-group -->
+                                                </div><!-- /.col-md-4 -->
+                                            </div><!-- /.row -->
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="input-group">
+                                                        <div class="controls">
+                                                            <label for="message">Your Message</label>
+                                                            <textarea name="message" id="message" required="required"></textarea>
+                                                        </div><!-- /.controls -->
+                                                    </div><!-- /.control-group -->
+                                                </div><!-- /.col-md-4 -->
+                                            </div><!-- /.row -->
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="input-group">
+                                                        <div class="checkbox">
+                                                            <label>
+                                                                <input type="checkbox">Check this if you wish to be notified of replies to this topic.
+                                                            </label>
+                                                        </div>
+                                                    </div><!-- /.control-group -->
+                                                </div><!-- /.col-md-4 -->
+                                            </div><!-- /.row -->
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="input-group">
+                                                        <div class="controls">
+                                                        <button type="submit" class="btn pull-right">Post</button>
+                                                        <button type="submit" class="btn pull-right">Preview</button>
+                                                        <button type="submit" class="btn pull-right">Reset</button>
+                                                        </div><!-- /.controls -->
+                                                    </div><!-- /.control-group -->
+                                                </div><!-- /.col-md-4 -->
+                                            </div><!-- /.row -->
+                                        </form>
+                                    </div>
+                                </div>
+                            </section><!-- /#Blog Post-content -->
 
-                            <section id="careers-content">
-                                <p>
-                                   Throughout our courses we focus on equipping students for work and provide them with opportunities to identify and move into worthwhile careers after they graduate.
-
-We recognise that many students begin with a clear idea of their career path so our in-depth knowledge and training as well as our <a href='work-experience.php'>work experience</a> and close coupling of our degrees with industry provides a relevant and practical start to their future career.
-
-Other students use our flexible course options and transferable skills to find their area of interest while building up a solid academic grounding and give a breadth of career choices after graduation.
-                                </p>
-                            </section><!-- /#careers-content -->
-
-                        </article><!-- /.careers-detail -->
-                    </section><!-- /.careers-detail -->
+                        </article><!-- /.Blog Post-detail -->
+                    </section><!-- /.Blog Post-detail -->
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
-            <!-- careers Image -->
-            <div class="col-md-4">
-                <figure class="careers-image">
-                    <div class="image-wrapper"><img src="assets/img/careers-img.jpg" width="100%"></div>
-                </figure>
-                <p>
-                Our graduates leave equipped for successful careers within the industry..
-                </p>
-            </div><!-- end careers Image -->
+            <!-- Blog Post Image -->
+            <div class="col-md-2">
+            </div><!-- end Blog Post Image -->
 
      
             <!-- end SIDEBAR Content-->

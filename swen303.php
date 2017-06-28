@@ -55,11 +55,11 @@
                             <section id="course-header">
                                 <header>
                                     <h2 class="course-date">Saturday March 27, 2015</h2>
-                                    <div class="course-category">Category:<a href="#">Marketing</a></div>
+                                    <div class="course-category">Category:<a href="#">Software Engineering</a></div>
                                 </header>
                                 <hr>
                                 <div class="course-count-down" id="course-count-down">
-                                           <li><a href='view-lecture-notes.php'>view-lecture-notes</a></li>   
+                                        
                             
                             
                      
@@ -71,7 +71,23 @@
                                     <span class="course-summary" id="course-course-time"><i class="fa fa-clock-o"></i>6:00pm – 8:00pm</span>
                                 </figure><!-- /#course-summary -->
                             </section><!-- /#course-header -->
+                  
+
+
                             <section id="course-brief">
+                                <header><h2>Course Info</h2></header>
+                             
+                            This course addresses the design and engineering of user interfaces. It presents principles and guidelines for design and covers a range of design processes. It presents techniques for testing user interfaces, and considers a variety of user interface styles and interface devices.            <li><a href='view-lecture-notes.php'>view-lecture-notes</a></li>   
+                         
+                         Students who pass this course should be able to:
+Understand principles of usability engineering;
+Design a user interface following accepted principles and guidelines;
+Evaluate a user interface design, and interpret the results to improve the design.
+Integrate user interface design techniques into the general software engineering life cycle.
+                         
+                            </section><!-- /#course-brief -->
+
+                              <section id="course-brief">
                                 <header><h2>Submission</h2></header>
                                 
                              <p>   
@@ -80,15 +96,6 @@
                              Please go to this link to submit your work:   <a href="submission.php" >Submission</a>
                             
                             </section><!-- /#course-brief -->
-
-
-                            <section id="course-brief">
-                                <header><h2>Course Brief</h2></header>
-                                <p>
-                                   This course addresses the use of mathematical logic in the specification and construction for software systems. It presents an introduction to the area of formal methods; the formal specification of software systems; the refinement of specifications to code; and their semantic foundations.
-                                </p>
-                            </section><!-- /#course-brief -->
-
                             <section id="course-tabs">
                                 <!-- Nav tabs -->
                                 <ul class="nav nav-tabs course-detail-tabs">
@@ -174,12 +181,7 @@
                                 </div><!-- /Tab panes -->
                             </section><!-- /#course-tabs -->
 
-                            <section id="course-info">
-                                <header><h2>Course Info</h2></header>
-                                <p>
-              This course addresses the design and engineering of user interfaces. It presents principles and guidelines for design and covers a range of design processes. It presents techniques for testing user interfaces, and considers a variety of user interface styles and interface devices.
-                                </p>
-                            </section><!-- /#course-info -->
+                           
 
                             <section id="invited-persons">
                                 <header><h2>Invited Persons</h2></header>
