@@ -30,7 +30,7 @@
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
         <li><a href="courses.php">Courses Homepages</a></li>
-        <li class="active">SWEN 303</li>
+        <li class="active">SWEN303 Home</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -45,10 +45,10 @@
                 <figure class="course-image">
                     <div class="image-wrapper"><img src="assets/img/course-detail-img.jpg"></div>
                 </figure>
+                <header><h3><a href="view-lecture-notes.php">Lecture Notes</a></h3></header>
                 <header><h3><a href="assignments.php">Assignments</a></h3></header>
                 <header><h3><a href="submissionpage.php">Submissions</a></h3></header>
                 <header><h3><a href="marks.php">Marks</a></h3></header>
-                <header><h3><a href="view-lecture-notes.php">Lecture Notes</a></h3></header>
             </div><!-- end Course Image -->
             
             <!--MAIN Content-->

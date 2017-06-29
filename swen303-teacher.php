@@ -30,7 +30,7 @@
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
         <li><a href="courses.php">Courses Homepages</a></li>
-        <li class="active">SWEN 303</li>
+        <li class="active">SWEN303 Home</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -46,9 +46,9 @@
                     <div class="image-wrapper"><img src="assets/img/course-detail-img.jpg"></div>
                 </figure>
                 <header><h3><a href="edit-course-info.php">Edit Course Info</a></h3></header>
+                <header><h3><a href="edit-lecture-notes.php">Edit Lecture Notes</a></h3></header>
+                <header><h3><a href="edit-assignments.php">Edit Assignments</a></h3></header>
                 <header><h3><a href="marks-edit.php">Mark Assignments</a></h3></header>
-                <header><h3><a href="add-assignments.php">Add Assignments</a></h3></header>
-                <header><h3><a href="add-lecture-notes.php">Add Lecture Notes</a></h3></header>
                 
             </div><!-- end Course Image -->
             
