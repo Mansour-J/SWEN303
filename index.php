@@ -377,25 +377,25 @@ Our innovative and flexible programmes will prepare you for successful careers a
                     <div class="section-content">
                         <div class="professors">
                             <article class="professor-thumbnail">
-                                <figure class="professor-image"><a href="member-detail.php"><img src="assets/img/professor.jpg" alt=""></a></figure>
+                                <figure class="professor-image"><a href="staff-detail.php"><img src="assets/img/professor.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="member-detail.php">Prof. Mathew Davis</a>
+                                        <a href="staff-detail.php">Prof. Mathew Davis</a>
                                         <div class="divider"></div>
                                         <figure class="professor-description">Applied Science and Engineering</figure>
                                     </header>
-                                    <a href="member-detail.php" class="show-profile">Show Profile</a>
+                                    <a href="staff-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
                             </article><!-- /.professor-thumbnail -->
                             <article class="professor-thumbnail">
-                                <figure class="professor-image"><a href="member-detail.php"><img src="assets/img/professor-02.jpg" alt=""></a></figure>
+                                <figure class="professor-image"><a href="staff-detail.php"><img src="assets/img/professor-02.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="member-detail.php">Prof. Jane Stairway</a>
+                                        <a href="staff-detail.php">Prof. Jane Stairway</a>
                                         <div class="divider"></div>
                                         <figure class="professor-description">Applied Science and Engineering</figure>
                                     </header>
-                                    <a href="member-detail.php" class="show-profile">Show Profile</a>
+                                    <a href="staff-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
                             </article><!-- /.professor-thumbnail -->
                             <a href="#" class="read-more stick-to-bottom">All Professors</a>

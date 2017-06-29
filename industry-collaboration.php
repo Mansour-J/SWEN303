@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li class="active">Left Sidebar</li>
+        <li class="active">Industry Collaboration</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -42,21 +42,10 @@
             <!--SIDEBAR Content-->
             <div class="col-md-4">
             <div class="block formatting">
-                            
-                
-            
-                     
-
-
-                              
-                          
-                        
-
                     <figure class="media inline"><img src="http://www.victoria.ac.nz/__data/assets/image/0013/310900/hand.jpg" alt="A red robotic hand at work."><figcaption>
                         
                          The ECS fosters close industry links for commercial development. </figcaption></figure>
-                           <p class="intro">The School of Engineering and Computer Science fosters close industry links for commercial development.</p>
-                             </div>
+                         </div>
             </div><!-- /.col-md-4 -->
 
             <!--MAIN Content-->

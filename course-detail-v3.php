@@ -155,13 +155,13 @@
                                 <section id="course-speakers">
                                     <header><h2>Speakers</h2></header>
                                     <div class="author-block course-speaker">
-                                        <a href="member-detail.html">
+                                        <a href="staff-detail.php">
                                             <figure class="author-picture"><img src="assets/img/student-testimonial.jpg"
                                                                                 alt=""></figure>
                                         </a>
                                         <article class="paragraph-wrapper">
                                             <div class="inner">
-                                                <a href="member-detail.html">
+                                                <a href="staff-detail.php">
                                                     <header>Claire Doe</header>
                                                 </a>
                                                 <figure>Marketing Specialist</figure>
@@ -172,13 +172,13 @@
                                         </article>
                                     </div><!-- /.author -->
                                     <div class="author-block course-speaker">
-                                        <a href="member-detail.html">
+                                        <a href="staff-detail.php">
                                             <figure class="author-picture"><img
                                                     src="assets/img/discussion-author-02.jpg" alt=""></figure>
                                         </a>
                                         <article class="paragraph-wrapper">
                                             <div class="inner">
-                                                <a href="member-detail.html">
+                                                <a href="staff-detail.php">
                                                     <header>Rachel Britain</header>
                                                 </a>
                                                 <figure>Data Architect</figure>
@@ -190,13 +190,13 @@
                                         </article>
                                     </div><!-- /.author -->
                                     <div class="author-block course-speaker">
-                                        <a href="member-detail.html">
+                                        <a href="staff-detail.php">
                                             <figure class="author-picture"><img
                                                     src="assets/img/discussion-author-03.jpg" alt=""></figure>
                                         </a>
                                         <article class="paragraph-wrapper">
                                             <div class="inner">
-                                                <a href="member-detail.html">
+                                                <a href="staff-detail.php">
                                                     <header>John Doe</header>
                                                 </a>
                                                 <figure>Senior Designer</figure>
@@ -323,13 +323,13 @@ Writing an essay is an important part of your assessment. The essay helps you to
                                 <section id="invited-persons">
                                     <header><h2>Invited Persons</h2></header>
                                     <div class="author-block">
-                                        <a href="member-detail.html">
+                                        <a href="staff-detail.php">
                                             <figure class="author-picture"><img src="assets/img/student-testimonial.jpg"
                                                                                 alt=""></figure>
                                         </a>
                                         <article class="paragraph-wrapper">
                                             <div class="inner">
-                                                <a href="member-detail.html">
+                                                <a href="staff-detail.php">
                                                     <header>Claire Doe</header>
                                                 </a>
                                                 <figure>Marketing Specialist</figure>
@@ -340,13 +340,13 @@ Writing an essay is an important part of your assessment. The essay helps you to
                                         </article>
                                     </div><!-- /.author -->
                                     <div class="author-block">
-                                        <a href="member-detail.html">
+                                        <a href="staff-detail.php">
                                             <figure class="author-picture"><img
                                                     src="assets/img/discussion-author-02.jpg" alt=""></figure>
                                         </a>
                                         <article class="paragraph-wrapper">
                                             <div class="inner">
-                                                <a href="member-detail.html">
+                                                <a href="staff-detail.php">
                                                     <header>Rachel Britain</header>
                                                 </a>
                                                 <figure>Data Architect</figure>

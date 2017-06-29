@@ -64,6 +64,17 @@ Other students use our flexible course options and transferable skills to find t
                                 </p>
                             </section><!-- /#careers-content -->
 
+                            <section id="careers-header">
+                                <header>
+                                    <h2 class="careers-header">Vic careers</h2>
+                                </header>
+                                <hr>
+                            </section>
+                            <section id="careers-content">
+                                <p>
+                                   <a href="http://www.victoria.ac.nz/st_services/careers/">Vic Careers</a> offers excellent advice in a friendly environment about career development and employment. It also hosts an informative <a herf="http://www.victoria.ac.nz/st_services/careers/resources/degree_options/index.aspx">'What can I do with my degree/subject?’</a> resource.
+                                </p>
+                            </section><!-- /#careers-content -->
                         </article><!-- /.careers-detail -->
                     </section><!-- /.careers-detail -->
                 </div><!-- /#page-main -->
@@ -84,7 +95,9 @@ Other students use our flexible course options and transferable skills to find t
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="course-listing.php">Courses Homepages</a></li>
-        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="swen303-teacher.php">SWEN303 Home</a></li>
         <li class="active">Edit SWEN303 Assignment Marks</li>
     </ol>
 </div>
@@ -52,7 +52,7 @@
 
 
   <div role="tabpanel" id="SWEN30320171" class="tab-pane active">
-    <h3>SWEN303 - User Interface Design (2017 T1) </h3>
+    <h2>Student: 1234567890 Jessica Young </h2>
     <div class="panel-group" id="accordionSWEN30320171" role="tablist" aria-multiselectable="true">
       
       <div class="panel panel-success">
@@ -208,6 +208,9 @@
 </div>
 <!-- end Page Content -->
 
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

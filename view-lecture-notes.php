@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="course-listing.php">Courses Homepages</a></li>
-        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="swen303-student.php">SWEN303 Home</a></li>
         <li class="active">Lecture Notes</li>
     </ol>
 </div>

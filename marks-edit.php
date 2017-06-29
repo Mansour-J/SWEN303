@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="course-listing.php">Courses Homepages</a></li>
-        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="swen303-teacher.php">SWEN303 Home</a></li>
         <li class="active">Edit SWEN303 Assignment Marks</li>
     </ol>
 </div>
@@ -67,7 +67,7 @@
                                         <th>Adrain NG</th>
                                         <th><a href="mark-details-edit.php">A+</a></th>
                                         <th>Graded</th>
-                                        <th> <button type="button" class="btn btn-danger">Mark</button></th>
+                                        <th> <button type="button" class="btn btn-danger" onclick="window.location.href='/mark-details-edit.php'">Mark</button></th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
@@ -75,7 +75,7 @@
                                         <th>BK John</th>
                                         <th><a href="mark-details-edit.php">A</a></th>
                                         <th>Graded</th>
-                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
+                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/mark-details-edit.php'">Mark</button></th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
@@ -83,7 +83,7 @@
                                         <th>Jessica Young</th>
                                         <th><a href="mark-details-edit.php">A+</a></th>
                                         <th>Graded</th>
-                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
+                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/mark-details-edit.php'">Mark</button></th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="submit-assignment.php">Assignment 2 </a></th>

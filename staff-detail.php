@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="#">Members</a></li>
-        <li class="active">Member Detail</li>
+        <li><a href="staff.php">staff</a></li>
+        <li class="active">Staff Detail</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -41,10 +41,10 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section id="members">
-                        <header><h1>Member Detail</h1></header>
+                        <header><h1>Staff Detail</h1></header>
                         <div class="author-block member-detail">
                             <figure class="author-picture"><img src="assets/img/member-detail.jpg" alt=""></figure>
                             <article class="paragraph-wrapper">
@@ -120,55 +120,13 @@ I completed my bachelor, masters and doctoral degrees at Victoria University of 
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-            <div class="col-md-4">
-                <div id="page-sidebar" class="sidebar">
-                    <aside class="news-small" id="news-small">
-                        <header>
-                            <h2>Related News</h2>
-                        </header>
-                        <div class="section-content">
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
-                            </article><!-- /article -->
-                            <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                                <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
-                            </article><!-- /article -->
-                        </div><!-- /.section-content -->
-                        <a href="#" class="read-more">All News</a>
-                    </aside><!-- /.news-small -->
-                    <aside id="newsletter">
-                        <header>
-                            <h2>Newsletter</h2>
-                            <div class="section-content">
-                                <div class="newsletter">
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Your e-mail">
-                                    <span class="input-group-btn">
-                                        <button type="submit" class="btn"><i class="fa fa-angle-right"></i></button>
-                                    </span>
-                                    </div><!-- /input-group -->
-                                </div><!-- /.newsletter -->
-                                <p class="opacity-50">The class representative provides a useful way to communicate feedback to the teaching staff during the course. They also work with the VUWSA Education Office on any academic issues that arise in their course. Reps are elected by students by the third week of classes every trimester. Being a rep requires a weekly commitment.
-                                </p>
-                            </div><!-- /.section-content -->
-                        </header>
-                    </aside><!-- /.newsletter -->
-                </div><!-- /#sidebar -->
-            </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
 
 <!-- Footer -->
-<?php include 'header.php';?>
+<?php include 'footer.php';?>
 <!-- end Footer -->
 
 </div>

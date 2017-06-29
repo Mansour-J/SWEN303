@@ -175,13 +175,16 @@ Introduced in 2011, the Dean's List celebrates academic excellence for students 
                         </ul>
                     </div>
                 </div><!-- /#page-main -->
+                    
             </div><!-- /.col-md-8 -->
 
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

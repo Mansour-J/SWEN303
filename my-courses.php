@@ -58,7 +58,7 @@
                                     </thead>
                                     <tbody>
                                     <tr class="status-not-started">
-                                        <th class="course-title"><a href="swen303.php">User Interface Design</a></th>
+                                        <th class="course-title"><a href="swen303-student.php">User Interface Design</a></th>
                                         <th>SWEN303</th>
                                         <th>01-03-2014</th>
                                         <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
@@ -119,9 +119,11 @@
 
         </div><!-- /.row -->
     </div><!-- /.container -->
-</div>
-<!-- end Page Content -->
 
+<!-- end Page Content -->
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

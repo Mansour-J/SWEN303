@@ -29,7 +29,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="course-listing.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Courses Homepages</a></li>
         <li class="active">SWEN 303</li>
     </ol>
 </div>
@@ -46,16 +46,9 @@
                     <div class="image-wrapper"><img src="assets/img/course-detail-img.jpg"></div>
                 </figure>
                 <header><h3><a href="assignments.php">Assignments</a></h3></header>
-                <header><h3><a href="submission.php">Submissions</a></h3></header>
+                <header><h3><a href="submissionpage.php">Submissions</a></h3></header>
                 <header><h3><a href="marks.php">Marks</a></h3></header>
                 <header><h3><a href="view-lecture-notes.php">Lecture Notes</a></h3></header>
-                <br>
-                <br>
-                <header><h3><a href="edit-course-info.php">Edit Course Info</a></h3></header>
-                <header><h3><a href="marks-edit.php">Mark Assignments</a></h3></header>
-                <header><h3><a href="add-assignments.php">Add Assignments</a></h3></header>
-                <header><h3><a href="add-lecture-notes.php">Add Lecture Notes</a></h3></header>
-                
             </div><!-- end Course Image -->
             
             <!--MAIN Content-->
@@ -195,10 +188,10 @@ Integrate user interface design techniques into the general software engineering
                             <section id="invited-persons">
                                 <header><h2>Invited Persons</h2></header>
                                 <div class="author-block">
-                                    <a href="member-detail.html"><figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure></a>
+                                    <a href="staff-detail.php"><figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure></a>
                                     <article class="paragraph-wrapper">
                                         <div class="inner">
-                                            <a href="member-detail.html"><header>Claire Doe</header></a>
+                                            <a href="staff-detail.php"><header>Claire Doe</header></a>
                                             <figure>Marketing Specialist</figure>
                                             <p>
                                                You must be a competent programmer and confident in your ability to pick up a new language. Detailed mathematics is not required but you need the ability to think rigorously about abstract ideas including specifications . You must be able to express your understanding of the programs requirements in First Order Logic and you need a good grasp of the the relation between specification and code.
@@ -207,10 +200,10 @@ Integrate user interface design techniques into the general software engineering
                                     </article>
                                 </div><!-- /.author -->
                                 <div class="author-block">
-                                    <a href="member-detail.html"><figure class="author-picture"><img src="assets/img/discussion-author-02.jpg" alt=""></figure></a>
+                                    <a href="staff-detail.php"><figure class="author-picture"><img src="assets/img/discussion-author-02.jpg" alt=""></figure></a>
                                     <article class="paragraph-wrapper">
                                         <div class="inner">
-                                            <a href="member-detail.html"><header>Rachel Britain</header></a>
+                                            <a href="staff-detail.php"><header>Rachel Britain</header></a>
                                             <figure>Data Architect</figure>
                                             <p>
                                               In this course you will learn how to write SPARK Ada programs. This will require you adopt a quite different mindset from that used writing Java or C programs. The construction of the specification may take more code and more effort that coding the solution.

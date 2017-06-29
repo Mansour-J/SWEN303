@@ -181,6 +181,9 @@ You can estimate your workload by adding up the number of points you'll be doing
 </div>
 <!-- end Page Content -->
 
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

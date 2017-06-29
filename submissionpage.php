@@ -30,8 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="course-listing.php">Courses Homepages</a></li>
-        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="swen303-student.php">SWEN303 Home</a></li>
         <li class="active">Submission</li>
     </ol>
 </div>
@@ -56,6 +56,7 @@
                                         <th>Description</th>
                                         <th class="starts">Due Date</th>
                                         <th>Status</th>
+                                        <th></th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -64,18 +65,21 @@
                                         <th>Usability Evaluation</th>
                                         <th>03/04/2017 10:00:00 (Past due date)</th>
                                         <th>Completed on 02/04/2017 22:26:29</th>
+                                        <th><button type="submit" class="btn pull-right" onclick="window.location.href='/submit-assignment.php'">Submission</button></th>
                                     </tr>
                                     <tr>
                                         <th><a href="submit-assignment.php">Assignment 2</a></th>
                                         <th>User Modelling (Personas & Scenarios)</th>
                                         <th>22/05/2017 10:00:00 (Past due date)</th>
                                         <th>Completed on 21/05/2017 23:36:35</th>
+                                        <th><button type="submit" class="btn pull-right" onclick="window.location.href='/submit-assignment.php'">Submission</button></th>
                                     </tr>
                                     <tr>
                                         <th><a href="submit-assignment.php">Project</a></th>
                                         <th>User Interface Final Group Design Project</th>
                                         <th>03/07/2017 10:00:00</th>
                                         <th></th>
+                                        <th><button type="submit" class="btn pull-right" onclick="window.location.href='/submit-assignment.php'">Submission</button></th>
                                     </tr>
                                     </tbody>
                                 </table>

@@ -33,22 +33,22 @@ echo "<!-- Header -->
                         
                         </li>
                         <li>
-                            <a href='#' class='has-child no-link'>Research</a>
-                            <ul class='list-unstyled child-navigation'>
-                                <li><a href='tech-report-series.php'>View Technical Reportseries</a></li>
-                                <li><a href='members.php'>Members</a></li>
-                                <li><a href='member-detail.php'>Member Detail</a></li>
-                                <li><a href='view-research-group.php'>Research Group</a></li>
-                                <li><a href='industry-collaboration.php'>Industry collaboration</a></li>
-                            </ul>
-                        </li>
-                        <li>
                             <a href='#'class='has-child no-link'>Study and Careers</a>
                             <ul class='list-unstyled child-navigation'>
                                 <li><a href='degrees.php'>Degrees</a></li>
-                                <li><a href='course-listing.php'>Courses</a></li>
-                                <li><a href='work-experience.php'>Work experience</a></li>    
+                                <li><a href='courses.php'>Courses</a></li> 
                                 <li><a href='careers.php'>Careers</a></li>   
+                                <li><a href='work-experience.php'>Work Experience</a></li>   
+                            </ul>
+                        </li>
+                        <li>
+                           
+                            
+                             <a href='#' class='has-child no-link'>Research</a>
+                            <ul class='list-unstyled child-navigation'>
+                                <li><a href='tech-report-series.php'>View Technical Reportseries</a></li>
+                                <li><a href='view-research-group.php'>Research Group</a></li>
+                                <li><a href='industry-collaboration.php'>Industry Collaboration</a></li>
                             </ul>
                         </li>
                         <li>
@@ -56,6 +56,7 @@ echo "<!-- Header -->
                             <ul class='list-unstyled child-navigation'>
                                 <li><a href='about-us.php'>About Us</a></li>
                                 <li><a href='contact-us.php'>Contact Us</a></li>
+                                <li><a href='staff.php'>staff</a></li>
                                 <li><a href='event-grid.php' class=' no-link'>Events</a></li>
                                 <li><a href='blog-listing.php'>Blogs</a></li>
                             </ul>
@@ -64,7 +65,7 @@ echo "<!-- Header -->
                             <a href='#' class='has-child no-link'>My Account</a>
                             <ul class='list-unstyled child-navigation'>
                                 <li><a href='my-courses.php'>My Courses</a></li>
-                                <li><a href='blog-post.php'>New Blog</a></li>
+                                <li><a href='blog-post.php'>Post New Blog</a></li>
                             </ul>
                         </li>
                     </ul>

@@ -103,7 +103,9 @@ Whether you require assistance, or just have a general enquiry, feel free to get
 </div>
 <!-- end Page Content -->
 
-
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 
