@@ -57,7 +57,7 @@
       
       <div class="panel panel-success">
         <div class="panel-heading collapsed" role="tab" id="headingSWEN30320171Assignment_1" data-toggle="collapse" data-parent="#accordionSWEN30320171" data-target="#collapseSWEN30320171Assignment_1" aria-expanded="false" aria-controls="collapseSWEN30320171Assignment_1">
-          <h3 class="panel-title"><b>Assignment_1</b></h3> 
+          <h3 class="panel-title"><b>Assignment_1</b></h3> <button type="submit" class="btn pull-right">Edit</button>
         </div>
         <div id="collapseSWEN30320171Assignment_1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSWEN30320171Assignment_1" aria-expanded="false" style="height: 0px;">
           <div class="panel-body">
