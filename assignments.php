@@ -29,7 +29,8 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="swen303.php">SWEN303</a></li>
         <li class="active">Assignments and Projects: SWEN 303 (2017)</li>
     </ol>
 </div>

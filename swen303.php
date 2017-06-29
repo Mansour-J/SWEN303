@@ -28,8 +28,8 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="course-listing.php">Courses</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="course-listing.php">Courses Homepages</a></li>
         <li class="active">SWEN 303</li>
     </ol>
 </div>
@@ -47,7 +47,14 @@
                 </figure>
                 <header><h3><a href="assignments.php">Assignments</a></h3></header>
                 <header><h3><a href="submission.php">Submissions</a></h3></header>
-                <header><h3><a href="marking.php">Marks</a></h3></header>
+                <header><h3><a href="marks.php">Marks</a></h3></header>
+                <header><h3><a href="view-lecture-notes.php">Lecture Notes</a></h3></header>
+                <br>
+                <br>
+                <header><h3><a href="edit-course-info.php">Edit Course Info</a></h3></header>
+                <header><h3><a href="marks-edit.php">Mark Assignments</a></h3></header>
+                <header><h3><a href="add-assignments.php">Add Assignments</a></h3></header>
+                <header><h3><a href="add-lecture-notes.php">Add Lecture Notes</a></h3></header>
                 
             </div><!-- end Course Image -->
             

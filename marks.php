@@ -32,7 +32,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="course-listing.php">Courses Homepages</a></li>
         <li><a href="swen303.php">SWEN303 Home</a></li>
-        <li class="active">Submission</li>
+        <li class="active">Marks</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -45,38 +45,35 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1>SWEN 303 Accessment Submission</h1></header>
+                        <header><h1> SWEN303 Accessment Marks</h1></header>
                        
                         <section id="course-list">
                             <div class="table-responsive">
                                 <table class="table table-hover course-list-table tablesorter">
                                     <thead>
                                     <tr>
-                                        <th>Accessment</th>
-                                        <th>Description</th>
-                                        <th class="starts">Due Date</th>
-                                        <th>Status</th>
+                                        <th>Assignment Name</th>
+                                        <th>Marks</th>
+                                        <th class="starts">Status</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th><a href="submit-assignment.php">Assignment 1</a></th>
-                                        <th>Usability Evaluation</th>
-                                        <th>03/04/2017 10:00:00 (Past due date)</th>
-                                        <th>Completed on 02/04/2017 22:26:29</th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
+                                        <th class="course-category"><a href="mark-details.php">A+ </a></th>
+                                        <th>Graded</th>
                                     </tr>
                                     <tr>
-                                        <th><a href="submit-assignment.php">Assignment 2</a></th>
-                                        <th>User Modelling (Personas & Scenarios)</th>
-                                        <th>22/05/2017 10:00:00 (Past due date)</th>
-                                        <th>Completed on 21/05/2017 23:36:35</th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 2</a></th>
+                                        <th class="course-category"><a href="mark-details.php">B</a></th>
+                                        <th>Submitted</th>
                                     </tr>
                                     <tr>
-                                        <th><a href="submit-assignment.php">Project</a></th>
-                                        <th>User Interface Final Group Design Project</th>
-                                        <th>03/07/2017 10:00:00</th>
-                                        <th></th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 3</a></th>
+                                        <th class="course-category">Pending</th>
+                                        <th>Due 06-07-2017</th>
                                     </tr>
+               
                                     </tbody>
                                 </table>
                             </div>

@@ -52,7 +52,7 @@ echo "<!-- Header -->
                             </ul>
                         </li>
                         <li>
-                            <a href='#' class='has-child no-link'>About Us</a>
+                            <a href='#' class='has-child no-link'>About</a>
                             <ul class='list-unstyled child-navigation'>
                                 <li><a href='about-us.php'>About Us</a></li>
                                 <li><a href='contact-us.php'>Contact Us</a></li>

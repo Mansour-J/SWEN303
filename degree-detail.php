@@ -29,7 +29,7 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="degrees.php">Degrees</a></li>
         <li class="active">Postgraduate Diploma in Science – PGDipSci</li>
     </ol>

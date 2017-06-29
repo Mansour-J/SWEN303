@@ -29,8 +29,9 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="assignments">Assignments</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="swen303.php">SWEN303</a></li>
+        <li><a href="assignments.php">Assignments</a></li>
         <li class="active">Assignment detail</li>
     </ol>
 </div>

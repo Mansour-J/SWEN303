@@ -29,9 +29,10 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Study and Careers</a></li>
-        <li class="active">Work experiences</li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="course-listing.php">Courses Homepages</a></li>
+        <li><a href="swen303.php">SWEN303 Home</a></li>
+        <li class="active">Lecture Notes</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -214,16 +215,10 @@
                         </article><!-- /.work-experience-detail -->
                     </section><!-- /.work-experience-detail -->
                 </div><!-- /#page-main -->
-            
-        </div><!-- /.row -->
+                    </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-</div>
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
-
 </div>
 <!-- end Wrapper -->
 

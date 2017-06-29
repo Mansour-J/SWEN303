@@ -76,15 +76,15 @@
                     <div class="section-content">
                         <article>
                             <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                            <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
+                            <header><a href="blog-detail.php">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
                         </article><!-- /article -->
                         <article>
                             <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                            <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
+                            <header><a href="blog-detail.php">At 50, Center for the Education of Women celebrates a wider mission</a></header>
                         </article><!-- /article -->
                         <article>
                             <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
-                            <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
+                            <header><a href="blog-detail.php">Three U-Michigan scientists receive Sloan fellowships</a></header>
                         </article><!-- /article -->
                     </div><!-- /.section-content -->
                     <a href="#" class="read-more stick-to-bottom">All News</a>

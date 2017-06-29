@@ -29,8 +29,7 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Study and Careers</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="active">Work experiences</li>
     </ol>
 </div>

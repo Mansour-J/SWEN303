@@ -29,8 +29,8 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li class="active">Courses</li>
+        <li><a href="index.php">Home</a></li>
+        <li class="active">Courses Homepages</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -43,7 +43,7 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1>Courses</h1></header>
+                        <header><h1>Courses Homepages</h1></header>
                         <section id="course-search">
                             <div class="course-search-box">
                                 <header><span class="fa fa-search"></span><h2>Find Course for You</h2></header>

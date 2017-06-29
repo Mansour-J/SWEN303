@@ -29,10 +29,10 @@
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="course-listing.php">Courses</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="course-listing.php">Courses Homepages</a></li>
         <li><a href="swen303.php">SWEN303 Home</a></li>
-        <li class="active">Marks</li>
+        <li class="active">Edit SWEN303 Assignment Marks</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -45,7 +45,7 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1> Student ID 123456789 of SWEN 303 Accessment Submission</h1></header>
+                        <header><h1> SWEN 303 Accessment Submission</h1></header>
                        
                         <section id="course-list">
                             <div class="table-responsive">
@@ -53,6 +53,8 @@
                                     <thead>
                                     <tr>
                                         <th>Assignment Name</th>
+                                        <th>Student ID</th>
+                                        <th>Student Name</th>
                                         <th>Marks</th>
                                         <th class="starts">Status</th>
                                         <th class="length"> Action</th>
@@ -60,22 +62,52 @@
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 1 </a></th>
-                                        <th class="course-category"><a href="#">A+ </a></th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
+                                        <th>3003123456</th>
+                                        <th>Adrain NG</th>
+                                        <th><a href="mark-details-edit.php">A+</a></th>
                                         <th>Graded</th>
                                         <th> <button type="button" class="btn btn-danger">Mark</button></th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 2</a></th>
-                                        <th class="course-category"><a href="#">B</a></th>
-                                        <th>Submitted</th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
+                                        <th>3003123457</th>
+                                        <th>BK John</th>
+                                        <th><a href="mark-details-edit.php">A</a></th>
+                                        <th>Graded</th>
+                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
+                                    </tr>
+                                    <tr>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
+                                        <th>3003123458</th>
+                                        <th>Jessica Young</th>
+                                        <th><a href="mark-details-edit.php">A+</a></th>
+                                        <th>Graded</th>
+                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
+                                    </tr>
+                                    <tr>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 2 </a></th>
+                                        <th>3003123456</th>
+                                        <th>Adrain NG</th>
+                                        <th><a href="mark-details-edit.php">A+</a></th>
+                                        <th>Graded</th>
                                         <th> <button type="button" class="btn btn-danger">Mark</button></th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Assignment 3</a></th>
-                                        <th class="course-category"><a href="#">Pending</a></th>
-                                        <th>Due 06-07-2017</th>
-                                        <th><button type="button" class="btn btn-danger" style ="    background-color: #d2322d; border-color: #ac2925;">Mark</button></th>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 2 </a></th>
+                                        <th>3003123457</th>
+                                        <th>BK John</th>
+                                        <th><a href="mark-details-edit.php">A+</a></th>
+                                        <th>Graded</th>
+                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
+                                    </tr>
+                                    <tr>
+                                        <th class="course-title"><a href="submit-assignment.php">Assignment 3 </a></th>
+                                        <th>3003123458</th>
+                                        <th>Jessica Young</th>
+                                        <th><a href="mark-details-edit.php">A+</a></th>
+                                        <th>Graded</th>
+                                        <th><button type="button" class="btn btn-danger">Mark</button></th>
                                     </tr>
                
                                     </tbody>
@@ -92,10 +124,6 @@
     </div><!-- /.container -->
 </div>
 <!-- end Page Content -->
-
-<!-- Footer -->
-<?php include 'footer.php';?>
-<!-- end Footer -->
 
 </div>
 <!-- end Wrapper -->
