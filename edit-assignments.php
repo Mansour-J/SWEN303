@@ -52,7 +52,7 @@
                                 <table class="table table-hover course-list-table tablesorter">
                                     <thead>
                                     <tr>
-                                        <th>Accessment</th>
+                                        <th>Assessment</th>
                                         <th>Description</th>
                                         <th class="starts">Due Date</th>
                                         <th><button type="button" class="btn btn-danger" onclick="window.location.href='/assignment-detail.php'">Add</button></th>

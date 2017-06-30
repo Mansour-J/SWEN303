@@ -47,7 +47,7 @@
                 </figure>
                 <header><h3><a href="view-lecture-notes.php">Lecture Notes</a></h3></header>
                 <header><h3><a href="assignments.php">Assignments</a></h3></header>
-                <header><h3><a href="submissionpage.php">Submissions</a></h3></header>
+                <header><h3><a href="submissionpage.php">Submission</a></h3></header>
                 <header><h3><a href="marks.php">Marks</a></h3></header>
             </div><!-- end Course Image -->
             
@@ -58,7 +58,7 @@
                         <article class="course-detail">
                             <section id="course-header">
                                 <header>
-                                    <h2 class="course-date">Saturday March 27, 2015</h2>
+                                    <h2 class="course-date">Course Duration: 6 March 2017 - 5 July 2017</h2>
                                     <div class="course-category">Category:<a href="#">Software Engineering</a></div>
                                 </header>
                                 <hr>
@@ -72,7 +72,7 @@
                                 <figure id="course-summary">
                                     <span class="course-summary" id="course-length"><i class="fa fa-calendar-o"></i>7 weeks</span>
                                     <span class="course-summary" id="course-time-amount"><i class="fa fa-folder-o"></i>4-6 hours of work / week</span>
-                                    <span class="course-summary" id="course-course-time"><i class="fa fa-clock-o"></i>6:00pm – 8:00pm</span>
+                                    <span class="course-summary" id="course-course-time"><i class="fa fa-clock-o"></i>10:00am – 11:00am</span>
                                 </figure><!-- /#course-summary -->
                             </section><!-- /#course-header -->
                   

@@ -40,7 +40,7 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section class="events images" id="events">
                         <header><h1>Research groups</h1></header>
@@ -50,16 +50,12 @@
                                     <figure class="event-image">
                                         <div class="image-wrapper"><img src="assets/img/event-img-01.jpg"></div>
                                     </figure>
-                                    <figure class="date">
-                                        <div class="month">jan</div>
-                                        <div class="day">18</div>
-                                    </figure>
                                 </div>
                                 <aside>
                                     <header>
                                         <a href="#">Artificial Intelligence Group</a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span>The Artificial Intelligence Group carries out research in Machine Learning, Neural Networks, Cognitive Science and Data Mining. Active projects include a system for automatic clustering of temporal data, analysing the evolution of cooperative behaviour, and the development of reinforcement learning techniques for complex tasks.</div>
+                                    <div class="additional-info">The Artificial Intelligence Group carries out research in Machine Learning, Neural Networks, Cognitive Science and Data Mining. Active projects include a system for automatic clustering of temporal data, analysing the evolution of cooperative behaviour, and the development of reinforcement learning techniques for complex tasks.</div>
                                     <div class="description">
                                         <p>
                                         </p>
@@ -72,16 +68,12 @@
                                     <figure class="event-image">
                                         <div class="image-wrapper"><img src="assets/img/event-img-02.jpg"></div>
                                     </figure>
-                                    <figure class="date">
-                                        <div class="month">feb</div>
-                                        <div class="day">01</div>
-                                    </figure>
                                 </div>
                                 <aside>
                                     <header>
                                         <a href="#">Cloud Research Group </a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span> Pitt Rivers and Natural History Museums</div>
+                                    <div class="additional-info"> Pitt Rivers and Natural History Museums</div>
                                     <div class="description">
                                         <p>The Cloud Research Group is conducting research into cloud related areas of distributed computing, including, services and service oriented architectures, workflows, cloud computing markets, resource allocation, high performance computing, scientific computation, eResearch and the associated topics of social computing and reputation.
                                         </p>
@@ -94,16 +86,12 @@
                                     <figure class="event-image">
                                         <div class="image-wrapper"><img src="assets/img/event-img-03.jpg"></div>
                                     </figure>
-                                    <figure class="date">
-                                        <div class="month">mar</div>
-                                        <div class="day">23</div>
-                                    </figure>
                                 </div>
                                 <aside>
                                     <header>
                                         <a href="#">Communications and Signal Processing (CaSP) Group</a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                    <div class="additional-info"> Faculty of Science</div>
                                     <div class="description">
                                         <p>The CaSP group focuses on the development and application of signal processing techniques. The areas of application include physical layer wireless communications, audio and acoustics, control systems and biomedical devices. Specific research topics we work on include cognitive radio, multichannel systems, wireless channel modelling, audio coding, blind source separation, target tracking, nonlinear system identification and image processing.
                                         </p>
@@ -116,16 +104,12 @@
                                     <figure class="event-image">
                                         <div class="image-wrapper"><img src="assets/img/event-img-04.jpg"></div>
                                     </figure>
-                                    <figure class="date">
-                                        <div class="month">may</div>
-                                        <div class="day">12</div>
-                                    </figure>
                                 </div>
                                 <aside>
                                     <header>
                                         <a href="#">eLearning Research Group</a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                    <div class="additional-info"> Faculty of Science</div>
                                     <div class="description">
                                         <p>The eLearning Research Group performs research in eLearning primarily from a technological perspective while studying the socio-technical implications of new innovations. The range of study is broad, including algorithmic, systems and pedagogical issues. Current work focuses on Massive Open Online Courses (MOOC), mobile teaching and learning, learning analytics, gamification, and AI in teaching and learning.
                                         </p>
@@ -138,16 +122,12 @@
                                     <figure class="event-image">
                                         <div class="image-wrapper"><img src="assets/img/event-img-05.jpg"></div>
                                     </figure>
-                                    <figure class="date">
-                                        <div class="month">jun</div>
-                                        <div class="day">17</div>
-                                    </figure>
                                 </div>
                                 <aside>
                                     <header>
                                         <a href="#">ELVIS - Software Engineering and Programming Languages</a>
                                     </header>
-                                    <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                    <div class="additional-info"> Faculty of Science</div>
                                     <div class="description">
                                         <p>ELVIS's work ranges from more technical research concerning the structure of software and tool support for development, to human-computer interaction and software development processes. They have experience and interests in a wide range of topics and applications in the Object Oriented paradigm, including visualisation, design patterns, software reuse, and frameworks, as well as in interface design and evaluation.
                                         </p>
@@ -167,8 +147,6 @@
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
-            <!--SIDEBAR Content-->
-   <?php include 'sidebar.php';?>
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>

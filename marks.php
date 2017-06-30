@@ -45,7 +45,7 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1> SWEN303 Accessment Marks</h1></header>
+                        <header><h1> SWEN303 Assessment Marks</h1></header>
                        
                         <section id="course-list">
                             <div class="table-responsive">
@@ -65,7 +65,7 @@
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="submit-assignment.php">Assignment 2</a></th>
-                                        <th class="course-category"><a href="mark-details.php">B</a></th>
+                                        <th class="course-category"></th>
                                         <th>Submitted</th>
                                     </tr>
                                     <tr>

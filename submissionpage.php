@@ -45,14 +45,14 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1>SWEN 303 Accessment Submission</h1></header>
+                        <header><h1>SWEN 303 Assessment Submission</h1></header>
                        
                         <section id="course-list">
                             <div class="table-responsive">
                                 <table class="table table-hover course-list-table tablesorter">
                                     <thead>
                                     <tr>
-                                        <th>Accessment</th>
+                                        <th>Assessment</th>
                                         <th>Description</th>
                                         <th class="starts">Due Date</th>
                                         <th>Status</th>
