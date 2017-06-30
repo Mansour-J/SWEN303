@@ -130,7 +130,7 @@
                                 <header>
                                     <a href="event-detail.php">The Orchestra of the Age of Enlightenment perform with Music</a>
                                 </header>
-                                <div class="additional-info">Faculty of Music</div>
+                                <div class="additional-info">Faculty of Science</div>
                             </aside>
                         </article><!-- /article -->
                     </div><!-- /.section-content -->
@@ -144,7 +144,7 @@
                     <div class="section-content">
                         <img src="assets/img/students.jpg" alt="" class="add-margin">
                         <p><strong>Welcome o Victoria.</strong>Find out more about Victoria University of Wellington, New Zealand’s globally ranked capital city university, and all that it has to offer. </p>
-                        <a href="#" class="read-more stick-to-bottom">Read More</a>
+                        <a href="about-us.php" class="read-more stick-to-bottom">Read More</a>
                     </div><!-- /.section-content -->
                 </section><!-- /.about -->
             </div><!-- /.col-md-4 -->

@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li class="active">Data</li>
+        <li class="active">Research groups</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->

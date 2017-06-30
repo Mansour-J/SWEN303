@@ -75,9 +75,6 @@
                                     </div><!-- /.form-group -->
                                 </form><!-- /#<!-- /.form-group -->
                                 <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox">Webinar
-                                    </label>
                                 </div>
                                 <button type="submit" class="btn pull-right">Search</button>
                             </div><!-- /.course-search-box -->
@@ -96,55 +93,55 @@
                                     <tbody>
                                     <tr>
                                         <th class="course-title"><a href="swen303-student.php">User Interface Design</a></th>
-                                        <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
+                                        <th class="course-category">Graphic Design and 3D</th>
                                         <th>01-03-2014</th>
                                         <th>3 months</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="swen303-teacher.php">Advanced Database</a></th>
-                                        <th class="course-category"><a href="#">Marketing</a></th>
+                                        <th class="course-category">Marketing</a></th>
                                         <th>03-03-2014</th>
                                         <th>2 lessons</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">	Project in Computer Graphics Programming</a></th>
-                                        <th class="course-category"><a href="#">Marketing</a></th>
+                                        <th class="course-category">Marketing</th>
                                         <th>06-03-2014</th>
                                         <th>1 month</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Rendering</a></th>
-                                        <th class="course-category"><a href="#">Science</a></th>
+                                        <th class="course-category">Science</th>
                                         <th>21-03-2014</th>
                                         <th>3 weeks</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">	Three-Dimensional Modelling for Computer Graphics</a></th>
-                                        <th class="course-category"><a href="#">History and Psychology</a></th>
+                                        <th class="course-category">History and Psychology</th>
                                         <th>06-04-2014</th>
                                         <th>1 lesson</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">	Directed Individual Study</a></th>
-                                        <th class="course-category"><a href="#">Marketing</a></th>
+                                        <th class="course-category">Marketing</th>
                                         <th>03-03-2014</th>
                                         <th>2 lessons</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Project</a></th>
-                                        <th class="course-category"><a href="#">Marketing</a></th>
+                                        <th class="course-category">Marketing</th>
                                         <th>06-03-2014</th>
                                         <th>1 month</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Computer Program Design</a></th>
-                                        <th class="course-category"><a href="#">Science</a></th>
+                                        <th class="course-category">Science</th>
                                         <th>21-03-2014</th>
                                         <th>3 weeks</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Data Structures and Algorithms</a></th>
-                                        <th class="course-category"><a href="#">History and Psychology</a></th>
+                                        <th class="course-category">History and Psychology</th>
                                         <th>06-04-2014</th>
                                         <th>1 lesson</th>
                                     </tr>
@@ -153,13 +150,6 @@
                             </div>
                         </section>
                     </section><!-- /.course-listing -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul>
-                    </div>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 

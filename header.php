@@ -46,8 +46,8 @@ echo "<!-- Header -->
                             
                              <a href='#' class='has-child no-link'>Research</a>
                             <ul class='list-unstyled child-navigation'>
-                                <li><a href='tech-report-series.php'>View Technical Reportseries</a></li>
-                                <li><a href='view-research-group.php'>Research Group</a></li>
+                                <li><a href='tech-report-series.php'>Technical Reportseries</a></li>
+                                <li><a href='view-research-group.php'>Research Groups</a></li>
                                 <li><a href='industry-collaboration.php'>Industry Collaboration</a></li>
                             </ul>
                         </li>

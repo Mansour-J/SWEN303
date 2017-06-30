@@ -47,7 +47,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <address>
-                                    <h3>Wellington's University of Victoria  , School of Engineering and Computer Science.</h3>
+                                    <h3>Get in touch with the School of Engineering and Computer Science. You are welcome to come and talk to us in person, or you can reach us by phone or email.</h3>
                                     <br>
                                     <span>School of Engineering and Computer Science
 Room CO 358 (third floor)
