@@ -40,15 +40,16 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section id="about">
                         <header><h1>About Us</h1></header>
-                        <img src="assets/img/about-us-head-img-new.jpg">
                         <h2>Mission & Purpose</h2>
                         <p>
                           Victoria’s School of Engineering and Computer Science (ECS) prepares students for successful careers at the forefront of new and exciting global technology.
                         </p>
+                        <img src="assets/img/about-us-head-img-new.jpg"><br>
+                        <hr>
                         <h2>Bold History that Fuels the Future</h2>
                         <p>
                            Do you want to make the next major breakthrough in technology, help save a life, produce the next big game or start the next Facebook? Now you can. ECS was established in response to a growing need for fully-qualified graduates in the digital technologies. We bring together the best from a well-established group of Engineering, Computer Science and Mathematics academic staff - and we are excited to announce our new major in Computer Graphics, taught by staff who have worked on The Matrix and Avatar.
@@ -58,10 +59,11 @@
 
 Whether you require assistance, or just have a general enquiry, feel free to get in touch with our ECS staff.
                         </p>
-                        <h2>Gallery</h2>
-                        <div>
+                        <hr>
+                        <h2>Staff Gallery</h2>
+                        <div> 
                             <ul class="gallery-list">
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
+                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/gallery-big-image.jpg" alt=""></a></li>
                                 <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-02.jpg" alt=""></a></li>
                                 <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-03.jpg" alt=""></a></li>
                                 <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-04.jpg" alt=""></a></li>
@@ -76,28 +78,38 @@ Whether you require assistance, or just have a general enquiry, feel free to get
                                 <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
                                 <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
                             </ul>
-                            <a href="#" class="read-more">Go to Gallery</a>
+                            <p>you can also get our staff details in the link
+                            <a href="staff.php"><font size=2><b> staff details </b></font></a></p>
                         </div>
+                        <hr>
                         <h2>Research</h2>
                         <p>
                             The Faculty of Engineering welcomes students, staff and visitors regardless of national origin, gender, religion, race, ethnicity, or sexual orientation. The Faculty is committed to teaching and research that is free from all such discrimination.
                         </p>
                         <ul class="element-framed">
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Dale-Carnegie.pdf">Prof Dale Carnegie</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Bastiaan-Kleijn.pdf">Prof Bastiaan Kleijn</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-James-Noble.pdf">Prof James Noble</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Winston-Seah.pdf">Prof Winston Seah</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Mengjie-Zhang.pdf">Prof Mengjie Zhang</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Will-Browne.pdf">A/Prof Will Browne</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Alex-Potanin.pdf">Dr Alex Potanin</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-David-Pearce.pdf">Dr David Pearce</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Paul-Teal.pdf">A/Prof Paul Teal</a></li>
-                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-ELVIS.pdf">ELVIS - Software Engineering</a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Dale-Carnegie.pdf"><font size=2><b>Prof Dale Carnegie </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Bastiaan-Kleijn.pdf"><font size=2><b>Prof Bastiaan Kleijn </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-James-Noble.pdf"><font size=2><b>Prof James Noble </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Winston-Seah.pdf"><font size=2><b>Prof Winston Seah </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Mengjie-Zhang.pdf"><font size=2><b>Prof Mengjie Zhang </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Will-Browne.pdf"><font size=2><b>A/Prof Will Browne </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Alex-Potanin.pdf"><font size=2><b>Dr Alex Potanin </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-David-Pearce.pdf"><font size=2><b>Dr David Pearce </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Paul-Teal.pdf"><font size=2><b>A/Prof Paul Teal </b></font></a></li>
+                           <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-ELVIS.pdf"><font size=2><b>ELVIS - Software Engineering</b></font></a></li>
+                        </ul>
+                        <hr>
+                        <h2>Academic prospectuses</h2>
+                        <p>
+                            Download the School of Engineering and Computer Science’s undergraduate and postgraduate prospectuses.
+                        </p>
+                        <ul class="element-framed">
+                           <li>Download Undergraduate Prospectus <a href="http://www.victoria.ac.nz/ecs/study/attachments/secs_ug_2017.pdf"><font size=2><b>Engineering and Computer Science 2017</b></font></a></li>
+                           <li>Download Postgraduate Prospectus <a href="http://www.victoria.ac.nz/ecs/study/attachments/secs_pg_2017.pdf"><font size=2><b>Engineering and Computer Science 2017</b></font></a></li>
                         </ul>
                     </section>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
-
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>

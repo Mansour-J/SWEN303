@@ -167,15 +167,15 @@
                         </header>
                         <div class="section-content">
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
                             </article><!-- /article -->
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
                             </article><!-- /article -->
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
                             </article><!-- /article -->
                         </div><!-- /.section-content -->

@@ -64,7 +64,7 @@
                                         <!-- /.course-start -->
 
                                         <div class="count-down-wrapper">
-                                            <script type="text/javascript">var _date = 'Mar 27, 2014 23:28';</script>
+                                            <script type="text/javascript">var _date = 'Mar 27, 2017 23:28';</script>
                                         </div><!-- /.count-down-wrapper -->
 
                                         <div class="course-progress">
@@ -404,17 +404,17 @@ Writing an essay is an important part of your assessment. The essay helps you to
                             </header>
                             <div class="section-content">
                                 <article>
-                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                     <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air
                                         quality in the city</a></header>
                                 </article><!-- /article -->
                                 <article>
-                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                     <header><a href="#">At 50, Center for the Education of Women celebrates a wider
                                         mission</a></header>
                                 </article><!-- /article -->
                                 <article>
-                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                    <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                     <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a>
                                     </header>
                                 </article><!-- /article -->
@@ -425,8 +425,8 @@ Writing an essay is an important part of your assessment. The essay helps you to
                             <header>
                                 <h2>Course Archive</h2>
                                 <ul class="list-links">
-                                    <li><a href="#">February 2014</a></li>
-                                    <li><a href="#">January 2014</a></li>
+                                    <li><a href="#">February 2017</a></li>
+                                    <li><a href="#">January 2017</a></li>
                                     <li><a href="#">November 2013</a></li>
                                     <li><a href="#">October 2013</a></li>
                                     <li><a href="#">August 2013</a></li>

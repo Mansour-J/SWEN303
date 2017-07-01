@@ -47,11 +47,6 @@
                 <div id="page-main">
                     <section id="work-experience-detail">
                         <article class="work-experience-detail">
-                            <section id="work-experience-header">
-                            
-                                <hr>
-                            </section>
-
                             <section id="work-experience-content">
                                 <table class="table table-hover course-list-table tablesorter" >
 	<thead>
@@ -138,11 +133,11 @@
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
     </div><!-- /.container -->
-</div>
-<!-- end Page Content -->
+</div></div>
 <!-- Footer -->
 <?php include 'footer.php';?>
 <!-- end Footer -->
+<!-- end Page Content -->
 </div>
 <!-- end Wrapper -->
 

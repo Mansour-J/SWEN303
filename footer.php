@@ -53,11 +53,9 @@ echo "<footer id='page-footer'>
                     <aside>
                         <header><h4>Important Links</h4></header>
                         <ul class='list-links'>
-                            <li><a href='#'>Future Students</a></li>
                             <li><a href='#'>Alumni</a></li>
                             <li><a href='#'>Give a Donation</a></li>
                             <li><a href='#'>Professors</a></li>
-                            <li><a href='#'>Libary & Health</a></li>
                             <li><a href='#'>Research</a></li>
                         </ul>
                     </aside>
@@ -72,7 +70,6 @@ echo "<footer id='page-footer'>
                         </div>
                     </aside>
                 </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
         </div><!-- /.container -->
         <div class='background'><img src='assets/img/background-city.png' class='' alt=''></div>
     </section><!-- /#footer-content -->

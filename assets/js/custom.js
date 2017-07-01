@@ -55,7 +55,7 @@ $(document).ready(function($) {
 //  Count Down - Landing Page
 
     if ($('.count-down').length > 0) {
-        $(".count-down").ccountdown(2014,12,24,'18:00');
+        $(".count-down").ccountdown(2017,12,24,'18:00');
     }
 
 //  Selectize

@@ -108,6 +108,9 @@ Normally students complete this in the summer breaks after their second and thir
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 <!-- end Page Content -->
 </div>
 <!-- Footer -->

@@ -49,23 +49,27 @@
                                 <header><span class="fa fa-search"></span><h2>Find Course for You</h2></header>
                                 <form id="course-search-form" role="form" class="form-inline">
                                     <div class="form-group">
-                                        <label for="course-type">Course Type</label>
+                                        <label for="course-type">Course Subject</label>
                                         <select name="course-type" id="course-type">
-                                            <option value="">Graphic Design and 3D</option>
-                                            <option value="2">History and Psychology</option>
-                                            <option value="3">Marketing</option>
-                                            <option value="4">Science</option>
+                                            <option value="">Course Subject</option>
+                                            <option value="1">Graphic Design and 3D</option>
+                                            <option value="2">Computer Science</option>
+                                            <option value="3">Engineering</option>
+                                            <option value="4">Software Engineering</option>
+                                            <option value="5">Network Engineering</option>
                                         </select>
                                     </div><!-- /.form-group -->
 
                                     <div class="form-group">
-                                        <label for="study-level">Course Type</label>
+                                        <label for="study-level">Course Level</label>
                                         <select name="study-level" id="study-level">
-                                            <option value="">Study Level</option>
-                                            <option value="2">Beginner</option>
-                                            <option value="3">Advanced</option>
-                                            <option value="4">Intermediate</option>
-                                            <option value="5">Professional</option>
+                                            <option value="">Course Level</option>
+                                            <option value="2">Undergraduate</option>
+                                            <option value="3">Postgraduate</option>
+                                            <option value="4">First Year</option>
+                                            <option value="5">Second Year</option>
+                                            <option value="4">Third Year</option>
+                                            <option value="5">Fourth Year</option>
                                         </select>
                                     </div><!-- /.form-group -->
 
@@ -84,65 +88,75 @@
                                 <table class="table table-hover course-list-table tablesorter">
                                     <thead>
                                     <tr>
+                                        <th>Course Code</th>
                                         <th>Course Name</th>
-                                        <th>Course Type</th>
+                                        <th>Course Subject</th>
                                         <th class="starts">Starts</th>
-                                        <th class="length">Length</th>
+                                        <th class="length">Trimester</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
+                                        <th>SWEN303</th>
                                         <th class="course-title"><a href="swen303-student.php">User Interface Design</a></th>
-                                        <th class="course-category">Graphic Design and 3D</th>
-                                        <th>01-03-2014</th>
-                                        <th>3 months</th>
+                                        <th class="course-category">Computer Science</th>
+                                        <th>01-03-2017</th>
+                                        <th>Trimester 1</th>
                                     </tr>
                                     <tr>
+                                        <th>SWEN423</th>
+                                        <th class="course-title"><a href="swen303-prospect-student.php">Object-Oriented </a></th>
+                                        <th class="course-category">Sofeware Engineering</th>
+                                        <th>18-07-2017</th>
+                                        <th>Trimester 2</th>
+                                    </tr>
+                                    <tr>
+                                        <th>SWEN432</th>
                                         <th class="course-title"><a href="swen303-teacher.php">Advanced Database</a></th>
-                                        <th class="course-category">Marketing</a></th>
-                                        <th>03-03-2014</th>
-                                        <th>2 lessons</th>
+                                        <th class="course-category">Computer Science</a></th>
+                                        <th>03-03-2017</th>
+                                        <th>Trimester 1</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">	Project in Computer Graphics Programming</a></th>
-                                        <th class="course-category">Marketing</th>
-                                        <th>06-03-2014</th>
-                                        <th>1 month</th>
+                                        <th>SWEN433</th>
+                                        <th class="course-title"><a href="my-courses.php">Computer Graphics Rendering</a></th>
+                                        <th class="course-category">Computer Science</th>
+                                        <th>21-03-2017</th>
+                                        <th>Trimester 1</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Rendering</a></th>
-                                        <th class="course-category">Science</th>
-                                        <th>21-03-2014</th>
-                                        <th>3 weeks</th>
-                                    </tr>
-                                    <tr>
+                                        <th>SWEN434</th>
                                         <th class="course-title"><a href="course-detail-v1.html">	Three-Dimensional Modelling for Computer Graphics</a></th>
-                                        <th class="course-category">History and Psychology</th>
-                                        <th>06-04-2014</th>
-                                        <th>1 lesson</th>
+                                        <th class="course-category">Graphic Design and 3D</th>
+                                        <th>06-04-2017</th>
+                                        <th>Trimester 1</th>
                                     </tr>
                                     <tr>
+                                        <th>SWEN435</th>
                                         <th class="course-title"><a href="course-detail-v1.html">	Directed Individual Study</a></th>
-                                        <th class="course-category">Marketing</th>
-                                        <th>03-03-2014</th>
-                                        <th>2 lessons</th>
+                                        <th class="course-category">Computer Science</th>
+                                        <th>03-08-2017</th>
+                                        <th>Trimester 2</th>
                                     </tr>
                                     <tr>
+                                        <th>SWEN436</th>
                                         <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Project</a></th>
-                                        <th class="course-category">Marketing</th>
-                                        <th>06-03-2014</th>
+                                        <th class="course-category">Graphic Design and 3D</th>
+                                        <th>06-03-2017</th>
                                         <th>1 month</th>
                                     </tr>
                                     <tr>
+                                        <th>SWEN437</th>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Computer Program Design</a></th>
-                                        <th class="course-category">Science</th>
-                                        <th>21-03-2014</th>
+                                        <th class="course-category">Computer Science</th>
+                                        <th>21-03-2017</th>
                                         <th>3 weeks</th>
                                     </tr>
                                     <tr>
+                                        <th>SWEN438</th>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Data Structures and Algorithms</a></th>
-                                        <th class="course-category">History and Psychology</th>
-                                        <th>06-04-2014</th>
+                                        <th class="course-category">Engineering</th>
+                                        <th>06-04-2017</th>
                                         <th>1 lesson</th>
                                     </tr>
                                     </tbody>

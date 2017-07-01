@@ -32,7 +32,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="swen303-student.php">SWEN303</a></li>
         <li><a href="assignments.php">Assignments</a></li>
-        <li class="active">Assignment detail</li>
+        <li class="active">Edit Assignment Detail</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -63,7 +63,6 @@ Due dates, contribution to course marks, submission requirements etc are in the 
                                 <header>
                                     <h2 class="assignment-date">Report</h2>
                                 </header>
-                                <hr>
                             </section>
                             <section id="assignment-content">
                                 <p>Your report should conform to the SWEN303 Written Assignment Rules. Organise your report into 10 sections. Each 1 page section should start its own page. You do not have to completely fill the page: rather, aim, to communicate the key points concisely. In other words, don't use more than 1 page for each section.
@@ -97,12 +96,24 @@ Due dates, contribution to course marks, submission requirements etc are in the 
                                 </p>
                             </section>
                             <!-- /#assignment-content -->
+                                            
 
                         </article><!-- /.assignment-detail -->
                     </section><!-- /.assignment-detail -->
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 
+        </div><!-- /.row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="input-group">
+                    <div class="controls">
+                    <button type="submit" class="btn pull-right">Submit</button>
+                    <button type="submit" class="btn pull-right">Preview</button>
+                    <button type="submit" class="btn pull-right">Reset</button>
+                    </div><!-- /.controls -->
+                </div><!-- /.control-group -->
+            </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </div>

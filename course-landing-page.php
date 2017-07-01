@@ -130,7 +130,7 @@
                    <div class="col-md-6 col-sm-6">
                        <div class="course-info">
                            <figure class="font-color-primary">Starts at</figure>
-                           <h2>Friday February 01, 2014</h2>
+                           <h2>Friday February 01, 2017</h2>
                            <hr>
                            <div class="time">6:00pm – 8:00pm</div>
                            <div class="length">Length: 3 months</div>

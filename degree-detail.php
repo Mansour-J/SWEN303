@@ -31,7 +31,7 @@
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
         <li><a href="degrees.php">Degrees</a></li>
-        <li class="active">Postgraduate Diploma in Science – PGDipSci</li>
+        <li class="active">Postgraduate Diploma in Science</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->

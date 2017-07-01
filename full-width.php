@@ -60,37 +60,37 @@ A BSc in Computer Graphics (CGRA) will equip students with an interdisciplinary 
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">	Introduction to Computer Graphics</a></th>
                             <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
-                            <th>01-03-2014</th>
+                            <th>01-03-2017</th>
                             <th>3 months</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Computer Graphics</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>03-03-2014</th>
+                            <th>03-03-2017</th>
                             <th>2 lessons</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">	Project in Computer Graphics Programming</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>06-03-2014</th>
+                            <th>06-03-2017</th>
                             <th>1 month</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Rendering</a></th>
                             <th class="course-category"><a href="#">Science</a></th>
-                            <th>21-03-2014</th>
+                            <th>21-03-2017</th>
                             <th>3 weeks</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Three-Dimensional Modelling for Computer Graphics</a></th>
                             <th class="course-category"><a href="#">History and Psychology</a></th>
-                            <th>06-04-2014</th>
+                            <th>06-04-2017</th>
                             <th>1 lesson</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Directed Individual Study</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>03-03-2014</th>
+                            <th>03-03-2017</th>
                             <th>2 lessons</th>
                         </tr>
                     

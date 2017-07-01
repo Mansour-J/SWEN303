@@ -65,7 +65,7 @@
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="submit-assignment.php">Assignment 2</a></th>
-                                        <th class="course-category"></th>
+                                        <th class="course-category">Pending</th>
                                         <th>Submitted</th>
                                     </tr>
                                     <tr>
@@ -89,6 +89,9 @@
 </div>
 <!-- end Page Content -->
 
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

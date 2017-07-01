@@ -88,6 +88,9 @@
 </div>
 <!-- end Page Content -->
 </div>
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

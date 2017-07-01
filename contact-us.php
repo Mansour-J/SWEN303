@@ -40,7 +40,7 @@
     <div class="container">
         <div class="row">
             <!--MAIN Content-->
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div id="page-main">
                     <section id="contact">
                         <header><h1>Contact Us</h1></header>
@@ -62,60 +62,59 @@ Wellington</span>
                                     <br>
                                     <abbr title="Email">Email:</abbr> <a href="#">office@ecs.vuw.ac.nz</a>
                                 </address>
-                                <div class="icons">
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                    <a href="#"><i class="fa fa-youtube-play"></i></a>
-                                </div><!-- /.icons -->
                                 <hr>
                                 <p>
-                                   +64 4 472 1000  info@victoria.ac.nz  Enrolments: 0800 VICTORIA Emergency: +64 4 463 9999 or ext. 8888 (internal)
+                                   +64 4 472 1000  info@victoria.ac.nz<br>  
+                                   Enrolments: 0800 VICTORIA <br>
+                                   Emergency: +64 4 463 9999 or ext. 8888 (internal)
                                 </p>
-                            </div>
-                            <div class="col-md-6">
                                 <div class="map-wrapper">
-                                    <div class="mapouter"><div class="gmap_canvas"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Victoria%20Uni&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe> </div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+                                    <div class="mapouter"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Victoria%20Uni&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
                                 </div>
                             </div>
+                            <div class="col-md-6">
+                                <header><h2>Send Us a Message</h2></header>
+                                <form class="contact-form" id="contactform" method="post" action="#">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="input-group">
+                                                <div class="controls">
+                                                    <label for="name">Your Name</label>
+                                                    <input type="text" name="name" id="name" required>
+                                                </div><!-- /.controls -->
+                                            </div><!-- /.control-group -->
+                                        </div><!-- /.col-md-4 -->
+                                    </div><!-- /.row -->
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="input-group">
+                                                <div class="controls">
+                                                    <label for="email">Your Email</label>
+                                                    <input type="email" name="email" id="email" required>
+                                                </div><!-- /.controls -->
+                                            </div><!-- /.control-group -->
+                                        </div><!-- /.col-md-4 -->
+                                    </div><!-- /.row -->
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="input-group">
+                                                <div class="controls">
+                                                    <label for="message">Your Message</label>
+                                                    <textarea name="message" id="message" required></textarea>
+                                                </div><!-- /.controls -->
+                                            </div><!-- /.control-group -->
+                                        </div><!-- /.col-md-4 -->
+                                    </div><!-- /.row -->
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                        <div class="pull-right">
+                                            <input type="submit" class="btn btn-color-primary" id="submit" value="Send a Message">
+                                        </div><!-- /.form-actions -->
+                                        </div><!-- /.col-md-4 -->
+                                    </div><!-- /.row -->
+                                    <div id="form-status"></div>
+                                </form><!-- /.footer-form -->
                         </div>
-                    </section>
-                    <section id="contact-form" class="clearfix">
-                        <header><h2>Send Us a Message</h2></header>
-                        <form class="contact-form" id="contactform" method="post" action="#">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="input-group">
-                                        <div class="controls">
-                                            <label for="name">Your Name</label>
-                                            <input type="text" name="name" id="name" required>
-                                        </div><!-- /.controls -->
-                                    </div><!-- /.control-group -->
-                                </div><!-- /.col-md-4 -->
-                                <div class="col-md-6">
-                                    <div class="input-group">
-                                        <div class="controls">
-                                            <label for="email">Your Email</label>
-                                            <input type="email" name="email" id="email" required>
-                                        </div><!-- /.controls -->
-                                    </div><!-- /.control-group -->
-                                </div><!-- /.col-md-4 -->
-                            </div><!-- /.row -->
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <div class="controls">
-                                            <label for="message">Your Message</label>
-                                            <textarea name="message" id="message" required></textarea>
-                                        </div><!-- /.controls -->
-                                    </div><!-- /.control-group -->
-                                </div><!-- /.col-md-4 -->
-                            </div><!-- /.row -->
-                            <div class="pull-right">
-                                <input type="submit" class="btn btn-color-primary" id="submit" value="Send a Message">
-                            </div><!-- /.form-actions -->
-                            <div id="form-status"></div>
-                        </form><!-- /.footer-form -->
                     </section>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->

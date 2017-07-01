@@ -30,7 +30,6 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="#">Study and Careers</a></li>
         <li class="active">Careers</li>
     </ol>
 </div>
@@ -50,29 +49,29 @@
                                 <header>
                                     <h2 class="careers-header">At the School of Engineering and Computer Science we are dedicated to preparing our students for rewarding careers once they graduate.</h2>
                                 </header>
-                                <hr>
                             </section>
 
 
+                                <hr>
                             <section id="careers-content">
                                 <p>
                                    Throughout our courses we focus on equipping students for work and provide them with opportunities to identify and move into worthwhile careers after they graduate.
 
-We recognise that many students begin with a clear idea of their career path so our in-depth knowledge and training as well as our <a href='work-experience.php'>work experience</a> and close coupling of our degrees with industry provides a relevant and practical start to their future career.
+We recognise that many students begin with a clear idea of their career path so our in-depth knowledge and training as well as our <a href='work-experience.php'><font size=3><b>work experience</b></font></a> and close coupling of our degrees with industry provides a relevant and practical start to their future career.
 
 Other students use our flexible course options and transferable skills to find their area of interest while building up a solid academic grounding and give a breadth of career choices after graduation.
                                 </p>
                             </section><!-- /#careers-content -->
 
+                                <hr>
                             <section id="careers-header">
                                 <header>
                                     <h2 class="careers-header">Vic careers</h2>
                                 </header>
-                                <hr>
                             </section>
                             <section id="careers-content">
                                 <p>
-                                   <a href="http://www.victoria.ac.nz/st_services/careers/">Vic Careers</a> offers excellent advice in a friendly environment about career development and employment. It also hosts an informative <a herf="http://www.victoria.ac.nz/st_services/careers/resources/degree_options/index.aspx">'What can I do with my degree/subject?’</a> resource.
+                                   <a href="http://www.victoria.ac.nz/st_services/careers/"><font size=3><b>Vic Careers</b></font></a> offers excellent advice in a friendly environment about career development and employment. It also hosts an informative <a herf="http://www.victoria.ac.nz/st_services/careers/resources/degree_options/index.aspx">'What can I do with my degree/subject?’</a> resource.
                                 </p>
                             </section><!-- /#careers-content -->
                         </article><!-- /.careers-detail -->

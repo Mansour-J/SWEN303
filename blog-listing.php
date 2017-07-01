@@ -49,7 +49,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-01.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -67,7 +67,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-02.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -88,7 +88,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-03.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -107,7 +107,7 @@ Fanglue holds a doctoral degree from Tsinghua University where he subsequently s
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-04.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -129,7 +129,7 @@ Fanglue holds a doctoral degree from Tsinghua University where he subsequently s
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-05.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -149,7 +149,7 @@ Introduced in 2011, the Dean's List celebrates academic excellence for students 
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.php"><img src="assets/img/blog-06.jpg"></a></div>
                                     </figure>
                                     <aside>

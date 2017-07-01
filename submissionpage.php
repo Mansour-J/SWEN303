@@ -96,6 +96,9 @@
 </div>
 <!-- end Page Content -->
 
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

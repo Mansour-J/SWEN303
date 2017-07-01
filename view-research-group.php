@@ -137,13 +137,6 @@
                             </article><!-- /.event -->
                         </div><!-- /.section-content -->
                     </section><!-- /.events-images -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul><!-- /.pagination -->
-                    </div><!-- /.center -->
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
 

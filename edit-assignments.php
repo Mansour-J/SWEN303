@@ -63,19 +63,19 @@
                                         <th><a href="assignment-detail.php">Assignment 1</a></th>
                                         <th>Usability Evaluation</th>
                                         <th>03/04/2017 10:00:00 (Past due date)</th>
-                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/assignment-detail.php'">Edit</button></th>
+                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/edit-assignment-detail.php'">Edit</button></th>
                                     </tr>
                                     <tr>
                                         <th><a href="assignment-detail.php">Assignment 2</a></th>
                                         <th>User Modelling (Personas & Scenarios)</th>
                                         <th>22/05/2017 10:00:00 (Past due date)</th>
-                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/assignment-detail.php'">Edit</button></th>
+                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/edit-assignment-detail.php'">Edit</button></th>
                                     </tr>
                                     <tr>
                                         <th><a href="assignment-detail.php">Project</a></th>
                                         <th>User Interface Final Group Design Project</th>
                                         <th>03/07/2017 10:00:00</th>
-                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/assignment-detail.php'">Edit</button></th>
+                                        <th><button type="button" class="btn btn-danger" onclick="window.location.href='/edit-assignment-detail.php'">Edit</button></th>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -92,6 +92,9 @@
 </div>
 <!-- end Page Content -->
 </div>
+<!-- Footer -->
+<?php include 'footer.php';?>
+<!-- end Footer -->
 </div>
 <!-- end Wrapper -->
 

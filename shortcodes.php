@@ -269,31 +269,31 @@
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to modo 701</a></th>
                                         <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
-                                        <th>01-03-2014</th>
+                                        <th>01-03-2017</th>
                                         <th>3 months</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Become self marketer</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
-                                        <th>03-03-2014</th>
+                                        <th>03-03-2017</th>
                                         <th>2 lessons</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">How to find long term customers</a></th>
                                         <th class="course-category"><a href="#">Marketing</a></th>
-                                        <th>06-03-2014</th>
+                                        <th>06-03-2017</th>
                                         <th>1 month</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">Neuroscience and the future</a></th>
                                         <th class="course-category"><a href="#">Science</a></th>
-                                        <th>21-03-2014</th>
+                                        <th>21-03-2017</th>
                                         <th>3 weeks</th>
                                     </tr>
                                     <tr>
                                         <th class="course-title"><a href="course-detail-v1.html">History in complex view</a></th>
                                         <th class="course-category"><a href="#">History and Psychology</a></th>
-                                        <th>06-04-2014</th>
+                                        <th>06-04-2017</th>
                                         <th>1 lesson</th>
                                     </tr>
                                     </tbody>
@@ -406,15 +406,15 @@
                         </header>
                         <div class="section-content">
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
                             </article><!-- /article -->
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">At 50, Center for the Education of Women celebrates a wider mission</a></header>
                             </article><!-- /article -->
                             <article>
-                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2014</figure>
+                                <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
                                 <header><a href="#">Three U-Michigan scientists receive Sloan fellowships</a></header>
                             </article><!-- /article -->
                         </div><!-- /.section-content -->

@@ -39,6 +39,7 @@
 <div id="page-content">
     <div class="container">
         <header><h1>My Courses</h1></header>
+        <h2>ID: 3333389978 Name:Jessica Young</h2>
         <div class="row">
             <div class="col-md-12">
                 <section id="my-account">
@@ -57,20 +58,11 @@
                                     </tr>
                                     </thead>
                                     <tbody>
-                                    <tr class="status-not-started">
-                                        <th class="course-title"><a href="swen303-student.php">User Interface Design</a></th>
-                                        <th>SWEN303</th>
-                                        <th>01-03-2014</th>
-                                        <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
-                                        <th>9:00 am - 9:50 am</th>
-                                        <th>MWF</th>
-                                        <th>E120</th>
-                                    </tr>
-                                    <tr class="status-not-started">
-                                        <th class="course-title"><a href="#">Advanced Database</a></th>
-                                        <th>SWEN432</th>
-                                        <th>03-03-2014</th>
-                                        <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
+                                    <tr class="status-completed">
+                                        <th class="course-title"><a href="#">Web Design</a></th>
+                                        <th>SWEN437</th>
+                                        <th>06-01-2017</th>
+                                        <th class="status"><i class="fa fa-check"></i>Completed</th>
                                         <th>9:00 am - 9:50 am</th>
                                         <th>MWF</th>
                                         <th>E120</th>
@@ -78,7 +70,7 @@
                                     <tr class="status-in-progress">
                                         <th class="course-title"><a href="#">Web Design</a></th>
                                         <th>SWEN434</th>
-                                        <th>06-03-2014</th>
+                                        <th>06-03-2017</th>
                                         <th class="status"><i class="fa fa-clock-o"></i>In progress</th>
                                         <th>10:00 am - 10:50 am</th>
                                         <th>TuF</th>
@@ -87,30 +79,32 @@
                                     <tr class="status-in-progress">
                                         <th class="course-title"><a href="#">Web Programming</a></th>
                                         <th>SWEN433</th>
-                                        <th>21-03-2014</th>
+                                        <th>21-03-2017</th>
                                         <th class="status"><i class="fa fa-clock-o"></i>In progress</th>
                                         <th>12:10 am - 13:00 am</th>
                                         <th>MWF</th>
                                         <th>A120</th>
                                     </tr>
-                                    <tr class="status-completed">
-                                        <th class="course-title"><a href="#">Web Design</a></th>
-                                        <th>SWEN437</th>
-                                        <th>06-04-2014</th>
-                                        <th class="status"><i class="fa fa-check"></i>Completed</th>
+                                    <tr class="status-not-started">
+                                        <th class="course-title"><a href="swen303-student.php">User Interface Design</a></th>
+                                        <th>SWEN303</th>
+                                        <th>01-08-2017</th>
+                                        <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
+                                        <th>9:00 am - 9:50 am</th>
+                                        <th>MWF</th>
+                                        <th>E120</th>
+                                    </tr>
+                                    <tr class="status-not-started">
+                                        <th class="course-title"><a href="#">Advanced Database</a></th>
+                                        <th>SWEN432</th>
+                                        <th>03-08-2017</th>
+                                        <th class="status"><i class="fa fa-calendar-o"></i>Not started yet</th>
                                         <th>9:00 am - 9:50 am</th>
                                         <th>MWF</th>
                                         <th>E120</th>
                                     </tr>
                                     </tbody>
                                 </table>
-                                <div class="center">
-                                    <ul class="pagination">
-                                        <li class="active"><a href="#">1</a></li>
-                                        <li><a href="#">2</a></li>
-                                        <li><a href="#">3</a></li>
-                                    </ul>
-                                </div>
                             </section><!-- /#course-list -->
                         </div><!-- /.tab-pane -->
                     </div><!-- /.tab-content -->

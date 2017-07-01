@@ -71,34 +71,14 @@ h1 {
   margin-top: 10px;
   position: relative;
 }
-h1:after {
-  background-color: #c5c5c5;
-  bottom: -15px;
-  content: "";
-  height: 2px;
-  left: 0;
-  width: 30px;
-  position: absolute;
-  z-index: 0;
-}
 
 h2 {
   color: #15593A;
   display: inline-block;
   font-size: 24px;
-  margin-bottom: 35px;
+  margin-bottom: 10px;
   margin-top: 10px;
   position: relative;
-}
-h2:after {
-  background-color: #c5c5c5;
-  bottom: -15px;
-  content: "";
-  height: 2px;
-  left: 0;
-  width: 30px;
-  position: absolute;
-  z-index: 0;
 }
 
 h3 {

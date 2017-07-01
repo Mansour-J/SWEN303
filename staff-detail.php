@@ -97,17 +97,17 @@ I completed my bachelor, masters and doctoral degrees at Victoria University of 
                                             <tbody>
                                             <tr>
                                                 <th class="course-title"><a href="course-detail-v1.html">Computer Game Development</a></th>
-                                                <th>01-03-2014</th>
+                                                <th>01-03-2017</th>
                                                 <th>3 months</th>
                                             </tr>
                                             <tr>
                                                 <th class="course-title"><a href="course-detail-v1.html">Control Systems Engineering	</a></th>
-                                                <th>03-03-2014</th>
+                                                <th>03-03-2017</th>
                                                 <th>2 lessons</th>
                                             </tr>
                                             <tr>
                                                 <th class="course-title"><a href="course-detail-v1.html">Advanced Control Systems Engineering	</a></th>
-                                                <th>06-03-2014</th>
+                                                <th>06-03-2017</th>
                                                 <th>1 month</th>
                                             </tr>
                                             </tbody>

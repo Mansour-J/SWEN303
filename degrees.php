@@ -82,7 +82,7 @@
                                 <article class="event">
                                     <aside>
                                         <header>
-                                            <a href="degree-detail.php">Master of Computer Science</a>
+                                            <a href="degree-detail.php">Postgraduate Diploma in Science</a>
                                         </header>
                                         <div class="additional-info">Faculty of Science</div>
                                         <div class="description">
@@ -130,7 +130,7 @@
                                 <article class="event">
                                     <aside>
                                         <header>
-                                            <a href="degree-detail.php">Doctor of Philosophy </a>
+                                            <a href="degree-detail.php">Master of Computer Science</a>
                                         </header>
                                         <div class="additional-info">Faculty of Science</div>
                                         <div class="description">

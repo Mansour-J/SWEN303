@@ -42,9 +42,9 @@
             <!--SIDEBAR Content-->
             <div class="col-md-4">
             <div class="block formatting">
-                    <figure class="media inline"><img src="http://www.victoria.ac.nz/__data/assets/image/0013/310900/hand.jpg" alt="A red robotic hand at work."><figcaption>
-                        
-                         The ECS fosters close industry links for commercial development. </figcaption></figure>
+                    <figure class="media inline"><img src="http://www.victoria.ac.nz/__data/assets/image/0013/310900/hand.jpg" alt="A red robotic hand at work.">
+                    <P>
+                         The ECS fosters close industry links for commercial development. </p></figure>
                          </div>
             </div><!-- /.col-md-4 -->
 
@@ -52,19 +52,17 @@
             <div class="col-md-8">
                 <div id="page-main">
                     <section id="right-sidebar">
-                        <header>                  <h1>Industry collaboration</h1></header>
-                     <p>    The School of Engineering and Computer Science fosters close industry links for commercial development.       <div class="table-responsive">
-                We also work closely with Viclink, Victoria University's commercialisation company. Viclink provides additional skills and resources to our turn cutting-edge research into potentially global businesses with social, environmental and economic benefits for New Zealand and worldwide.
-
-If you are interested in collaborating with us, or have an idea for a project of common interest, please contact us.
-
-   Researchers in the School maintain close links with industry, to enable their work to move rapidly into the commercial world and make a positive impact.
-                         </p><p>Our industry collaborations also provide vital funding and support for research projects across a range of disciplines. Many of our 
-                         <a href="/ecs/research/groups">Research Groups</a> have developed mutually beneficial relationships with industry, as have individual researchers.
-                         </p><p>We also work closely with <a href="http://www.viclink.co.nz/about-viclink">Viclink</a>, Victoria University's commercialisation company. 
+                        <header><h1>Industry collaboration</h1></header>
+                     <p>The School of Engineering and Computer Science fosters close industry links for commercial development.       <div class="table-responsive">
+                
+                         </p>
+                         <p>Our industry collaborations also provide vital funding and support for research projects across a range of disciplines. Many of our 
+                         <a href="/view-research-group.php"><font size=2><b>Research Groups</b></font></a> have developed mutually beneficial relationships with industry, as have individual researchers.
+                         </p>
+                         <p>We also work closely with <a href="http://www.viclink.co.nz/about-viclink"><font size=2><b>Viclink</b></font></a>, Victoria University's commercialisation company. 
                          Viclink provides additional skills and resources to our turn cutting-edge research into potentially global businesses with social, environmental and 
                          economic benefits for New Zealand and worldwide.</p><p>If you are interested in collaborating with us, or have an idea for a project of common interest,
-                         please <a href="/ecs/about/contact">contact us</a>.</p>       
+                         please <a href="/contact-us.php"><font size=2><b>contact us</b></font></a>.</p>       
                         </div>
                     </section>
                 </div><!-- /#page-main -->

@@ -82,7 +82,7 @@
                                 <a href="#" class="course-category">Art and Design</a>
                                 <hr>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                                 <div class="stick-to-bottom"><a href="course-detail-v1.html" class="btn btn-framed btn-color-grey btn-small">View Details</a></div>
@@ -99,7 +99,7 @@
                                 <a href="#" class="course-category">Photography</a>
                                 <hr>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                                 <div class="stick-to-bottom"><a href="course-detail-v1.html" class="btn btn-framed btn-color-grey btn-small">View Details</a></div>
@@ -116,7 +116,7 @@
                                 <a href="#" class="course-category">Marketing</a>
                                 <hr>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                                 <div class="stick-to-bottom"><a href="course-detail-v1.html" class="btn btn-framed btn-color-grey btn-small">View Details</a></div>
@@ -133,7 +133,7 @@
                                 <a href="#" class="course-category">Science</a>
                                 <hr>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                                 <div class="stick-to-bottom"><a href="course-detail-v1.html" class="btn btn-framed btn-color-grey btn-small">View Details</a></div>
@@ -162,7 +162,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>This course considers ideas and techniques from Artificial Intelligence. It first introduces a range of search algorithms that are used throughout AI. It then examines applications and techniques of AI, including rule-based systems for embodying human expertise, algorithms for planning and problem solving, natural language processing, methods for machine learning, and neural nets and other computation intelligence techniques.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                             </aside>
@@ -179,7 +179,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>This course examines techniques for developing correct and efficient algorithms for some important classes of problems in Computer Science. It explores methods for designing algorithms, including greedy algorithms, divide and conquer, dynamic programming and graph algorithms. It covers techniques for demonstrating the correctness of algorithms and for analysing their efficiency.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
                                 </div>
                             </aside>
@@ -196,7 +196,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>Big Data refers to the large and often complex datasets generated in the modern world: data sources such as commercial customer records, internet transactions, environmental monitoring. This course provides an introduction to the theory and practice of working with Big Data. Students enrolling in this course should be familiar with the basics of statistical modelling and with programming.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
                                 </div>
                             </aside>
@@ -215,7 +215,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>Mathematical techniques employed by network and software engineers, including methods of combinatorics, logic, probability and decision theory. The course emphasises engineering applications of these techniques.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>3 months</span>
                                 </div>
                             </aside>
@@ -232,7 +232,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>Completion of the work experience requirement for the BE.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
                                 </div>
                             </aside>
@@ -249,7 +249,7 @@
                                 <!--<a href="#" class="course-category">Science</a>-->
                                 <p>This course develops a deeper understanding of object- oriented programming and associated practices. The focus is on programming techniques at the micro scale. Topics include: inheritance, polymorphism, genericity, error handling, testing and debugging. A sequence of short assignments will develop the key ideas and practices; rigour in testing will be developed through (automated) assessment of programme correctness.</p>
                                 <div class="course-meta">
-                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2014</span>
+                                    <span class="course-date"><i class="fa fa-calendar-o"></i>01-03-2017</span>
                                     <span class="course-length"><i class="fa fa-clock-o"></i>8 lessons</span>
                                 </div>
                             </aside>
@@ -313,55 +313,55 @@
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Engineering in Context</a></th>
                             <th class="course-category"><a href="#">Graphic Design and 3D</a></th>
-                            <th>01-03-2014</th>
+                            <th>01-03-2017</th>
                             <th>3 months</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Work Experience Preparation</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>03-03-2014</th>
+                            <th>03-03-2017</th>
                             <th>2 lessons</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Project Management</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>06-03-2014</th>
+                            <th>06-03-2017</th>
                             <th>1 month</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Group Project</a></th>
                             <th class="course-category"><a href="#">Science</a></th>
-                            <th>21-03-2014</th>
+                            <th>21-03-2017</th>
                             <th>3 weeks</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Practical Work Experience</a></th>
                             <th class="course-category"><a href="#">History and Psychology</a></th>
-                            <th>06-04-2014</th>
+                            <th>06-04-2017</th>
                             <th>1 lesson</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Professional Practice</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>03-03-2014</th>
+                            <th>03-03-2017</th>
                             <th>2 lessons</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Network Applications</a></th>
                             <th class="course-category"><a href="#">Marketing</a></th>
-                            <th>06-03-2014</th>
+                            <th>06-03-2017</th>
                             <th>1 month</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Distributed Computing in Grids and Clouds	</a></th>
                             <th class="course-category"><a href="#">Science</a></th>
-                            <th>21-03-2014</th>
+                            <th>21-03-2017</th>
                             <th>3 weeks</th>
                         </tr>
                         <tr>
                             <th class="course-title"><a href="course-detail-v1.html">Structured Methods	</a></th>
                             <th class="course-category"><a href="#">History and Methods</a></th>
-                            <th>06-04-2014</th>
+                            <th>06-04-2017</th>
                             <th>1 lesson</th>
                         </tr>
                         </tbody>

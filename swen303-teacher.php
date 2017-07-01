@@ -30,7 +30,7 @@
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
         <li><a href="courses.php">Courses Homepages</a></li>
-        <li class="active">SWEN303 Home</li>
+        <li class="active">SWEN432 Home</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -38,7 +38,7 @@
 <!-- Page Content -->
 <div id="page-content">
     <div class="container">
-        <header><h1>SWEN 303-User Interface Design  </h1></header>
+        <header><h1>SWEN 432 - Advanced Database  </h1></header>
         <div class="row">
             <!-- Course Image -->
             <div class="col-md-2">
@@ -62,13 +62,6 @@
                                     <h2 class="course-date">Course Duration: 6 March 2017 - 5 July 2017</h2>
                                     <div class="course-category">Category:<a href="#">Software Engineering</a></div>
                                 </header>
-                                <hr>
-                                <div class="course-count-down" id="course-count-down">
-                                        
-                            
-                            
-                     
-                                </div><!-- /.course-count-down -->
                                 <hr>
                                 <figure id="course-summary">
                                     <span class="course-summary" id="course-length"><i class="fa fa-calendar-o"></i>7 weeks</span>
@@ -104,9 +97,6 @@ Integrate user interface design techniques into the general software engineering
                                 <ul class="nav nav-tabs course-detail-tabs">
                                     <li class="active"><a href="#tab-schedule" data-toggle="tab">Schedule</a></li>
                                     <li><a href="#tab-video" data-toggle="tab">Video</a></li>
-                                    <li><a href="#tab-speakers" data-toggle="tab">Speakers</a></li>
-                                    <li><a href="#tab-gallery" data-toggle="tab">Gallery</a></li>
-                                    <li><a href="#tab-faq" data-toggle="tab">FAQ</a></li>
                                 </ul><!-- /.course-detail-tabs -->
 
                                 <!-- Tab panes -->
@@ -160,8 +150,27 @@ Integrate user interface design techniques into the general software engineering
                                             </article><!-- /.course-schedule-block -->
                                         </section><!-- /#tab-schedule -->
                                     </div>
-                                    <div class="tab-pane fade" id="tab-video"><iframe src="http://player.vimeo.com/video/64373696" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-                          
+                                    
+                                    <div class="tab-pane fade" id="tab-video">
+                                        <section class="course-schedule">
+                                            <article class="course-schedule-block">
+                                                <header><h4>Lecture 1:</h4></header>
+                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Introduce</a>
+                                            </article>
+                                            <article class="course-schedule-block">
+                                                <header><h4>Lecture 2:</h4></header>
+                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Usability</a>
+                                            </article>
+                                            <article class="course-schedule-block">
+                                                <header><h4>Lecture 3:</h4></header>
+                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Guidelines</a>
+                                            </article>
+                                            <article class="course-schedule-block">
+                                                <header><h4>Lecture 4:</h4></header>
+                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Heuristic Evaluation</a>
+                                            </article>
+                                        </section><!-- /#tab-schedule -->
+                                    </div>
                                     <div class="tab-pane fade" id="tab-gallery">
                                         <ul class="gallery-list">
                                             <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
@@ -184,19 +193,16 @@ Integrate user interface design techniques into the general software engineering
                                 </div><!-- /Tab panes -->
                             </section><!-- /#course-tabs -->
 
-                           
-
                             <section id="invited-persons">
-                                <header><h2>Invited Persons</h2></header>
+                                <header><h2>Lecturers</h2></header>
                                 <div class="author-block">
                                     <a href="staff-detail.php"><figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure></a>
                                     <article class="paragraph-wrapper">
                                         <div class="inner">
                                             <a href="staff-detail.php"><header>Claire Doe</header></a>
-                                            <figure>Marketing Specialist</figure>
-                                            <p>
-                                               You must be a competent programmer and confident in your ability to pick up a new language. Detailed mathematics is not required but you need the ability to think rigorously about abstract ideas including specifications . You must be able to express your understanding of the programs requirements in First Order Logic and you need a good grasp of the the relation between specification and code.
-                                            </p>
+                                            <figure>Coordinator</figure>
+                                            <p>Claire.Doe@vuw.ac.nz 04 4636736</p>
+                                            <p>234 Cotton, Kelburn</p>
                                         </div>
                                     </article>
                                 </div><!-- /.author -->
@@ -205,30 +211,13 @@ Integrate user interface design techniques into the general software engineering
                                     <article class="paragraph-wrapper">
                                         <div class="inner">
                                             <a href="staff-detail.php"><header>Rachel Britain</header></a>
-                                            <figure>Data Architect</figure>
-                                            <p>
-                                              In this course you will learn how to write SPARK Ada programs. This will require you adopt a quite different mindset from that used writing Java or C programs. The construction of the specification may take more code and more effort that coding the solution.
-In order to achieve this you should complete all the exercises - even those that are not marked.﻿
-                                            </p>
+                                            <figure>Lecturer</figure>
+                                            <p>Rachel.Britain@vuw.ac.nz 04 4636737</p>
+                                            <p>235 Cotton, Kelburn</p>
                                         </div>
                                     </article>
                                 </div><!-- /.author -->
                             </section><!-- /#invited-persons -->
-
-                          
-
-                            <section id="map">
-                                <header><h2>Place on Map</h2></header>
-                                <div class="map-wrapper">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.389928525137!2d-0.11316612883517647!3d51.52440760342934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b48959f07e1%3A0xb6b70e6a76950525!2s5+Phoenix+Pl!5e0!3m2!1ssk!2s!4v1395674632609" width="100%" height="350" frameborder="0" style="border:0"></iframe>
-                                </div>
-                            </section><!-- /#map -->
-
-                            <hr>
-
-                            <section id="join-to-course" class="center">
-                                <a href="register-sign-in.html" class="btn">Join Course</a>
-                            </section><!-- /#join-to-course -->
                         </article><!-- /.course-detail -->
                     </section><!-- /.course-detail -->
                 </div><!-- /#page-main -->

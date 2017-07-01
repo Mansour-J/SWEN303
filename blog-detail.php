@@ -50,7 +50,7 @@
                                 <img src="assets/img/blog-detail-img.jpg">
                                 <h2>Local start-up’s valuable Victoria connections</h2>
                                 <div class="blog-detail-meta">
-                                    <span class="date"><span class="fa fa-file-o"></span>08-24-2014</span>
+                                    <span class="date"><span class="fa fa-file-o"></span>08-24-2017</span>
                                     <span class="author"><span class="fa fa-user"></span>Prof. John Doe</span>
                                     <span class="comments"><span class="fa fa-comment-o"></span>6 comments</span>
                                 </div>
@@ -106,7 +106,7 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-01.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -119,7 +119,7 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                             <div class="col-md-6 col-sm-6">
                                 <article class="blog-listing-post">
                                     <figure class="blog-thumbnail">
-                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2014</figure>
+                                        <figure class="blog-meta"><span class="fa fa-file-text-o"></span>08-24-2017</figure>
                                         <div class="image-wrapper"><a href="blog-detail.html"><img src="assets/img/blog-02.jpg"></a></div>
                                     </figure>
                                     <aside>
@@ -147,7 +147,7 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                                         </p>
                                     </div>
                                     <div class="comment-controls">
-                                        <span>08-24-2014</span>
+                                        <span>08-24-2017</span>
                                         <a href="#">Reply</a>
                                     </div>
                                 </article>
@@ -164,7 +164,7 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                                                 </p>
                                             </div>
                                             <div class="comment-controls">
-                                                <span>08-24-2014</span>
+                                                <span>08-24-2017</span>
                                                 <a href="#">Reply</a>
                                             </div>
                                         </article>
@@ -181,7 +181,7 @@ One of those ideas started out as a romantic gesture—“I wanted to find a way
                                                         </p>
                                                     </div>
                                                     <div class="comment-controls">
-                                                        <span>08-24-2014</span>
+                                                        <span>08-24-2017</span>
                                                         <a href="#">Reply</a>
                                                     </div>
                                                 </article>
