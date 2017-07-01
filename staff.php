@@ -46,13 +46,12 @@
                         <section id="our-speakers">
                             <header><h2 class="no-divider">Our staff</h2></header>
                             <div class="author-block course-speaker">
-                                <a href="staff-detail.php"><figure class="author-picture"><img src="assets/img/student-testimonial.jpg" alt=""></figure></a>
+                                <a href="staff-detail.php"><figure class="author-picture"><img src="assets/img/professor-02.jpg" alt=""></figure></a>
                                 <article class="paragraph-wrapper">
                                     <div class="inner">
-                                        <header><a href="staff-detail.php">Claire Doe</a></header>
-                                        <figure>Marketing Specialist</figure>
-                                        <p>
-                                 Head of School School of Engineering and Computer Science
+                                        <header><a href="staff-detail.php">Jane Stairway</a></header>
+                                        <figure>Associate Professor</figure>
+                                        <p>School of Engineering and Computer Science
                                         </p>
                                         <a href="staff-detail.php" class="btn btn-framed btn-small btn-color-grey">Full Bio</a>
                                     </div>

@@ -108,7 +108,7 @@ Wellington</span>
                                     <div class="row">
                                         <div class="col-md-12">
                                         <div class="pull-right">
-                                            <input type="submit" class="btn btn-color-primary" id="submit" value="Send a Message">
+                                            <input type="button" class="btn btn-color-primary" value="Send a Message" onclick="window.alert('Your message was sent successfully! Thank you!');location.reload();">
                                         </div><!-- /.form-actions -->
                                         </div><!-- /.col-md-4 -->
                                     </div><!-- /.row -->

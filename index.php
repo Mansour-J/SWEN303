@@ -31,25 +31,23 @@
 <div id="homepage-carousel">
     <div class="container">
         <div class="homepage-carousel-wrapper" >
-            <div class="row">
+            <div class="row"><a href="staff.php">
                 <div class="col-md-6 col-sm-7" style="margin-top:-29px;">
                     <div class="image-carousel">
                         <div class="image-carousel-slide"><img src="assets/img/slide-1.jpg" alt=""></div>
                         <div class="image-carousel-slide"><img src="assets/img/slide-2.jpg" alt=""></div>
                         <div class="image-carousel-slide"><img src="assets/img/slide-3.jpg" alt=""></div>
                     </div><!-- /.slider-image -->
-                </div><!-- /.col-md-6 -->
+                </div><!-- /.col-md-6 --></a>
                 <div class="col-md-6 col-sm-5">
                     <div class="slider-content">
                         <div class="row">
                             <div class="col-md-12">
                   
-              <div> <h1>  School of    </h1></div>
-            
+              <div> <a href="contact-us.php"><h1>  School of    </h1></div>
                 <div style="margin-top:-40px" >   <h3 style="font-weight:bold"> Engineering and Computer Science</h3>  </div>
                    <img src="assets/img/logo.svg" class="App-logo" alt="logo" />
-                                      
-                 <div>    <small lang="mi">Te Kura Mātai Pūkaha, Pūrorohiko</small></div>
+                 <div>    <small lang="mi">Te Kura Mātai Pūkaha, Pūrorohiko</small></a></div>
             
                            
                             </div><!-- /.col-md-12 -->
@@ -75,16 +73,16 @@
                     </header>
                     <div class="section-content">
                         <article>
-                            <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
-                            <header><a href="blog-detail.php">U-M School of Public Health, Detroit partners aim to improve air quality in the city</a></header>
+                            <figure class="date"><i class="fa fa-file-o"></i>30 Jun 2017</figure>
+                            <header><a href="#">Victoria students vying for national title in IT Challenge</a></header>
                         </article><!-- /article -->
                         <article>
-                            <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
-                            <header><a href="blog-detail.php">At 50, Center for the Education of Women celebrates a wider mission</a></header>
+                            <figure class="date"><i class="fa fa-file-o"></i>26 Jun 2017</figure>
+                            <header><a href="#">Wellington scientists getting hybrid planes off the ground</a></header>
                         </article><!-- /article -->
                         <article>
-                            <figure class="date"><i class="fa fa-file-o"></i>08-24-2017</figure>
-                            <header><a href="blog-detail.php">Three U-Michigan scientists receive Sloan fellowships</a></header>
+                            <figure class="date"><i class="fa fa-file-o"></i>22 Jun 2017 </figure>
+                            <header><a href="#">Local start-up’s valuable Victoria connections</a></header>
                         </article><!-- /article -->
                     </div><!-- /.section-content -->
                     <a href="#" class="read-more stick-to-bottom">All News</a>
@@ -99,41 +97,42 @@
                     <div class="section-content">
                         <article class="event nearest">
                             <figure class="date">
-                                <div class="month">jan</div>
+                                <div class="month">Jul</div>
                                 <div class="day">18</div>
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.php">Conservatory Exhibit: The garden of india a country and culture revealed</a>
+                                    <a href="event-detail.php">Making Sense out of IoT Non-Sense</a>
                                 </header>
-                                <div class="additional-info">Matthaei Botanical Gardens</div>
+                                <div class="additional-info">School of Engineering and Computer Science</div>
                             </aside>
                         </article><!-- /article -->
-                        <article class="event nearest-second">
+                        <article class="event nearest">
                             <figure class="date">
-                                <div class="month">feb</div>
-                                <div class="day">01</div>
+                                <div class="month">Jul</div>
+                                <div class="day">18</div>
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.php">February Half-Term Activities: Big Stars and Little Secrets </a>
+                                    <a href="event-detail.php">Funding in CS in NZ</a>
                                 </header>
-                                <div class="additional-info clearfix" >Pitt Rivers and Natural History Museums</div>
+                                <div class="additional-info">Informal discussion</div>
                             </aside>
                         </article><!-- /article -->
                         <article class="event">
                             <figure class="date">
-                                <div class="month">mar</div>
-                                <div class="day">23</div>
+                                <div class="month">Jun</div>
+                                <div class="day">01</div>
                             </figure>
                             <aside>
                                 <header>
-                                    <a href="event-detail.php">The Orchestra of the Age of Enlightenment perform with Music</a>
+                                    <a href="event-detail.php">CS4HS @ VUW 2017</a>
                                 </header>
                                 <div class="additional-info">Faculty of Science</div>
                             </aside>
                         </article><!-- /article -->
-                    </div><!-- /.section-content -->
+                    </div><!-- /.section-content --><br><br>
+                    <div><a href="event-grid.php" class="read-more stick-to-bottom">All Events</a></div>
                 </section><!-- /.events-small -->
             </div><!-- /.col-md-4 -->
             <div class="col-md-4 col-sm-12">
@@ -264,7 +263,7 @@ Our innovative and flexible programmes will prepare you for successful careers a
             <div class="col-md-4 col-sm-4">
                 <section id="our-professors">
                     <header>
-                        <h2>Our Professors</h2>
+                        <h2>Our Staff</h2>
                     </header>
                     <div class="section-content">
                         <div class="professors">
@@ -272,9 +271,9 @@ Our innovative and flexible programmes will prepare you for successful careers a
                                 <figure class="professor-image"><a href="staff-detail.php"><img src="assets/img/professor.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="staff-detail.php">Prof. Mathew Davis</a>
+                                        <a href="staff-detail.php">Mathew Davis</a>
                                         <div class="divider"></div>
-                                        <figure class="professor-description">Applied Science and Engineering</figure>
+                                        <figure class="professor-description"><b>Programme Director</b> School of Engineering and Computer Science</figure>
                                     </header>
                                     <a href="staff-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
@@ -283,14 +282,14 @@ Our innovative and flexible programmes will prepare you for successful careers a
                                 <figure class="professor-image"><a href="staff-detail.php"><img src="assets/img/professor-02.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
-                                        <a href="staff-detail.php">Prof. Jane Stairway</a>
+                                        <a href="staff-detail.php">Jane Stairway</a>
                                         <div class="divider"></div>
-                                        <figure class="professor-description">Applied Science and Engineering</figure>
+                                        <figure class="professor-description"><b>Associate Professor</b> School of Engineering and Computer Science</figure>
                                     </header>
                                     <a href="staff-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
                             </article><!-- /.professor-thumbnail -->
-                            <a href="#" class="read-more stick-to-bottom">All Professors</a>
+                            <a href="staff.php" class="read-more stick-to-bottom">All Staff</a>
                         </div><!-- /.professors -->
                     </div><!-- /.section-content -->
                 </section><!-- /.our-professors -->
@@ -303,20 +302,20 @@ Our innovative and flexible programmes will prepare you for successful careers a
                     </header>
                     <div class="section-content">
                         <ul class="gallery-list">
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-02.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-03.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-04.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-05.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-06.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-07.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-08.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-09.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-10.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-11.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-12.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
-                            <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-02.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-03.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-04.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-05.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-06.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-07.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-08.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-09.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-10.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-11.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-12.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
+                            <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
                         </ul>
                         <a href="#" class="read-more">Go to Gallery</a>
                     </div><!-- /.section-content -->

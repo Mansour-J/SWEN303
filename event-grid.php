@@ -30,7 +30,6 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="#">About Us</a></li>
         <li class="active">Events</li>
     </ol>
 </div>
@@ -49,35 +48,35 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
                                     <figure class="date">
-                                        <div class="month">jan</div>
+                                        <div class="month">Jul</div>
                                         <div class="day">18</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Engineering Dean's List celebrates student success</a>
+                                            <a href="event-detail.php">Making Sense out of IoT Non-Sense</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Matthaei Botanical Gardens</div>
+                                        <div class="additional-info">School of Engineering and Computer Science </div>
                                         <div class="description">
-                                            <p>A local start up is praising Victoria University of Wellington’s Software Engineering programme for delivering hard to find job candidates. L R: Victoria University alumni Stephen Nelson, Tim Jones and Luke Inkster at Montoux. Montoux offers software that provides insights into life insurance companies’ products, pricing and profitability. The fast growing Wellington based business has clients in New ...
+                                            <p>The Internet has transformed from its original form that connects computers utilized by humans to one that connects objects, sensors, and any foreseeable device in everyday life, giving rise to the “Internet of Things”. Coined by Kevin Ashton in 1999, the term “Internet of Things” (IoT) refers to this new Internet where devices generate data and communicate, interacting often without any human intervention....
                                             </p>
                                         </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="event-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.col-md-6 -->
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
                                     <figure class="date">
-                                        <div class="month">feb</div>
+                                        <div class="month">Jul</div>
                                         <div class="day">01</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">It just goes to show </a>
+                                            <a href="event-detail.html">Funding in CS in NZ </a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Pitt Rivers and Natural History Museums</div>
+                                        <div class="additional-info">Informal discussion </div>
                                         <div class="description">
-                                            <p>The School of Engineering and Computer Science (ECS) is delighted to welcome Dr Fanglue Zhang who has arrived from China to take up the position of computer graphics lecturer. Fanglue holds a doctoral degree from Tsinghua University where he subsequently spent two years as a post doctoral researcher. His research interests include computer graphics, computational photography, and image and video analysis ...
+                                            <p>Abstract: There is a perceived bias in funding in NZ. Is there a real bias against Computer Science. If there is, what can the community do about it? This workshop will raise more questions than answers. Bring your opinions along....
                                             </p>
                                         </div>
                                         <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -90,16 +89,16 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
                                     <figure class="date">
-                                        <div class="month">mar</div>
+                                        <div class="month">Jun</div>
                                         <div class="day">23</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Welcoming Fanglue Zhang to Computer Graphics</a>
+                                            <a href="event-detail.html">CS4HS @ VUW 2017</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                        <div class="additional-info"> School of Engineering and Computer Science </div>
                                         <div class="description">
-                                            <p>Engineering and Computer Science graduates Glen Peek and John Gelbolingo were two of the innovative entrepreneurs who took part in the Victoria Entrepreneur Bootcamp Final Showcase recently, taking their smart business ideas from the whiteboard to the tech world with the help of Viclink, Victoria’ commercialisation office… It was the show that had it all—from romance and entertainment, to altruism ...
+                                            <p>The conference is focused on preparing teachers to deliver computer science and programming skills for meeting the NCEA standards. Full details regarding the conferences timetable, location, etcetera, are noted below. Fundraising and sponsorship will cover the majority of costs to  ...
                                             </p>
                                         </div>
                                         <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -114,11 +113,11 @@
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Local start-up’s valuable Victoria connections</a>
+                                            <a href="event-detail.html">Second Wellington Software Defined Workshop</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                        <div class="additional-info"> School of Engineering and Computer Science </div>
                                         <div class="description">
-                                            <p>It’s very important for students to get involved with all aspects of academic life as early as possible. Arrange study groups, come to the evening tutorials, and make the most of all the resources available to you, and you’ll hit the ground running. It’s a lot harder to catch up than to stay on top of things, so don’t wait until a small problem becomes a big problem. We are always happy to see students who need help, want to learn more, or just want to chat.
+                                            <p>This is a follow up on our first SDN workshop last year and will include an overview of research done at Victoria University followed by a short introductory hands on...
                                             </p>
                                         </div>
                                         <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -131,16 +130,16 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
                                     <figure class="date">
-                                        <div class="month">jun</div>
+                                        <div class="month">Apl</div>
                                         <div class="day">17</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="event-detail.html">Reporting: In Conversation with Miriam Elder and Julia Ioffe</a>
+                                            <a href="event-detail.html">Computer Science 4 High Schools 2017</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                        <div class="additional-info"> School of Engineering and Computer Science </div>
                                         <div class="description">
-                                            <p>I also work closely with our ECS Pastoral Support Manager, Craig Watterson. If it all gets too much, he is your first port of call and also your most important contact in your first year, so you should get to know him as soon as possible. If you need academic help, he will refer you to me or another one of our tutors. If it’s something else bothering you or one of your friends, he will work with you to find a solution that you are happy with.
+                                            <p>Victoria University thanks Google for their continued support of high school education in New Zealand and Australia....
                                             </p>
                                         </div>
                                         <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -157,9 +156,9 @@
                                         <header>
                                             <a href="event-detail.html">February Half-Term Activities: Big Stars and Little Secrets </a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
+                                        <div class="additional-info"> School of Engineering and Computer Science </div>
                                         <div class="description">
-                                            <p>In your college maths and science classes, you probably came across some pretty hard problems. But the exam problems were always the same as the assignment problems and the examples in class. At university, the test and exam problems may use the same concepts as the assignment problems, but they will be quite different. So new students also have to make the transition from remembering solutions to inventing solutions themselves. But once you’ve solved some problems yourself, you’ll really want to solve more – it’s addictive!
+                                            <p>In your college maths and science classes, you probably came across some pretty hard problems. But the exam problems were always the same as the assignment problems and the examples in class.... 
                                             </p>
                                         </div>
                                         <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -168,56 +167,8 @@
                             </div><!-- /.col-md-6 -->
                         </div><!-- /.row -->
 
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <article class="event">
-                                    <figure class="date">
-                                        <div class="month">aug</div>
-                                        <div class="day">29</div>
-                                    </figure>
-                                    <aside>
-                                        <header>
-                                            <a href="event-detail.html">The Orchestra of the Age of Enlightenment perform with Music Students </a>
-                                        </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
-                                        <div class="description">
-                                            <p>My job is to help students do well in their first year Engineering papers and gain admission to second year programmes. To do this, I work with the academics to develop and teach tutorials, labs and review sessions for a range of first year classes. I also offer individual help to anyone who needs it. If I am not busy teaching, I am always available to students who come to see me for help with learning.
-
-                                            </p>
-                                        </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
-                                    </aside>
-                                </article><!-- /article -->
-                            </div><!-- /.col-md-6 -->
-                            <div class="col-md-6 col-sm-6">
-                                <article class="event">
-                                    <figure class="date">
-                                        <div class="month">sep</div>
-                                        <div class="day">14</div>
-                                    </figure>
-                                    <aside>
-                                        <header>
-                                            <a href="event-detail.html">Wellington scientists getting hybrid planes off the ground</a>
-                                        </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Faculty of Music</div>
-                                        <div class="description">
-                                            <p>Our motto within the Engineering school is “Think it! Plan it! Build it!” This motto of course refers to technology, such as the awesome robots you will be designing in your first year, but it also applies to your academic career: Think about what you want! Plan how to get there! Build the skills and tools you need to do so!
-                                            </p>
-                                        </div>
-                                        <a href="event-detail.html" class="btn btn-framed btn-color-grey btn-small">View Details</a>
-                                    </aside>
-                                </article><!-- /article -->
-                            </div><!-- /.col-md-6 -->
-                        </div><!-- /.row -->
 
                     </section><!-- /.events grid -->
-                    <div class="center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                        </ul>
-                    </div>
                 </div><!-- /#page-main -->
             </div><!-- /.col-md-8 -->
         </div><!-- /.row -->

@@ -63,20 +63,20 @@ Whether you require assistance, or just have a general enquiry, feel free to get
                         <h2>Staff Gallery</h2>
                         <div> 
                             <ul class="gallery-list">
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/gallery-big-image.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-02.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-03.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-04.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-05.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-06.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-07.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-08.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-09.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-10.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-11.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-12.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
-                                <li><a href="assets/img/gallery-big-image.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-01.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-02.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-03.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-04.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-05.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-06.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-07.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-08.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-09.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-10.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-11.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-12.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
+                                <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
                             </ul>
                             <p>you can also get our staff details in the link
                             <a href="staff.php"><font size=2><b> staff details </b></font></a></p>
@@ -98,7 +98,6 @@ Whether you require assistance, or just have a general enquiry, feel free to get
                            <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-Paul-Teal.pdf"><font size=2><b>A/Prof Paul Teal </b></font></a></li>
                            <li><a href="http://www.victoria.ac.nz/ecs/pdf/Research-Profile-ELVIS.pdf"><font size=2><b>ELVIS - Software Engineering</b></font></a></li>
                         </ul>
-                        <hr>
                         <h2>Academic prospectuses</h2>
                         <p>
                             Download the School of Engineering and Computer Science’s undergraduate and postgraduate prospectuses.

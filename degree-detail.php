@@ -58,7 +58,7 @@
                     <ul class="nav nav-tabs" id="tabs">
                         <li class="active"><a href="#tab-profile" data-toggle="tab">About</a></li>
                         <li><a href="#tab-my-courses" data-toggle="tab">Requirements</a></li>
-                        <li><a href="#tab-change-password" data-toggle="tab">Apply&contact</a></li>
+                        <li><a href="#tab-change-password" data-toggle="tab">Apply</a></li>
                     </ul><!-- /#my-profile-tabs -->
                     <div class="tab-content my-account-tab-content">
                         <div class="tab-pane active" id="tab-profile">

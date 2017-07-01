@@ -1,7 +1,7 @@
 <?php
 echo "<footer id='page-footer'>
     <section id='footer-top'>
-        <div class='container'>
+        <div class='container' style=' margin-bottom: -23px;margin-top: -16px;'>
             <div class='footer-inner'>
                 <div class='footer-social'>
                     <figure>Follow us:</figure>
@@ -25,8 +25,8 @@ echo "<footer id='page-footer'>
     </section><!-- /#footer-top -->
 
     <section id='footer-content'>
-        <div class='container'>
-            <div class='row'>
+        <div class='container' style='margin-bottom: -54px;'>
+            <div class='row' style='margin-top: -45px'>
                 <div class='col-md-3 col-sm-12'>
                     <aside class='logo'>
                         <img src='assets/img/logo-white.png' class='vertical-center'>
@@ -34,7 +34,7 @@ echo "<footer id='page-footer'>
                 </div><!-- /.col-md-3 -->
                 <div class='col-md-3 col-sm-4'>
                     <aside>
-                        <header><h4>Contact Us</h4></header>
+                        <h4>Contact Us</h4>
                         <address>
                            Victoria University of Wellington,      <br>
                            <strong>  School of Engineering and Computer Science</strong>
@@ -51,7 +51,7 @@ echo "<footer id='page-footer'>
                 </div><!-- /.col-md-3 -->
                 <div class='col-md-3 col-sm-4'>
                     <aside>
-                        <header><h4>Important Links</h4></header>
+                        <h4>Important Links</h4>
                         <ul class='list-links'>
                             <li><a href='#'>Alumni</a></li>
                             <li><a href='#'>Give a Donation</a></li>
@@ -62,7 +62,7 @@ echo "<footer id='page-footer'>
                 </div><!-- /.col-md-3 -->
                 <div class='col-md-3 col-sm-4'>
                     <aside>
-                        <header><h4>About Victoria</h4></header>
+                       <h4 class='f4'>About Victoria</h4>
                         <p>Victoria University of Wellington is a university in Wellington, New Zealand. It was established in 1897 by Act of Parliament, and was a constituent college of the University of New Zealand.
                         </p>
                         <div>
@@ -70,13 +70,14 @@ echo "<footer id='page-footer'>
                         </div>
                     </aside>
                 </div><!-- /.col-md-3 -->
+            </div><!-- /.row -->
         </div><!-- /.container -->
         <div class='background'><img src='assets/img/background-city.png' class='' alt=''></div>
     </section><!-- /#footer-content -->
 
     <section id='footer-bottom'>
         <div class='container'>
-            <div class='footer-inner'>
+            <div class='footer-inner' style='    margin-bottom: -19px; margin-top: -7px;'>
                 <div class='copyright'>© Victoria University of Wellington, All rights reserved</div><!-- /.copyright -->
             </div><!-- /.footer-inner -->
         </div><!-- /.container -->

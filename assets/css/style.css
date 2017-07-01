@@ -2730,7 +2730,7 @@ input {
   color: #fff;
   display: inline-block;
   font-size: 24px;
-  margin-bottom: 35px;
+  margin-bottom: 14px;
   margin-top: 10px;
   position: relative;
 }
@@ -3974,3 +3974,4 @@ input {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+

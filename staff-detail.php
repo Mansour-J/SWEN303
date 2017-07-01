@@ -46,45 +46,22 @@
                     <section id="members">
                         <header><h1>Staff Detail</h1></header>
                         <div class="author-block member-detail">
-                            <figure class="author-picture"><img src="assets/img/member-detail.jpg" alt=""></figure>
+                            <figure class="author-picture"><img src="assets/img/professor-02.jpg" alt=""></figure>
                             <article class="paragraph-wrapper">
                                 <div class="inner">
-                                    <header><h2>Claire Doe</h2></header>
-                                    <figure>Marketing Specialist</figure>
-                                    <hr>
+                                    <header><h2>Jane Stairway</h2></header>
+                                    <figure>Associate Professor</figure>
                                     <p class="quote">
-                                       Senior Lecturer School of Engineering and Computer Science
+                                       School of Engineering and Computer Science
                                     </p>
                                     <hr>
-                                    <div class="contact">
-                                        <strong>Contact Member</strong>
-                                        <div class="icons">
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                            <a href="#"><i class="fa fa-pinterest"></i></a>
-                                            <a href="#"><i class="fa fa-youtube-play"></i></a>
-                                        </div><!-- /.icons -->
-                                    </div>
                                     <h3>Biography</h3>
                                     <p>
-                                      Responsibilities
-
-I am the Head of School for the School of Engineering and Computer Science. I am also the permanent academic responsible for the Human-Computer Interaction group.
-Research Interests
-
-My research interests lie in
-information visualisation
-natural user interfaces (specifically touch-interfaces, gesture-interfaces and Kinect/Move-style interfaces)
-I am a member of the human-computer interaction research group, and I am currently supervising a range of thesis and honours students.
-Publications
-
-For a list of my recent publications, please see the Publications Database.
-Biography
-
-I completed my bachelor, masters and doctoral degrees at Victoria University of Wellington. My MSc and PhD theses were in the field of software reuse.
-
+                                     I have been connected to Artificial Intelligence for a very long time -- my father has been doing research in Machine Learning since the early 1960's.
+My first degree was in Electrical Engineering from the University of Canterbury (New Zealand). I then went to M.I.T. (Massachusetts Institute of Technology) and did a Masters (on a topic in complexity) and a PhD, in Machine Learning (finished in 1984).
+Since then I have been in Computer Science here at Victoria University of Wellington, first in the Department of Computer Science, then in the merged School of Mathematics, Statistics, and Computer Science, and now in the School of Engineering and Computer Science.
                                     </p>
-                                    <h3>Member's Courses</h3>
+                                    <h3>Courses</h3>
                                     <div class="table-responsive">
                                         <table class="table table-hover course-list-table tablesorter">
                                             <thead>
