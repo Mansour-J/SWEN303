@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li><a href="swen303-teacher.php">SWEN303 Home</a></li>
         <li class="active">Edit SWEN303 Assignment Marks</li>
     </ol>

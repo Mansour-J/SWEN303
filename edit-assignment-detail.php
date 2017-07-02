@@ -30,7 +30,8 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="swen303-student.php">SWEN303</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
+        <li><a href="swen303-student.php">SWEN303 Home</a></li>
         <li><a href="assignments.php">Assignments</a></li>
         <li class="active">Edit Assignment Detail</li>
     </ol>
@@ -75,12 +76,12 @@ Due dates, contribution to course marks, submission requirements etc are in the 
                                 </header>
                             </section>
                             <section id="assignment-content">
-                                <p>Describe the process you used to evaluate the ECS web presence:
-                                    <li>identify which inspection technique(s) you used: heuristic evaluation, cognitive walkthrough, and guideline review,</li>
-                                    <li>describe how you enacted each technique</li>
-                                    <li>reflect on what you found effective, ineffective, or difficult about the evaluation process.</li>
-                                    <li>compare and contrast techniques (if you used more than one.)</li>
-                                </p>
+                                <textarea>Describe the process you used to evaluate the ECS web presence:
+                                   identify which inspection technique(s) you used: heuristic evaluation, cognitive walkthrough, and guideline review,
+                                   describe how you enacted each technique
+                                  reflect on what you found effective, ineffective, or difficult about the evaluation process.
+                                  compare and contrast techniques (if you used more than one.)
+                                </textarea>
                             </section>
                                 <hr>
                             <section id="assignment-header">
@@ -89,11 +90,12 @@ Due dates, contribution to course marks, submission requirements etc are in the 
                                 </header>
                             </section>
                             <section id="assignment-content">
-                                <p>Choose nine usability problems that you have identified — pick the problems you think are the most important.<br>For each problem:
-                                    <li>briefly describe the problem (almost certainly using screen captures, diagrams, or sketches)</li>
-                                    <li>explain why it is a problem</li>
-                                    <li>discuss a potential remedy</li>
-                                </p>
+                                <textarea>Choose nine usability problems that you have identified — pick the problems you think are the most important.
+                                For each problem:
+                                    briefly describe the problem (almost certainly using screen captures, diagrams, or sketches)
+                                    explain why it is a problem
+                                    discuss a potential remedy
+                                </textarea>
                             </section>
                             <!-- /#assignment-content -->
                                             

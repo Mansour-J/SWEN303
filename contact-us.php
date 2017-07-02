@@ -9,6 +9,8 @@
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href="assets/css/font-awesome.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css">
+    
     <link rel="stylesheet" href="assets/css/selectize.css" type="text/css">
     <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
     <link rel="stylesheet" href="assets/css/vanillabox/vanillabox.css" type="text/css">
@@ -80,7 +82,7 @@ Wellington</span>
                                             <div class="input-group">
                                                 <div class="controls">
                                                     <label for="name">Your Name</label>
-                                                    <input type="text" name="name" id="name" required>
+                                                    <input  class = "subiput" type="text" name="name" id="name" required>
                                                 </div><!-- /.controls -->
                                             </div><!-- /.control-group -->
                                         </div><!-- /.col-md-4 -->
@@ -90,7 +92,7 @@ Wellington</span>
                                             <div class="input-group">
                                                 <div class="controls">
                                                     <label for="email">Your Email</label>
-                                                    <input type="email" name="email" id="email" required>
+                                                    <input class = "subiput1" type="email" name="email" id="email" required>
                                                 </div><!-- /.controls -->
                                             </div><!-- /.control-group -->
                                         </div><!-- /.col-md-4 -->
@@ -100,16 +102,39 @@ Wellington</span>
                                             <div class="input-group">
                                                 <div class="controls">
                                                     <label for="message">Your Message</label>
-                                                    <textarea name="message" id="message" required></textarea>
+                                                    <textarea  class = "subiput2" name="message" id="message" required></textarea>
                                                 </div><!-- /.controls -->
                                             </div><!-- /.control-group -->
-                                        </div><!-- /.col-md-4 -->
+
+                 </div><!-- /.col-md-4 -->
                                     </div><!-- /.row -->
                                     <div class="row">
                                         <div class="col-md-12">
                                         <div class="pull-right">
-                                            <input type="button" class="btn btn-color-primary" value="Send a Message" onclick="window.alert('Your message was sent successfully! Thank you!');location.reload();">
-                                        </div><!-- /.form-actions -->
+                                                                      
+                                                                       
+                                                                     <!-- Large modal -->
+<input  type="submit" id="submit" class="btn btn-color-primary "  data-target=".bs-example-modal-lg">
+
+<div class="modal fade bs-example-modal-lg" tabindex="-1" id="modal" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    
+    <div class="modal-content">
+        
+    <div class="modal-header">
+      <h1 style="font-size:30px;margin-bottom:-10px">Submission</h1>  
+    </div>
+    <br/>
+          <h1 class="changetext"  style="font-size:20px;  margin-left:100px">Your message has been sent.</h1>
+            <br/>
+    </div>
+  </div>
+</div>
+
+
+
+
+                                    </div><!-- /.form-actions -->
                                         </div><!-- /.col-md-4 -->
                                     </div><!-- /.row -->
                                     <div id="form-status"></div>
@@ -128,9 +153,11 @@ Wellington</span>
 </div>
 <!-- end Wrapper -->
 
+
+
 <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/js/selectize.min.js"></script>
 <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
@@ -141,6 +168,9 @@ Wellington</span>
 <script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
 
 <script type="text/javascript" src="assets/js/custom.js"></script>
+
+
+
 
 </body>
 </html>

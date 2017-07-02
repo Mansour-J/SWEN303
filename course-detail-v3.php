@@ -272,7 +272,7 @@
                                                 </div>
                                                 <div id="question-2" class="panel-collapse collapse">
                                                     <div class="panel-body">
-                                                      Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignmnets will be assessed and returned within 2 weeks after the submission dues date.
+                                                      Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignments will be assessed and returned within 2 weeks after the submission dues date.
                                                     </div>
                                                 </div>
                                             </div>

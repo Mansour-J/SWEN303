@@ -98,17 +98,21 @@ You can estimate your workload by adding up the number of points you'll be doing
                               <header><h2>Entry requirements</h2><header>
                                 <h4>To be accepted into this programme you'll need:</h4>
                                 <div>
+                                  <ul>
                                 <li>A Bachelor's degree with at least a B average</li>
                                 <li>To have met the prerequisites for the subject you wish to study (see subject section below)</li>
                                 <li>To be accepted by the head of the school as capable of proceeding with the proposed course of study</li>
+                                </ul>
                                 </div>
                             </div>
                             <p></p>
                             <div>
                               <header><h2>Important information</h2><header>
                                 <p>
+                                  <ul>
                                     <li>If you want to enrol in this programme but don't meet some of the entry requirements, you should contact the programme coordinator or administrator to discuss your options.</li>
                                     <li>The academic Calendar is the authoritative source of programme and course information.</li>
+                                    </ul>
                                 </p>
                             </div>
                             <p></p>
@@ -116,8 +120,10 @@ You can estimate your workload by adding up the number of points you'll be doing
                               <header><h2>Programme requirements</h2><header>
                                 <h4>For this programme you’ll need to:</h4>
                                 <div>
+                                    <ul>
                                 <li>Complete at least 120 points from 400- and 500-level courses</li>
                                 <li>Satisfy the subject requirements</li>
+                                  </ul>
                                 </div>
                             </div>
                             <p></p>
@@ -125,8 +131,10 @@ You can estimate your workload by adding up the number of points you'll be doing
                               <header><h2>Subject requirements</h2><header>
                                 <h4>For this subject you'll need to:</h4>
                                 <div>
+                                    <ul>
                                 <li>Have previously completed four courses from: COMP 300-399, NWEN 300-399, SWEN 300-399</li>
                                 <li>Complete courses worth 120 points from: COMP 400-489, NWEN 400-489, SWEN 400-489</li>
+                                  </ul>
                                 </div>
                             </div>
                             </section><!-- /#course-list -->
@@ -136,19 +144,23 @@ You can estimate your workload by adding up the number of points you'll be doing
                             <div>
                               <header><h2>Key dates</h2><header>
                                 <h4>Start Studying</h4>
-                                <div>
+                                <div>  <ul>
+                                  
                                 <li><b>2017 Trimester 2</b> Apply by Jan 1, 1970 to start studying 17 Jul 2017 Late application possible</li>
                                 <li><b>2018 Trimester 1</b> Apply by 20 Jan 2018 to start studying 5 Mar 2018</li>
                                 <li><b>2018 Trimester 2</b> Apply by 21 Jun 2018 to start studying 16 Jul 2018</li>
+                                  </ul>
                                 </div>
                             </div>
                             <div>
                               <header><h2>How to apply</h2><header>
                                 <h4>Before you apply, discuss your plans with the programme coordinator or another academic staff member.<br>To apply, you'll need to:</h4>
                                 <div>
+                                    <ul>
                                 <li>check you meet the entry requirements</li>
                                 <li>find out what admission type applies to you</li>
                                 <li>apply online.</li>
+                                  </ul>
                                 </div>
                             </div>
                             <div>
@@ -159,10 +171,12 @@ You can estimate your workload by adding up the number of points you'll be doing
                                         <header>AProf Marcus Frean</header>
                                         <figure>Programme Director - ICT Graduate School School of Engineering and Computer Science</figure>
                                         <div>
+                                            <ul>
                                         <li>marcus.frean@ecs.vuw.ac.nz</li>
                                         <li>+64 4 463 5672</li>
                                         <li>Room CO337, Cotton Building, Kelburn Campus, Wellington</li>
-                                        </div>
+                                          </ul>
+                                        </div> 
                                     </div>
                                 </article>
                             </div>

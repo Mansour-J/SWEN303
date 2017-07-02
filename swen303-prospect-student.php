@@ -29,7 +29,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li class="active">SWEN423 Home</li>
     </ol>
 </div>

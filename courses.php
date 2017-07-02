@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li class="active">Courses Homepages</li>
+        <li class="active">Course Homepages</li>
     </ol>
 </div>
 <!-- end Breadcrumb -->
@@ -43,7 +43,7 @@
             <div class="col-md-12">
                 <div id="page-main">
                     <section class="course-listing" id="courses">
-                        <header><h1>Courses Homepages</h1></header>
+                        <header><h1>Course Homepages</h1></header>
                         <section id="course-search">
                             <div class="course-search-box">
                                 <header><span class="fa fa-search"></span><h2>Find Course for You</h2></header>
@@ -105,8 +105,8 @@
                                     </tr>
                                     <tr>
                                         <th>SWEN423</th>
-                                        <th class="course-title"><a href="swen303-prospect-student.php">Object-Oriented </a></th>
-                                        <th class="course-category">Sofeware Engineering</th>
+                                        <th class="course-title"><a href="swen303-prospect-student.php">Object-Oriented</a></th>
+                                        <th class="course-category">Software Engineering</th>
                                         <th>18-07-2017</th>
                                         <th>Trimester 2</th>
                                     </tr>
@@ -143,21 +143,21 @@
                                         <th class="course-title"><a href="course-detail-v1.html">Computer Graphics Project</a></th>
                                         <th class="course-category">Graphic Design and 3D</th>
                                         <th>06-03-2017</th>
-                                        <th>1 month</th>
+                                        <th>Trimester 2</th>
                                     </tr>
                                     <tr>
                                         <th>SWEN437</th>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Computer Program Design</a></th>
                                         <th class="course-category">Computer Science</th>
                                         <th>21-03-2017</th>
-                                        <th>3 weeks</th>
+                                        <th>Trimester 2</th>
                                     </tr>
                                     <tr>
                                         <th>SWEN438</th>
                                         <th class="course-title"><a href="course-detail-v1.html">Introduction to Data Structures and Algorithms</a></th>
                                         <th class="course-category">Engineering</th>
                                         <th>06-04-2017</th>
-                                        <th>1 lesson</th>
+                                        <th>Trimester 2</th>
                                     </tr>
                                     </tbody>
                                 </table>

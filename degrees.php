@@ -53,8 +53,13 @@
                                         </header>
                                         <div class="additional-info">Faculty of Engineering</div>
                                         <div class="description">
-                                            <p>A local start up is praising Victoria University of Wellington’s Software Engineering programme for delivering hard to find job candidates. L R: Victoria University alumni Stephen Nelson, Tim Jones and Luke Inkster at Montoux. Montoux offers software that provides insights into life insurance companies’ products, pricing and profitability. The fast growing Wellington based business has clients in New ...
-                                            </p>
+                                            <p>The Bachelor of Engineering with Honours (BE(Hons)) is a four-year undergraduate professional degree with a focus on digital-based technology. You'll build a solid grounding in mathematics and science through the design and implementation of real-world systems.
+
+Gain the knowledge and skills to design and build exciting technology like autonomous robots, smartphone applications and computer games. Imagine and create new systems that are more energy efficient, safer and easier to use.
+
+You'll also get training in project management, entrepreneurship, ethics and sustainability and get the chance to put your skills into practice through research and development projects, and opportunities to work with industry.
+
+And when you graduate with your BE(Hons) you'll have a degree that is recognised all over the world, because it has full accreditation from the Institute of Professional Engineers New Zealand (IPENZ).      </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
@@ -68,8 +73,13 @@
                                         </header>
                                         <div class="additional-info">Faculty of Engineering</div>
                                         <div class="description">
-                                            <p>The School of Engineering and Computer Science (ECS) is delighted to welcome Dr Fanglue Zhang who has arrived from China to take up the position of computer graphics lecturer. Fanglue holds a doctoral degree from Tsinghua University where he subsequently spent two years as a post doctoral researcher. His research interests include computer graphics, computational photography, and image and video analysis ...
-                                            </p>
+                                            <p>The Bachelor of Science is a three-year undergraduate degree designed to inspire you and provide the skills and knowledge you need to work in one of the many exciting fields of science. Get your degree from the number-one ranked university in New Zealand for research quality.
+
+You'll absorb knowledge, observe phenomena, experiment with ideas and maybe even be part of making new discoveries. Scientific knowledge is powerful and reliable. It can be used to develop new technologies, treat diseases, protect the environment and address many other sorts of problems. Be part of something that can change the world for the better.
+
+At Victoria you can include subjects from outside science in your degree so you graduate with a broad education tailored to your aspirations.
+
+Follow your personal strengths and interests and choose from more than 20 specialist scientific areas that Victoria offers. </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
@@ -86,8 +96,7 @@
                                         </header>
                                         <div class="additional-info">Faculty of Science</div>
                                         <div class="description">
-                                            <p>Engineering and Computer Science graduates Glen Peek and John Gelbolingo were two of the innovative entrepreneurs who took part in the Victoria Entrepreneur Bootcamp Final Showcase recently, taking their smart business ideas from the whiteboard to the tech world with the help of Viclink, Victoria’ commercialisation office… It was the show that had it all—from romance and entertainment, to altruism ...
-                                            </p>
+                                            <p>Gain a more in-depth understanding of your scientific subject area and boost your career opportunities with a PGDipSc. The Diploma will take you one year of full-time study during which you'll further develop your skills in laboratory work, data analysis and scientific communication. The programme can also provide a pathway into Master's study. You'll take courses worth a total of 120 points, and with most subjects you can choose whether to include a 30-point research project. If you want to gain advanced scientific knowledge and have a B average in your subject area, then a PGDipSc is a good option for you. Victoria also offers a number of specialist postgraduate diplomas. If you don't have the required background for entry into these programmes, you could do a Graduate Diploma in Science instead.    </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
@@ -101,8 +110,11 @@
                                         </header>
                                         <div class="additional-info">Faculty of Engineering</div>
                                         <div class="description">
-                                            <p>It’s very important for students to get involved with all aspects of academic life as early as possible. Arrange study groups, come to the evening tutorials, and make the most of all the resources available to you, and you’ll hit the ground running. It’s a lot harder to catch up than to stay on top of things, so don’t wait until a small problem becomes a big problem. We are always happy to see students who need help, want to learn more, or just want to chat.
-                                            </p>
+                                            <p>The Master of Engineering (ME) is a sought-after professional qualification in engineering and an excellent next step for Bachelor of Engineering with Honours BE(Hons) graduates.
+
+The ME programme provides an opportunity to carry out a significant piece of research in engineering.
+
+Entry to the programme usually requires a BE(Hons) degree with first or second class honours from Victoria University or equivalent. </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
@@ -119,8 +131,11 @@
                                         </header>
                                         <div class="additional-info">Faculty of Science</div>
                                         <div class="description">
-                                            <p>I also work closely with our ECS Pastoral Support Manager, Craig Watterson. If it all gets too much, he is your first port of call and also your most important contact in your first year, so you should get to know him as soon as possible. If you need academic help, he will refer you to me or another one of our tutors. If it’s something else bothering you or one of your friends, he will work with you to find a solution that you are happy with.
-                                            </p>
+                                            <p>The Master of Software Development is a one-year 180 point Master’s degree delivered through a combination of course work and an in-work (industry placement) research and development project.
+
+It is a graduate programme designed to equip students from a range of backgrounds with an industry focused qualification that prepares them to develop real-world software-based systems.
+
+The degree may appeal to graduates who are seeking employment in the IT industry.  </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
@@ -134,8 +149,9 @@
                                         </header>
                                         <div class="additional-info">Faculty of Science</div>
                                         <div class="description">
-                                            <p>In your college maths and science classes, you probably came across some pretty hard problems. But the exam problems were always the same as the assignment problems and the examples in class. At university, the test and exam problems may use the same concepts as the assignment problems, but they will be quite different. So new students also have to make the transition from remembering solutions to inventing solutions themselves. But once you’ve solved some problems yourself, you’ll really want to solve more – it’s addictive!
-                                            </p>
+                                            <p>Enhance your career with a Master of Computer Science (MCompSc). This flexible coursework and project-based programme will put you at the forefront of innovation in a rapidly developing industry.
+
+Gain specialist knowledge of computer science theories, methods and strategy, and build on your skills in computing architecture, construction, engineering and design.  </p>
                                         </div>
                                         <a href="degree-detail.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>

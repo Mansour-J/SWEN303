@@ -109,7 +109,7 @@ Normally students complete this in the summer breaks after their second and thir
     </div><!-- /.container -->
 </div>
 <!-- Footer -->
-<?php include 'footer.php';?>
+
 <!-- end Footer -->
 <!-- end Page Content -->
 </div>
@@ -136,4 +136,4 @@ Normally students complete this in the summer breaks after their second and thir
 <script type="text/javascript" src="assets/js/custom.js"></script>
 
 </body>
-</html>
+</html>

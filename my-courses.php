@@ -68,8 +68,8 @@
                                         <th>E120</th>
                                     </tr>
                                     <tr class="status-in-progress">
-                                        <th class="course-title"><a href="#">Web Design</a></th>
-                                        <th>SWEN434</th>
+                                        <th class="course-title"><a href="/swen303-student.php">User Interface Design</a></th>
+                                        <th>SWEN303</th>
                                         <th>06-03-2017</th>
                                         <th class="status"><i class="fa fa-clock-o"></i>In progress</th>
                                         <th>10:00 am - 10:50 am</th>

@@ -31,23 +31,23 @@
 <div id="homepage-carousel">
     <div class="container">
         <div class="homepage-carousel-wrapper" >
-            <div class="row"><a href="staff.php">
+            <div class="row">
                 <div class="col-md-6 col-sm-7" style="margin-top:-29px;">
                     <div class="image-carousel">
-                        <div class="image-carousel-slide"><img src="assets/img/slide-1.jpg" alt=""></div>
+                       <a href="staff.php"> <div class="image-carousel-slide"><img src="assets/img/slide-1.jpg" alt=""></div></a>
                         <div class="image-carousel-slide"><img src="assets/img/slide-2.jpg" alt=""></div>
                         <div class="image-carousel-slide"><img src="assets/img/slide-3.jpg" alt=""></div>
                     </div><!-- /.slider-image -->
-                </div><!-- /.col-md-6 --></a>
+                </div><!-- /.col-md-6 -->
                 <div class="col-md-6 col-sm-5">
                     <div class="slider-content">
                         <div class="row">
                             <div class="col-md-12">
                   
               <div> <a href="contact-us.php"><h1>  School of    </h1></div>
-                <div style="margin-top:-40px" >   <h3 style="font-weight:bold"> Engineering and Computer Science</h3>  </div>
+                <div style="margin-top:-40px" >   <h3 style="font-weight:bold; color: white"> Engineering and Computer Science</h3>  </div>
                    <img src="assets/img/logo.svg" class="App-logo" alt="logo" />
-                 <div>    <small lang="mi">Te Kura Mātai Pūkaha, Pūrorohiko</small></a></div>
+                 <div>    <small lang="mi" style="font-weight:bold; color: white">Te Kura Mātai Pūkaha, Pūrorohiko</small></a></div>
             
                            
                             </div><!-- /.col-md-12 -->
@@ -138,11 +138,11 @@
             <div class="col-md-4 col-sm-12">
                 <section id="about">
                     <header>
-                        <h2>About Victoria</h2>
+                        <h2>About School of  Engineering and Computer Science</h2>
                     </header>
                     <div class="section-content">
                         <img src="assets/img/students.jpg" alt="" class="add-margin">
-                        <p><strong>Welcome o Victoria.</strong>Find out more about Victoria University of Wellington, New Zealand’s globally ranked capital city university, and all that it has to offer. </p>
+                        <p>Victoria’s School of Engineering and Computer Science (ECS) prepares students for successful careers at the forefront of new and exciting global technology. </p>
                         <a href="about-us.php" class="read-more stick-to-bottom">Read More</a>
                     </div><!-- /.section-content -->
                 </section><!-- /.about -->
@@ -288,8 +288,8 @@ Our innovative and flexible programmes will prepare you for successful careers a
                                     </header>
                                     <a href="staff-detail.php" class="show-profile">Show Profile</a>
                                 </aside>
-                            </article><!-- /.professor-thumbnail -->
-                            <a href="staff.php" class="read-more stick-to-bottom">All Staff</a>
+                            </article><!-- /.professor-thumbnail --><br/>
+                            <a href="staff.php" class="read-more stick-to-bottom" style="margin-top:10px">All Staff</a>
                         </div><!-- /.professors -->
                     </div><!-- /.section-content -->
                 </section><!-- /.our-professors -->
@@ -317,7 +317,7 @@ Our innovative and flexible programmes will prepare you for successful careers a
                             <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-13.jpg" alt=""></a></li>
                             <li><a href="assets/img/slide-1.jpg" class="image-popup"><img src="assets/img/image-14.jpg" alt=""></a></li>
                         </ul>
-                        <a href="#" class="read-more">Go to Gallery</a>
+                       
                     </div><!-- /.section-content -->
                 </section><!-- /.gallery -->
             </div><!-- /.col-md-4 -->

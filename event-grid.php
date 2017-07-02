@@ -130,7 +130,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <article class="event">
                                     <figure class="date">
-                                        <div class="month">Apl</div>
+                                        <div class="month">Apr</div>
                                         <div class="day">17</div>
                                     </figure>
                                     <aside>

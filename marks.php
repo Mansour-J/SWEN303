@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li><a href="swen303-student.php">SWEN303 Home</a></li>
         <li class="active">Marks</li>
     </ol>
@@ -59,17 +59,17 @@
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th class="course-title"><a href="submit-assignment.php">Assignment 1 </a></th>
+                                        <th class="course-title"><a href="">Assignment 1 </a></th>
                                         <th class="course-category"><a href="mark-details.php">A+ </a></th>
                                         <th>Graded</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="submit-assignment.php">Assignment 2</a></th>
+                                        <th class="course-title"><a href="">Assignment 2</a></th>
                                         <th class="course-category">Pending</th>
                                         <th>Submitted</th>
                                     </tr>
                                     <tr>
-                                        <th class="course-title"><a href="submit-assignment.php">Assignment 3</a></th>
+                                        <th class="course-title"><a href="">Assignment 3</a></th>
                                         <th class="course-category">Pending</th>
                                         <th>Due 06-07-2017</th>
                                     </tr>

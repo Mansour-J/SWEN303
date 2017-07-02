@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li><a href="swen303-teacher.php">SWEN303 Home</a></li>
         <li class="active">Edit Course Info</li>
     </ol>
@@ -67,8 +67,8 @@
                                             <div class="row">
                                                 <div class="col-md-12">
                                                     <div class="input-group">
-                                                        <div class="controls">
-                                                        <button type="submit" class="btn pull-right">Submit</button>
+                                                        <div class="center">
+                                                        <button type="button" class="btn pull-right" onclick="window.alert('New course Information was submitted!'); window.location.href='/swen303-teacher.php'">Submit</button>
                                                         <button type="button" class="btn pull-right">Reset</button>
                                                         <button type="button" class="btn pull-right" onclick="window.location.href='/swen303-teacher.php'">Cancel</button>
                                                         </div><!-- /.controls -->

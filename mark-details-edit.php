@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li><a href="swen303-teacher.php">SWEN303 Home</a></li>
         <li class="active">Edit SWEN303 Assignment Marks</li>
     </ol>
@@ -57,7 +57,7 @@
       
       <div class="panel panel-success">
         <div class="panel-heading collapsed" role="tab" id="headingSWEN30320171Assignment_1" data-toggle="collapse" data-parent="#accordionSWEN30320171" data-target="#collapseSWEN30320171Assignment_1" aria-expanded="false" aria-controls="collapseSWEN30320171Assignment_1">
-          <h3 class="panel-title"><b>Assignment_1</b><button type="submit" class="btn pull-right">Edit</button></h3> 
+          <h3 class="panel-title"><b>Question_1</b><button type="submit" class="btn pull-right">Edit</button></h3> 
         </div>
         <div id="collapseSWEN30320171Assignment_1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSWEN30320171Assignment_1" aria-expanded="false" style="height: 0px;">
           <div class="panel-body">
@@ -103,7 +103,7 @@
       
       <div class="panel panel-success">
         <div class="panel-heading collapsed" role="tab" id="headingSWEN30320171Assignment_2" data-toggle="collapse" data-parent="#accordionSWEN30320171" data-target="#collapseSWEN30320171Assignment_2" aria-expanded="false" aria-controls="collapseSWEN30320171Assignment_2">
-          <h3 class="panel-title"><b>Assignment_2</b><button type="submit" class="btn pull-right">Edit</button></h3>
+          <h3 class="panel-title"><b>Question_2</b><button type="submit" class="btn pull-right">Edit</button></h3>
         </div>
         <div id="collapseSWEN30320171Assignment_2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSWEN30320171Assignment_2" aria-expanded="false" style="height: 0px;">
           <div class="panel-body">
@@ -150,7 +150,7 @@
       
       <div class="panel panel-success">
         <div class="panel-heading collapsed" role="tab" id="headingSWEN30320171Assignment_3" data-toggle="collapse" data-parent="#accordionSWEN30320171" data-target="#collapseSWEN30320171Assignment_3" aria-expanded="false" aria-controls="collapseSWEN30320171Assignment_3">
-          <h3 class="panel-title"><b>Assignment_3</b><button type="submit" class="btn pull-right">Edit</button></h3>
+          <h3 class="panel-title"><b>Question_3</b><button type="submit" class="btn pull-right">Edit</button></h3>
         </div>
         <div id="collapseSWEN30320171Assignment_3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSWEN30320171Assignment_3" aria-expanded="false" style="height: 0px;">
           <div class="panel-body">

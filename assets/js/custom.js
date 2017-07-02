@@ -143,15 +143,42 @@ $(document).ready(function($) {
 //  Contact Form with validation
 
     $("#submit").bind("click", function(event){
-        $("#contactform").validate({
+        console.log(event) ;
+        
+     if ( $('.subiput').val()==''){
+          console.log("ee");     $('#modal').modal('hide')  ;   //$('#modal').modal('hide');
+              $("#contactform").validate({
             submitHandler: function() {
                 $.post("contact.php", $("#contactform").serialize(),  function(response) {
                     $('#form-status').html(response);
                     $('#submit').attr('disabled','true');
+                                
                 });
                 return false;
             }
         });
+         
+     }   
+       
+           if ( $('.subiput').val()!='') {  $('#modal').modal('show')  ;
+   setTimeout(function(){ 
+               
+            location.reload();
+               
+               
+               
+           }, 2000);
+       return;  
+     }
+     
+            $('.subiput').val('');
+                  $('.subiput1').val('');
+             $('.subiput2').val('');
+
+
+
+        
+   
     });
 
 //  Vanilla Box
@@ -193,3 +220,4 @@ if (typeof _date != 'undefined') { // run function only if _date is defined
         }
     });
 }
+

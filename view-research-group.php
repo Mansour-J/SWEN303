@@ -75,7 +75,7 @@
                                     </header>
                                     <div class="additional-info"> Pitt Rivers and Natural History Museums</div>
                                     <div class="description">
-                                        <p>The Cloud Research Group is conducting research into cloud related areas of distributed computing, including, services and service oriented architectures, workflows, cloud computing markets, resource allocation, high performance computing, scientific computation, eResearch and the associated topics of social computing and reputation.
+                                        <p>The Cloud Research Group is conducting research into cloud related areas of distributed computing, including, services and service oriented architectures, workflows, cloud computing markets, resource allocation, high performance computing, scientific computation and the associated topics of social computing and reputation.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>
@@ -93,7 +93,7 @@
                                     </header>
                                     <div class="additional-info"> Faculty of Science</div>
                                     <div class="description">
-                                        <p>The CaSP group focuses on the development and application of signal processing techniques. The areas of application include physical layer wireless communications, audio and acoustics, control systems and biomedical devices. Specific research topics we work on include cognitive radio, multichannel systems, wireless channel modelling, audio coding, blind source separation, target tracking, nonlinear system identification and image processing.
+                                        <p>The CaSP group focuses on the development and application of signal processing techniques. The areas of application include physical layer wireless communications, audio and acoustics, control systems and biomedical devices. Specific research topics we work on include cognitive radio, multi-channel systems, wireless channel modelling, audio coding, blind source separation, target tracking, nonlinear system identification and image processing.
                                         </p>
                                     </div>
                                     <a href="#" class="btn btn-framed btn-color-grey btn-small">View Details</a>

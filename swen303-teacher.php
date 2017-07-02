@@ -29,7 +29,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li class="active">SWEN432 Home</li>
     </ol>
 </div>
@@ -88,7 +88,7 @@ Integrate user interface design techniques into the general software engineering
                                 <header><h2>Submission</h2></header>
                                 
                              <p>   
-                             Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignmnets will be assessed and returned within 2 weeks after the submission dues date.
+                             Assignments will be handed out in lectures. You will find all necessary information about assignments and files needed at Assignments course page. Assignments should be submitted electronically. In principle, all assignments will be assessed and returned within 2 weeks after the submission dues date.
                                </p>
                             
                             </section><!-- /#course-brief -->
@@ -124,7 +124,7 @@ Integrate user interface design techniques into the general software engineering
                                                 <header><h4>Week 2:</h4></header>
                                                 <ul class="schedule-list">
                                                     <li>
-                                                        <h5>Day 1:</h5>
+                                                        <h5>Day 3:</h5>
                                                         <p class="description">
                                                           Understand relation between testing and verification and manage their relative costs and benefits (BE graduate attributes 3(a), 3(d), 3(f)).
                                                         </p>
@@ -135,13 +135,13 @@ Integrate user interface design techniques into the general software engineering
                                                 <header><h4>Week 3:</h4></header>
                                                 <ul class="schedule-list">
                                                     <li>
-                                                        <h5>08:00 am:</h5>
+                                                        <h5>Day 4:</h5>
                                                         <p class="description">
                                                             Write SPARK Ada programs and either prove properties or test the code to A high degree of code coverage.
                                                         </p>
                                                     </li>
                                                     <li>
-                                                        <h5>11:00 am:</h5>
+                                                        <h5>Day 5:</h5>
                                                         <p class="description">
                                                           Understand the Object Oriented Model used by Ada.
                                                         </p>
@@ -155,7 +155,7 @@ Integrate user interface design techniques into the general software engineering
                                         <section class="course-schedule">
                                             <article class="course-schedule-block">
                                                 <header><h4>Lecture 1:</h4></header>
-                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Introduce</a>
+                                                <a href="https://www.youtube.com/watch?list=PLy0xM2o6SJY5JXZST_nMrCTvYUyAoKnOy&v=VkKY9KKaFFY">Introduction</a>
                                             </article>
                                             <article class="course-schedule-block">
                                                 <header><h4>Lecture 2:</h4></header>

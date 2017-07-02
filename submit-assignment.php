@@ -30,7 +30,7 @@
 <div class="container">
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
-        <li><a href="courses.php">Courses Homepages</a></li>
+        <li><a href="courses.php">Course Homepages</a></li>
         <li><a href="swen303-student.php">SWEN303 Home</a></li>
         <li><a href="submissionpage.php">Submission</a></li>
         <li class="active">Submit Assignment1</li>
@@ -53,7 +53,27 @@
             </div>
             <div class="col-md-6">
             <table class="table table-hover course-list-table tablesorter">
-                <thead><tr><th><h3><b>Submission Status</b></h3> </th><th><button type="submit" class="btn pull-right">Complete submission</button></th></tr></thead>
+                <thead><tr><th><h3><b>Submission Status</b></h3> </th><th>
+                    
+              
+                    <!-- Large modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Complete Submission</button>
+
+<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+        
+    <div class="modal-header">
+      <h1 style="font-size:30px;margin-bottom:-10px">Submission</h1>  
+    </div>
+    <br/>
+          <h1 class="changetext"  style="font-size:20px;  margin-left:100px">Your submission is completed.</h1>
+            <br/>
+    </div>
+  </div>
+</div>
+         
+                    </th></tr></thead>
                 <tr><td><h4>Completed on 02/04/2017 22:26:29 </h4></td><td></td></tr>
             </table>
             </div>
